@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-04 02:11",
+ "generated_ict": "2026-11-04 06:06",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2904,26 +2904,34 @@
    },
    {
     "time": "06:00",
+    "clip": "",
+    "title": "",
+    "state": "漏发"
+   },
+   {
+    "time": "09:00",
     "clip": "billionaire_mother/clip_001.mp4",
     "title": "Her own family slammed the door. So she lifted crates.",
     "state": "待发"
    },
    {
-    "time": "09:00",
+    "time": "12:00",
     "clip": "surf_god/clip_001.mp4",
     "title": "A sea hag cursed a god. Her price? Her daughter.",
-    "state": "待发"
-   },
-   {
-    "time": "12:00",
-    "clip": "alpha/clip_001.mp4",
-    "title": "Her father called her a liar. She has the scars.",
     "state": "待发"
    }
   ],
   "queued": 40
  },
  "alerts": [
+  [
+   "missed",
+   "11-04 06:00 时段已过，没有发布记录"
+  ],
+  [
+   "missed",
+   "out/billionaire_mother/clip_001.mp4 排期 11-04 06:00 已过，状态仍是 planned"
+  ],
   [
    "ok",
    "安全验证/封禁：无记录（来自 alerts.json 和 schedule.csv）"
