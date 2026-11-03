@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-03 17:25",
+ "generated_ict": "2026-11-03 17:48",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2522,6 +2522,261 @@
    "thumb": "media/virgin_sacrifice__clip_004_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_004_preview.mp4",
    "note": ""
+  },
+  {
+   "key": "agent_shadows/clip_001.mp4",
+   "drama": "agent_shadows",
+   "clip_file": "agent_shadows/clip_001.mp4",
+   "duration_s": "90.0",
+   "title": "They took him for a bartender. Wrong guy.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/agent_shadows__clip_001_thumb.jpg",
+   "preview": "media/agent_shadows__clip_001_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "agent_shadows/clip_002.mp4",
+   "drama": "agent_shadows",
+   "clip_file": "agent_shadows/clip_002.mp4",
+   "duration_s": "90.0",
+   "title": "A DNA test, 8 years late. Then a little girl opens the door.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/agent_shadows__clip_002_thumb.jpg",
+   "preview": "media/agent_shadows__clip_002_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "billionaire_mother/clip_001.mp4",
+   "drama": "billionaire_mother",
+   "clip_file": "billionaire_mother/clip_001.mp4",
+   "duration_s": "60.5",
+   "title": "Her own family slammed the door. So she lifted crates.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/billionaire_mother__clip_001_thumb.jpg",
+   "preview": "media/billionaire_mother__clip_001_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "billionaire_mother/clip_002.mp4",
+   "drama": "billionaire_mother",
+   "clip_file": "billionaire_mother/clip_002.mp4",
+   "duration_s": "88.0",
+   "title": "She hid the wound from her son. Now he runs an empire.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/billionaire_mother__clip_002_thumb.jpg",
+   "preview": "media/billionaire_mother__clip_002_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "billionaire_mother/clip_003.mp4",
+   "drama": "billionaire_mother",
+   "clip_file": "billionaire_mother/clip_003.mp4",
+   "duration_s": "80.5",
+   "title": "Told to wait in the bathroom. She was waiting for her son.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/billionaire_mother__clip_003_thumb.jpg",
+   "preview": "media/billionaire_mother__clip_003_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "billionaire_mother/clip_004.mp4",
+   "drama": "billionaire_mother",
+   "clip_file": "billionaire_mother/clip_004.mp4",
+   "duration_s": "87.4",
+   "title": "The bracelet was her son's gift. They called security.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/billionaire_mother__clip_004_thumb.jpg",
+   "preview": "media/billionaire_mother__clip_004_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "homegirls/clip_001.mp4",
+   "drama": "homegirls",
+   "clip_file": "homegirls/clip_001.mp4",
+   "duration_s": "79.0",
+   "title": "Her husband's ex came to the wedding. Bad sign.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/homegirls__clip_001_thumb.jpg",
+   "preview": "media/homegirls__clip_001_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "homegirls/clip_002.mp4",
+   "drama": "homegirls",
+   "clip_file": "homegirls/clip_002.mp4",
+   "duration_s": "90.0",
+   "title": "Locked in a fire on her anniversary. He said: \"Not funny.\"",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/homegirls__clip_002_thumb.jpg",
+   "preview": "media/homegirls__clip_002_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "homegirls/clip_003.mp4",
+   "drama": "homegirls",
+   "clip_file": "homegirls/clip_003.mp4",
+   "duration_s": "90.0",
+   "title": "Their husbands went viral as heroes. The wives filed for divorce.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/homegirls__clip_003_thumb.jpg",
+   "preview": "media/homegirls__clip_003_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "sea_god/clip_007.mp4",
+   "drama": "sea_god",
+   "clip_file": "sea_god/clip_007.mp4",
+   "duration_s": "86.0",
+   "title": "He beat a sea monster. The princess proposed. He's married.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/sea_god__clip_007_thumb.jpg",
+   "preview": "media/sea_god__clip_007_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "sea_god/clip_008.mp4",
+   "drama": "sea_god",
+   "clip_file": "sea_god/clip_008.mp4",
+   "duration_s": "90.0",
+   "title": "Her ex brought roses. Her husband brought honey cake.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/sea_god__clip_008_thumb.jpg",
+   "preview": "media/sea_god__clip_008_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "sea_god/clip_009.mp4",
+   "drama": "sea_god",
+   "clip_file": "sea_god/clip_009.mp4",
+   "duration_s": "87.0",
+   "title": "He saved the whole fleet. The navy took the credit.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/sea_god__clip_009_thumb.jpg",
+   "preview": "media/sea_god__clip_009_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "sea_god/clip_010.mp4",
+   "drama": "sea_god",
+   "clip_file": "sea_god/clip_010.mp4",
+   "duration_s": "72.0",
+   "title": "He tore out his own scales for her. She never knew.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/sea_god__clip_010_thumb.jpg",
+   "preview": "media/sea_god__clip_010_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "surf_god/clip_005.mp4",
+   "drama": "surf_god",
+   "clip_file": "surf_god/clip_005.mp4",
+   "duration_s": "84.5",
+   "title": "He pulled a man from a shark. His only ask: help his wife.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/surf_god__clip_005_thumb.jpg",
+   "preview": "media/surf_god__clip_005_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "surf_god/clip_006.mp4",
+   "drama": "surf_god",
+   "clip_file": "surf_god/clip_006.mp4",
+   "duration_s": "90.0",
+   "title": "Her ex is back in town. On their anniversary.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/surf_god__clip_006_thumb.jpg",
+   "preview": "media/surf_god__clip_006_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "surf_god/clip_007.mp4",
+   "drama": "surf_god",
+   "clip_file": "surf_god/clip_007.mp4",
+   "duration_s": "90.0",
+   "title": "She skipped their anniversary to surf with her ex.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/surf_god__clip_007_thumb.jpg",
+   "preview": "media/surf_god__clip_007_preview.mp4",
+   "note": ""
+  },
+  {
+   "key": "surf_god/clip_008.mp4",
+   "drama": "surf_god",
+   "clip_file": "surf_god/clip_008.mp4",
+   "duration_s": "88.0",
+   "title": "He built her a board. She picked her ex's sponsor.",
+   "fb_caption_ready": "yes",
+   "qa_ok": "yes",
+   "status": "剪好",
+   "post_url": "",
+   "scheduled_time_ict": "",
+   "thumb": "media/surf_god__clip_008_thumb.jpg",
+   "preview": "media/surf_god__clip_008_preview.mp4",
+   "note": ""
   }
  ],
  "schedule": [
@@ -2546,30 +2801,30 @@
   "slots": [
    {
     "time": "02:00",
-    "clip": "roaming/clip_001.mp4",
-    "title": "His father called him worthless. Big mistake.",
+    "clip": "virgin_sacrifice/clip_001.mp4",
+    "title": "The God of War wants a new sacrifice: her.",
     "state": "待发"
    },
    {
     "time": "06:00",
-    "clip": "sea_god/clip_002.mp4",
-    "title": "They called him useless. Next stop: the Devil's Triangle.",
-    "state": "待发"
-   },
-   {
-    "time": "09:00",
     "clip": "surf_god/clip_001.mp4",
     "title": "A sea hag cursed a god. Her price? Her daughter.",
     "state": "待发"
    },
    {
+    "time": "09:00",
+    "clip": "alpha/clip_001.mp4",
+    "title": "Her father called her a liar. She has the scars.",
+    "state": "待发"
+   },
+   {
     "time": "12:00",
-    "clip": "sea_god/clip_003.mp4",
-    "title": "He saved a god as a boy. Now he wants the favor back.",
+    "clip": "virgin_sacrifice/clip_003.mp4",
+    "title": "Her sister cast a spell. Now the gods are angry.",
     "state": "待发"
    }
   ],
-  "queued": 27
+  "queued": 44
  },
  "alerts": [
   [
@@ -2578,7 +2833,7 @@
   ],
   [
    "ok",
-   "库存 27 条排队，约 6.8 天"
+   "库存 44 条排队，约 11.0 天"
   ]
  ],
  "competitors": {
@@ -2587,7 +2842,7 @@
   "dramas": {
    "triplets": {
     "title": "The Triplets' Final Regret",
-    "accounts_estimate": "约41（37 个已知账号 + 4 条账号未显示）",
+    "accounts_estimate": "~22",
     "accounts": [
      "Arbor Quarry Theater (Dailymotion)",
      "Aurora Creek Tales (Dailymotion)",
@@ -2747,7 +3002,7 @@
      }
     ],
     "saturation": "高",
-    "conclusion": "竞争高：可见 64 条/约41（37 个已知账号 + 4 条账号未显示） 个账号（Dailymotion 26, YouTube 23, TikTok 14, Bilibili 1），≤3分钟短切片 31 条/17 个账号；最高播放 155.7K；站内热度 223617427 read_count(站内播放数)；我们的 clip_004 与竞品标题角度重合",
+    "conclusion": "FB 站内：账号 ~22 · 最高播放 7.6万 SnapDrama 8:19 合辑 · 饱和度 高（Drama Box 1–3 分钟单集 4.2–6.8万；18/35 挂链接，含 reelslink 同行）｜公开搜索：高",
     "queries": [
      "\"The Triplets' Final Regret\" reelshort",
      "The Triplets Final Regret",
@@ -2759,11 +3014,16 @@
      "TikTok 话题发现页 https://www.tiktok.com/discover/the-triplets-final-regret-20-episodes （免登录搜索快照，页面写 Last updated 2026-10-26）可见帖子数字原样：1.1M、742.5K、168.5K（Episode 15 帖）、151.2K、144.5K（Episode 20 帖）；单帖链接无数据",
      "该页 EP.20 帖子账号 AI DREAM，文案里带 reelslink.com/cps 链接 → 也有其他 CPS 推广号在推这部",
      "竞品用到的片段：EP8/11/12/15/20/32 单集切片（被抛弃→离开→三兄弟后悔）；全集合辑标题常用『Choosing Night School Over Those Who Abandoned Her』（Dailymotion Short Drama Zone 119.6K）→ 与我们 clip_004（转去 Night School）角度重合，已改钩子"
-    ]
+    ],
+    "source": "FB 站内",
+    "web_saturation": "高",
+    "web_accounts_estimate": "约41（37 个已知账号 + 4 条账号未显示）",
+    "fb_top_views": "7.6万 SnapDrama 8:19 合辑",
+    "fb_note": "Drama Box 1–3 分钟单集 4.2–6.8万；18/35 挂链接，含 reelslink 同行"
    },
    "roaming": {
     "title": "Roaming the World Untamed",
-    "accounts_estimate": "约23（18 个已知账号 + 5 条账号未显示）",
+    "accounts_estimate": "~17",
     "accounts": [
      "BlazeBabe Chronicles (YouTube)",
      "Coffee Drama (YouTube)",
@@ -2830,7 +3090,7 @@
       "title": "Roaming the World Untamed #reelshort",
       "duration": "2:44:29",
       "metric_shown": "",
-      "age": "3 weeks ago",
+      "age": "4 weeks ago",
       "moment": {
        "kind": "全集/合辑(>10分钟)",
        "desc": "（标题只有剧名/标签，看不出片段）"
@@ -2871,8 +3131,8 @@
      "The Disgraced Son Is the Last Dragon Speaker!"
     ],
     "overlap_with_our_clips": [],
-    "saturation": "中",
-    "conclusion": "竞争中：可见 23 条/约23（18 个已知账号 + 5 条账号未显示） 个账号（YouTube 20, Dailymotion 2, Bilibili 1），≤3分钟短切片 0 条/0 个账号；最高播放 5.5K；站内热度 71228140 read_count(站内播放数)",
+    "saturation": "高",
+    "conclusion": "FB 站内：账号 ~17 · 最高播放 24万 Isprikitik Ep10 2:24 · 饱和度 高（21/35 带链接）｜公开搜索：中",
     "queries": [
      "\"Roaming the World Untamed\" reelshort",
      "Roaming the World Untamed",
@@ -2884,11 +3144,16 @@
      "Bing 网页摘要：YouTube 播放列表 https://www.youtube.com/playlist?list=PLY1MnFfls3N8 里『Sovereign Named Him Dragon Speaker. Then They Challenged Him』SceneClip 112K（摘要原样，单位未注明）",
      "WebSearch 提到 Facebook 上有 Episode 4、Episode 6 帖子，链接/播放无数据",
      "竞品角度：『Dragon Speaker / 被低估的龙之选民』身份揭晓（多为 2 小时以上全集），与我们 clip_002/003（龙养大、装傻）题材接近但不是同一条短切片"
-    ]
+    ],
+    "source": "FB 站内",
+    "web_saturation": "中",
+    "web_accounts_estimate": "约23（18 个已知账号 + 5 条账号未显示）",
+    "fb_top_views": "24万 Isprikitik Ep10 2:24",
+    "fb_note": "21/35 带链接"
    },
    "sea_god": {
     "title": "The Sea God's Disguise: Fishing for Love",
-    "accounts_estimate": "约2（人工：JayReels 等 YouTube 全集号 + 1 个 Bilibili）",
+    "accounts_estimate": "~18",
     "accounts": [],
     "posts_found": 0,
     "platforms": {},
@@ -2900,8 +3165,8 @@
      "无数据"
     ],
     "overlap_with_our_clips": [],
-    "saturation": "低",
-    "conclusion": "竞争低（人工）：自动搜索无数据；人工只找到 YouTube 全集合辑（JayReels 1:56:03，10/19 上传，播放无数据）和 1 个 Bilibili 全集，未见短切片；站内热度 54205372 read_count",
+    "saturation": "高",
+    "conclusion": "FB 站内：账号 ~18 · 最高播放 6.7万 合辑 · 饱和度 高（大量 0:10 短切，28/28 带链接）｜公开搜索：低",
     "queries": [
      "\"The Sea God's Disguise: Fishing for Love\" reelshort",
      "The Sea Gods Disguise Fishing for Love",
@@ -2913,11 +3178,16 @@
      "reelseries.app/series/the-sea-god-s-disguise-fishing-for-love 列出 YouTube 全集：JayReels 1:56:03；另有 2:06:36『She Dumped the Sea God… Now She's Begging Him to Stay!』、2:09:33、1:13:02『The three years are up, and I am free again.』— 都是合辑，播放数无数据",
      "Bilibili：https://www.bilibili.tv/en/video/4801409696274944（播放无数据）",
      "竞品角度：合约到期离开/前妻求复合（后期剧情），与我们 ep01-04 片段不重合"
-    ]
+    ],
+    "source": "FB 站内",
+    "web_saturation": "低",
+    "web_accounts_estimate": "约2（人工：JayReels 等 YouTube 全集号 + 1 个 Bilibili）",
+    "fb_top_views": "6.7万 合辑",
+    "fb_note": "大量 0:10 短切，28/28 带链接"
    },
    "surf_god": {
     "title": "Surf God's Revenge",
-    "accounts_estimate": "约5（0 个已知账号 + 5 条账号未显示）",
+    "accounts_estimate": "~19",
     "accounts": [],
     "posts_found": 5,
     "platforms": {
@@ -3004,8 +3274,8 @@
      "无数据（标题多为全集合辑/只有剧名，看不出具体片段）"
     ],
     "overlap_with_our_clips": [],
-    "saturation": "低",
-    "conclusion": "竞争低：可见 5 条/约5（0 个已知账号 + 5 条账号未显示） 个账号（YouTube 2, Dailymotion 2, Bilibili 1），≤3分钟短切片 0 条/0 个账号；最高播放 无数据；站内热度 44333239 read_count(站内播放数)",
+    "saturation": "中",
+    "conclusion": "FB 站内：账号 ~19 · 最高播放 1.9万 · 饱和度 中（全是 <3 分钟短切）｜公开搜索：低",
     "queries": [
      "\"Surf God's Revenge\" reelshort",
      "Surf Gods Revenge",
@@ -3015,45 +3285,21 @@
     "errors": [],
     "notes": [
      "只见 YouTube 播放列表（摘要 17K，单位未注明）、Dailymotion 2 条全集、Bilibili 1 条，未见 TikTok/FB 短切片"
-    ]
+    ],
+    "source": "FB 站内",
+    "web_saturation": "低",
+    "web_accounts_estimate": "约5（0 个已知账号 + 5 条账号未显示）",
+    "fb_top_views": "1.9万",
+    "fb_note": "全是 <3 分钟短切"
    },
    "alpha": {
     "title": "After the Alpha's Cruel Trials",
-    "accounts_estimate": "约32（28 个已知账号 + 4 条账号未显示）",
-    "accounts": [
-     "Arbor Prairie Cinema (Dailymotion)",
-     "Arbor Road Chronicles (Dailymotion)",
-     "Ashen Pavilion Cinema (Dailymotion)",
-     "Ashen Rapids Chronicles (Dailymotion)",
-     "Aspen Terrace Theater (Dailymotion)",
-     "Beryl Castle Cinema (Dailymotion)",
-     "Beryl Street Stories (Dailymotion)",
-     "Blossom Gallery Tales (Dailymotion)",
-     "Bramble Hollow Cinema (Dailymotion)",
-     "Bramble Woods Narratives (Dailymotion)",
-     "Briar Point Cinema (Dailymotion)",
-     "Bronze Mountain Chronicles (Dailymotion)",
-     "Bronze Quarry Films (Dailymotion)",
-     "Bronze Terrace Screen (Dailymotion)",
-     "Canary Quarry Tales (Dailymotion)",
-     "Canary Rapids Stories (Dailymotion)",
-     "Cascade Cliff Narratives (Dailymotion)",
-     "Ember Island Screen (Dailymotion)",
-     "HolyHappinessHouse (Dailymotion)",
-     "HopefulHeavenHub (Dailymotion)",
-     "JubilantJadeJourney (Dailymotion)",
-     "Lavender Cabin Chronicles (Dailymotion)",
-     "Lavender Falls Films (Dailymotion)",
-     "SunsetMovieStudio (Dailymotion)",
-     "SylkSDDramaOath (Dailymotion)",
-     "TasteTests (Dailymotion)",
-     "TrueScreenCinema (Dailymotion)",
-     "VelvetCanyonMotion (Dailymotion)"
-    ],
-    "posts_found": 34,
+    "accounts_estimate": "~10",
+    "accounts": [],
+    "posts_found": 3,
     "platforms": {
-     "Dailymotion": 32,
-     "YouTube": 2
+     "Dailymotion": 2,
+     "YouTube": 1
     },
     "short_clips": 0,
     "short_clip_accounts": 0,
@@ -3074,101 +3320,40 @@
       }
      },
      {
-      "url": "https://www.dailymotion.com/video/xbsv39i",
-      "views": "1",
-      "account": "SylkSDDramaOath",
+      "url": "https://www.dailymotion.com/video/xbs7uhu",
+      "views": "无数据",
+      "account": "无数据",
       "platform": "Dailymotion",
-      "title": "After the Alpha's Cruel Trials | She Survived His Cruelty, Now He Must Face Her Strength 💔 | Full Short Drama | English Sub 2026",
-      "duration": "1:29:21",
+      "title": "[COMPLETE EPISODES] After the Alpha's Cruel Trials !!",
+      "duration": "无数据",
       "metric_shown": "",
-      "age": "1 day ago",
+      "age": "无数据",
       "moment": {
-       "kind": "全集/合辑(>10分钟)",
-       "desc": "She Survived His Cruelty, Now He Must Face Her Strength Full Short Drama English Sub 2026"
+       "kind": "无数据",
+       "desc": "[COMPLETE EPISODES] !!"
       }
      },
      {
-      "url": "https://www.dailymotion.com/video/xbsqdq6",
+      "url": "https://www.dailymotion.com/video/xbsgbpa",
       "views": "无数据",
-      "account": "TrueScreenCinema",
+      "account": "无数据",
       "platform": "Dailymotion",
-      "title": "After the Alpha's Cruel Trials Dailymotion Breaking the Mate Bond - Complete Series | English Sub",
-      "duration": "1:43:40",
+      "title": "After the Alpha's Cruel Trials | Complete Short Drama",
+      "duration": "无数据",
       "metric_shown": "",
-      "age": "1 day ago",
+      "age": "无数据",
       "moment": {
-       "kind": "全集/合辑(>10分钟)",
-       "desc": "Dailymotion Breaking the Mate Bond - Complete Series English Sub"
-      }
-     },
-     {
-      "url": "https://www.dailymotion.com/video/xbsuxmm",
-      "views": "无数据",
-      "account": "Bronze Quarry Films",
-      "platform": "Dailymotion",
-      "title": "After the Alpha's Cruel Trials Drama - Full Drama English Subtitles",
-      "duration": "1:43:41",
-      "metric_shown": "",
-      "age": "1 day ago",
-      "moment": {
-       "kind": "全集/合辑(>10分钟)",
-       "desc": "Drama - Full Drama English Subtitles"
-      }
-     },
-     {
-      "url": "https://www.dailymotion.com/video/xbss96e",
-      "views": "无数据",
-      "account": "Bramble Woods Narratives",
-      "platform": "Dailymotion",
-      "title": "After The Alpha'S Cruel Trials | Movie Version - FULL ✅",
-      "duration": "1:57:50",
-      "metric_shown": "",
-      "age": "1 day ago",
-      "moment": {
-       "kind": "全集/合辑(>10分钟)",
-       "desc": "Movie Version - FULL ✅"
+       "kind": "无数据",
+       "desc": "Complete Short Drama"
       }
      }
     ],
     "used_moments": [
-     "Vaelora Intrigue",
-     "HD 720p",
-     "HD, NO CUT"
+     "无数据（标题多为全集合辑/只有剧名，看不出具体片段）"
     ],
-    "overlap_with_our_clips": [
-     {
-      "our_clip": "clip_004",
-      "post": "https://www.dailymotion.com/video/xbsqdq6",
-      "post_title": "After the Alpha's Cruel Trials Dailymotion Breaking the Mate Bond - Complete Series | English Sub",
-      "views": "无数据",
-      "shared_words": [
-       "bond",
-       "mate"
-      ]
-     },
-     {
-      "our_clip": "clip_004",
-      "post": "https://www.dailymotion.com/video/xbsqt6y",
-      "post_title": "After the Alpha's Cruel Trials Dailymotion Breaking the Mate Bond Full Movie 2026",
-      "views": "无数据",
-      "shared_words": [
-       "bond",
-       "mate"
-      ]
-     },
-     {
-      "our_clip": "clip_004",
-      "post": "https://www.dailymotion.com/video/xbsqsze",
-      "post_title": "After The Alpha'S Cruel Trials Dailymotion | Breaking The Mate Bond - FULL ✅",
-      "views": "无数据",
-      "shared_words": [
-       "bond",
-       "mate"
-      ]
-     }
-    ],
+    "overlap_with_our_clips": [],
     "saturation": "中",
-    "conclusion": "竞争中：可见 34 条/约32（28 个已知账号 + 4 条账号未显示） 个账号（Dailymotion 32, YouTube 2），≤3分钟短切片 0 条/0 个账号；最高播放 55；站内热度 34538074 read_count(站内播放数)；我们的 clip_004 与竞品标题角度重合",
+    "conclusion": "FB 站内：账号 ~10 · 最高播放 9.2万（单一账号 Spinuta Crinpliclo） · 饱和度 中（其他播放很低）｜公开搜索：低",
     "queries": [
      "\"After the Alpha's Cruel Trials\" reelshort",
      "After the Alphas Cruel Trials",
@@ -3180,11 +3365,16 @@
      "可见的几乎全是 Dailymotion 全集重传（1-2 天前上传，播放 ≤55），短切片很少",
      "多个合辑标题用『Breaking the Mate Bond』→ 与我们 clip_004（断开伴侣契约）角度重合，已改钩子",
      "WebSearch：TikTok 有『Reelshort Alphas Cruel Trials』发现页，数字无数据"
-    ]
+    ],
+    "source": "FB 站内",
+    "web_saturation": "低",
+    "web_accounts_estimate": "约3（0 个已知账号 + 3 条账号未显示）",
+    "fb_top_views": "9.2万（单一账号 Spinuta Crinpliclo）",
+    "fb_note": "其他播放很低"
    },
    "virgin_sacrifice": {
     "title": "The Virgin Sacrifice Who Seduced a God",
-    "accounts_estimate": "约4（0 个已知账号 + 4 条账号未显示）",
+    "accounts_estimate": "~8",
     "accounts": [],
     "posts_found": 4,
     "platforms": {
@@ -3256,8 +3446,8 @@
      "无数据（标题多为全集合辑/只有剧名，看不出具体片段）"
     ],
     "overlap_with_our_clips": [],
-    "saturation": "低",
-    "conclusion": "竞争低：可见 4 条/约4（0 个已知账号 + 4 条账号未显示） 个账号（Dailymotion 2, YouTube 2），≤3分钟短切片 0 条/0 个账号；最高播放 无数据；站内热度 22673833 read_count(站内播放数)",
+    "saturation": "低–中",
+    "conclusion": "FB 站内：账号 ~8 · 最高播放 2,857 · 饱和度 低–中（有 reelslink 同行）｜公开搜索：低",
     "queries": [
      "\"The Virgin Sacrifice Who Seduced a God\" reelshort",
      "The Virgin Sacrifice Who Seduced a God",
@@ -3267,11 +3457,16 @@
     "errors": [],
     "notes": [
      "只见 Dailymotion 2 条全集、YouTube 2 条，播放无数据；未见 TikTok/FB 短切片"
-    ]
+    ],
+    "source": "FB 站内",
+    "web_saturation": "低",
+    "web_accounts_estimate": "约4（0 个已知账号 + 4 条账号未显示）",
+    "fb_top_views": "2,857",
+    "fb_note": "有 reelslink 同行"
    },
    "worth_chase": {
     "title": "Worth the Chase",
-    "accounts_estimate": "约3（1 个已知账号 + 2 条账号未显示）",
+    "accounts_estimate": "~12",
     "accounts": [
      "@taliawynzel (TikTok)"
     ],
@@ -3332,8 +3527,8 @@
      "Release Date: October 27th on ReelShort! TikTok"
     ],
     "overlap_with_our_clips": [],
-    "saturation": "低",
-    "conclusion": "竞争低：可见 3 条/约3（1 个已知账号 + 2 条账号未显示） 个账号（Dailymotion 1, TikTok 1, YouTube 1），≤3分钟短切片 0 条/0 个账号；最高播放 无数据；站内热度 24754989 read_count(站内播放数)",
+    "saturation": "中",
+    "conclusion": "FB 站内：账号 ~12 · 最高播放 50万 ReelShort 官方 · 饱和度 中（小号搬运播放很低）｜公开搜索：低",
     "queries": [
      "\"Worth the Chase\" reelshort",
      "Worth the Chase",
@@ -3343,8 +3538,224 @@
     "errors": [],
     "notes": [
      "TikTok 只见 @taliawynzel 一条上线预告；Dailymotion/YouTube 各 1 条全集/解说，播放无数据"
-    ]
+    ],
+    "source": "FB 站内",
+    "web_saturation": "低",
+    "web_accounts_estimate": "约3（1 个已知账号 + 2 条账号未显示）",
+    "fb_top_views": "50万 ReelShort 官方",
+    "fb_note": "小号搬运播放很低"
+   },
+   "billionaire_mother": {
+    "title": "The Extraordinary Mother of a Billionaire",
+    "accounts_estimate": "无数据",
+    "accounts": [],
+    "posts_found": 0,
+    "platforms": {},
+    "short_clips": 0,
+    "short_clip_accounts": 0,
+    "reelshort_heat": "无数据",
+    "top_posts": [],
+    "used_moments": [
+     "无数据"
+    ],
+    "overlap_with_our_clips": [],
+    "saturation": "无数据",
+    "conclusion": "无数据（公开搜索未返回带剧名的视频帖）；站内热度 无数据",
+    "queries": [
+     "\"The Extraordinary Mother of a Billionaire\" reelshort",
+     "The Extraordinary Mother of a Billionaire",
+     "The Extraordinary Mother of a Billionaire tiktok",
+     "#theextraordinarymotherofabillionaire reelshort"
+    ],
+    "errors": [],
+    "notes": [
+     "WebSearch（公开）：Dailymotion 全集 https://www.dailymotion.com/video/xadmfcu（#unclecine，『4 hours ago』，播放无数据）；YouTube『The Extraordinary Mother of a Billionaire ▶️ New Release🔥#reelshorts』https://www.youtube.com/watch?v=x8f6djIT5CM（播放无数据）",
+     "未见 TikTok/FB 短切片（公开搜索看不到，FB 站内未查）；竞品用的角度=官方简介『被误认成小偷/流浪汉羞辱→儿子是万亿集团主席』的全集合辑",
+     "站内：reelshort.com 剧页显示 18.2M / 235k（原样）"
+    ],
+    "source": "公开搜索"
+   },
+   "homegirls": {
+    "title": "Homegirls Before Husbands",
+    "accounts_estimate": "约4（0 个已知账号 + 4 条账号未显示）",
+    "accounts": [],
+    "posts_found": 4,
+    "platforms": {
+     "Dailymotion": 2,
+     "YouTube": 2
+    },
+    "short_clips": 0,
+    "short_clip_accounts": 0,
+    "reelshort_heat": "4895614 read_count(站内播放数)",
+    "top_posts": [
+     {
+      "url": "https://www.dailymotion.com/video/xbs84h2",
+      "views": "无数据",
+      "account": "无数据",
+      "platform": "Dailymotion",
+      "title": "Homegirls Before Husbands – Two Wives, One Family, Zero Rescue",
+      "duration": "无数据",
+      "metric_shown": "",
+      "age": "无数据",
+      "moment": {
+       "kind": "无数据",
+       "desc": "Two Wives, One Family, Zero Rescue"
+      }
+     },
+     {
+      "url": "https://www.dailymotion.com/video/xbsxzby",
+      "views": "无数据",
+      "account": "无数据",
+      "platform": "Dailymotion",
+      "title": "Homegirls Before Husbands: All Episodes - video Dailymotion",
+      "duration": "无数据",
+      "metric_shown": "",
+      "age": "无数据",
+      "moment": {
+       "kind": "无数据",
+       "desc": "All Episodes - video Dailymotion"
+      }
+     },
+     {
+      "url": "https://m.youtube.com/watch?v=TGYyz5AgosA",
+      "views": "无数据",
+      "account": "无数据",
+      "platform": "YouTube",
+      "title": "Homegirls Before Husbands Greeting | ReelShort - YouTube",
+      "duration": "无数据",
+      "metric_shown": "",
+      "age": "无数据",
+      "moment": {
+       "kind": "无数据",
+       "desc": "Greeting ReelShort - YouTube"
+      }
+     },
+     {
+      "url": "https://m.youtube.com/watch?v=XjKjbIj6D6I",
+      "views": "无数据",
+      "account": "无数据",
+      "platform": "YouTube",
+      "title": "Homegirls Before Husbands |#reelshort #drama #realman",
+      "duration": "无数据",
+      "metric_shown": "",
+      "age": "无数据",
+      "moment": {
+       "kind": "无数据",
+       "desc": "（标题只有剧名/标签，看不出片段）"
+      }
+     }
+    ],
+    "used_moments": [
+     "Two Wives, One Family, Zero Rescue"
+    ],
+    "overlap_with_our_clips": [],
+    "saturation": "低",
+    "conclusion": "竞争低：可见 4 条/约4（0 个已知账号 + 4 条账号未显示） 个账号（Dailymotion 2, YouTube 2），≤3分钟短切片 0 条/0 个账号；最高播放 无数据；站内热度 4895614 read_count(站内播放数)",
+    "queries": [
+     "\"Homegirls Before Husbands\" reelshort",
+     "Homegirls Before Husbands",
+     "Homegirls Before Husbands tiktok",
+     "#homegirlsbeforehusbands reelshort"
+    ],
+    "errors": [],
+    "notes": [
+     "WebSearch（公开）：Dailymotion『Homegirls Before Husbands – Two Wives, One Family, Zero Rescue』及 xbs7izy 全集；ReelShort 官方 YouTube Teaser；播放数无数据",
+     "竞品角度：『两个妻子都没人救』（火灾+丈夫去救前任的猫）全集合辑 → 我们标题避开 rescue/cat 字眼",
+     "gasptv.com 记录站内播放 4.1M（11/2），dramacatalog 记 3M（11/1），上线 10/30 → 新剧，竞品少"
+    ],
+    "source": "公开搜索"
+   },
+   "agent_shadows": {
+    "title": "Agent of Shadows",
+    "accounts_estimate": "约4（0 个已知账号 + 4 条账号未显示）",
+    "accounts": [],
+    "posts_found": 4,
+    "platforms": {
+     "Dailymotion": 2,
+     "YouTube": 2
+    },
+    "short_clips": 0,
+    "short_clip_accounts": 0,
+    "reelshort_heat": "16270396 read_count(站内播放数)",
+    "top_posts": [
+     {
+      "url": "https://www.dailymotion.com/video/xbr13ue",
+      "views": "无数据",
+      "account": "无数据",
+      "platform": "Dailymotion",
+      "title": "Agent Of Shadows - Watch the Full Movie - video Dailymotion",
+      "duration": "无数据",
+      "metric_shown": "",
+      "age": "无数据",
+      "moment": {
+       "kind": "无数据",
+       "desc": "Watch the Full Movie - video Dailymotion"
+      }
+     },
+     {
+      "url": "https://www.dailymotion.com/video/xbqn0ue",
+      "views": "无数据",
+      "account": "无数据",
+      "platform": "Dailymotion",
+      "title": "Agent of Shadows | Short Drama Full HD 720p - Dailymotion",
+      "duration": "无数据",
+      "metric_shown": "",
+      "age": "无数据",
+      "moment": {
+       "kind": "无数据",
+       "desc": "Short Drama Full HD 720p - Dailymotion"
+      }
+     },
+     {
+      "url": "https://m.youtube.com/watch?v=3dbgm8o45AQ",
+      "views": "无数据",
+      "account": "无数据",
+      "platform": "YouTube",
+      "title": "\"Agent of Shadows\" Full Trailer | Coming to ReelShort on Oct. 23",
+      "duration": "无数据",
+      "metric_shown": "",
+      "age": "无数据",
+      "moment": {
+       "kind": "无数据",
+       "desc": "\"\" Full Trailer Coming to ReelShort on Oct. 23"
+      }
+     },
+     {
+      "url": "https://m.youtube.com/watch?v=ftEjVlKdeB4",
+      "views": "无数据",
+      "account": "无数据",
+      "platform": "YouTube",
+      "title": "FULL TRAILER: Agent of Shadows | Premiering Oct. 23rd",
+      "duration": "无数据",
+      "metric_shown": "",
+      "age": "无数据",
+      "moment": {
+       "kind": "无数据",
+       "desc": "FULL TRAILER: Premiering Oct. 23rd"
+      }
+     }
+    ],
+    "used_moments": [
+     "无数据（标题多为全集合辑/只有剧名，看不出具体片段）"
+    ],
+    "overlap_with_our_clips": [],
+    "saturation": "低",
+    "conclusion": "竞争低：可见 4 条/约4（0 个已知账号 + 4 条账号未显示） 个账号（Dailymotion 2, YouTube 2），≤3分钟短切片 0 条/0 个账号；最高播放 无数据；站内热度 16270396 read_count(站内播放数)",
+    "queries": [
+     "\"Agent of Shadows\" reelshort",
+     "Agent of Shadows",
+     "Agent of Shadows tiktok",
+     "#agentofshadows reelshort"
+    ],
+    "errors": [],
+    "notes": [
+     "WebSearch（公开）：WWE 官方/PWInsider/SEScoops 报道（WWE 首部微短剧，10/23 上线），YouTube 官方 Full Trailer，Dailymotion 全集 2 条；播放数无数据",
+     "竞品/官方角度：『世界第一特工伪装成女儿的保姆』+ WWE 明星（Drew McIntyre）→ 我们避开 nanny/WWE 角度，用酒保身份反转、亲子鉴定",
+     "verticalcharts：10/29 Vertical 52 榜 #13，10.3M（原样）；有官方 WWE 推广，后续竞品可能快速增加"
+    ],
+    "source": "公开搜索"
    }
-  }
+  },
+  "fb_file": "trends/out/competitors_fb_insite_2026-11-03.md"
  }
 }
