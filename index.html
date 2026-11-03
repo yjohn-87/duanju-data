@@ -29,7 +29,7 @@ a.ip-nav{color:#111827;background:#fbbf24;font-weight:600;font-size:13px;padding
 @media (max-width:800px){.grid{grid-template-columns:1fr 1fr}.grid .w2{grid-column:span 2}}
 @media (max-width:560px){.grid{grid-template-columns:1fr;gap:6px}.grid .w2{grid-column:auto}section{padding:8px 10px}body{font-size:13.5px}.kv{grid-template-columns:auto 1fr auto 1fr}}
 </style></head><body>
-<header><h1>短剧 CPS 看板 · FeiPlay <a class="ip-nav" href="#income-plan">预收入</a></h1><p>最后更新：2026-11-03 17:06（ICT, UTC+7）· 告警 0 条</p></header>
+<header><h1>短剧 CPS 看板 · FeiPlay <a class="ip-nav" href="#income-plan">预收入</a></h1><p>最后更新：2026-11-03 17:08（ICT, UTC+7）· 告警 0 条</p></header>
 <main>
 <div class="grid">
 <section id="earn"><h2>💰 RS Boost 收益</h2><div class="kv"><span>昨日</span><b>null（未填）</b><span>本月</span><b>null（未填）</b><span>可提现</span><b>null（未填）</b><span>更新时间</span><b>null（未填）</b></div><p class="sm muted">备注：后台页面显示 $0.00（11/3）</p></section>
@@ -71,7 +71,7 @@ a.ip-nav{color:#111827;background:#fbbf24;font-weight:600;font-size:13px;padding
 
 <div class="ip-card">
 <h2>预计收入计划表</h2>
-<div class="ip-con">结论：现在收入 $0。前 3 个月现实区间：每月几美元（保守）到约 $100（中等），乐观可到每月数百美元；中等档约第 2 个月累计过 $50 提现门槛。佣金比例后台未写，全部是估算。</div>
+<div class="ip-con">结论：现在收入 $0。前 3 个月现实区间：保守每月 $1–$3，中等每月 $29 → $52 → $108，乐观每月 $371 → $773 → $1,932（需全部乐观假设同时成立）；中等档约第 2 个月累计过 $50 提现门槛。佣金比例后台未写，全部是估算。</div>
 <p class="ip-muted">现状 11/3：RS Boost 已激活（rs2026），My Earnings $0.00；FB 主页 FeiPlay 新建，已发 1 条，队列 26 条，11/4 起 4 条/天；TikTok 待改名；花费 $0。26 条约 11/10 发完，之后需持续补片。</p>
 </div>
 
@@ -85,16 +85,17 @@ a.ip-nav{color:#111827;background:#fbbf24;font-weight:600;font-size:13px;padding
 <label>平均首付 $<input type="number" min="0" step="0.01" data-k="pay"></label>
 <label><span>佣金比例 % <span class="ip-as">「假设」</span></span><input type="number" min="0" step="1" data-k="rate"></label>
 <label>月数<input type="number" min="0" step="1" data-k="months"></label>
+<label>每月天数<input type="number" min="0" step="1" data-k="days"></label>
 </div>
 <button type="button" id="ip-reset">恢复默认</button>
 <div class="ip-kpi">
 <div><b id="ip-v">-</b>月播放</div><div><b id="ip-c">-</b>月点击</div><div><b id="ip-p">-</b>月付费用户</div><div><b id="ip-i">-</b>月佣金</div><div><b id="ip-t">-</b><span id="ip-tl">合计</span></div>
 </div>
-<p class="ip-muted">播放 = 条数×30×单条播放；点击 = 播放×点击率；付费 = 点击×转化；佣金 = 付费×首付×佣金比例。只算首笔付费（条款规定后续付费也计佣），偏保守。</p>
+<p class="ip-muted">播放 = 条数×每月天数×单条播放；点击 = 播放×点击率；付费 = 点击×转化；佣金 = 付费×首付×佣金比例。只算首笔付费（条款规定后续付费也计佣），偏保守。</p>
 </div>
 
 <div class="ip-card">
-<h3>三档 3 个月预估 <span class="ip-muted">4 条/天，30 天/月；第 1 月 = 11/4–12/3</span></h3>
+<h3>三档 3 个月预估 <span class="ip-muted" id="ip-sh"></span></h3>
 <div class="ip-seg" id="ip-seg"></div>
 <div class="ip-tw"><table><thead><tr><th>月份</th><th>单条播放</th><th>月播放</th><th>月点击</th><th>付费</th><th>月佣金</th><th>累计</th></tr></thead><tbody id="ip-sc"></tbody></table></div>
 <p class="ip-muted" id="ip-sp"></p>
@@ -104,7 +105,7 @@ a.ip-nav{color:#111827;background:#fbbf24;font-weight:600;font-size:13px;padding
 <div class="ip-card">
 <h3>参数：有源 vs 假设</h3>
 <div class="ip-tw"><table><thead><tr><th>参数</th><th>保守/中等/乐观</th><th>状态</th></tr></thead><tbody>
-<tr><td>每天发几条</td><td>4</td><td class="t-ok">事实（queue.csv）</td></tr>
+<tr><td>每天发几条</td><td>4（计算器可改）</td><td class="t-ok">事实（queue.csv）</td></tr>
 <tr><td>单条平均播放</td><td>100–264 / 264–1000 / 480–2500</td><td class="t-as">部分有源</td></tr>
 <tr><td class="l" colspan="3"><span class="ip-muted">Socialinsider 2026：FB Reels 1K–5K 粉 264、5K–10K 480、10K–50K 1000、50K–100K 2500。0 粉新页会更低；100 和逐月升档是「假设」。</span></td></tr>
 <tr><td>链接点击率</td><td>0.5% / 1% / 2%</td><td class="t-as">「假设」</td></tr>
@@ -126,13 +127,13 @@ a.ip-nav{color:#111827;background:#fbbf24;font-weight:600;font-size:13px;padding
 <tr><td class="l">第2周 11/11–11/17</td><td class="l">TikTok 改名后开发同步；查 FB 同剧名搬运号</td><td class="l">FB 均值 ≥264；CTR ≥0.5%</td></tr>
 <tr><td class="l">第3–4周 11/18–12/3</td><td class="l">给表现好的剧加量；向 RS Boost 确认佣金和提现规则</td><td class="l">首个付费用户；Earnings &gt;$0</td></tr>
 <tr><td class="l">第2月 12/4–1/3</td><td class="l">FB+TikTok 双发；12/12–12/20 查 11 月报表能否提现</td><td class="l">FB 均值 ≥480；月佣金 ≥$50</td></tr>
-<tr><td class="l">第3月 1/4–2/2</td><td class="l">仅当某条播放 ≥10 倍均值且带来付费，才提小额加热，金额与是否投放由飞总定</td><td class="l">均值 ≥1000；CTR ≥1%；月佣金 ≥$100</td></tr>
+<tr><td class="l">第3月 1/4–2/2</td><td class="l">仅当某条播放 ≥10 倍均值且带来付费，才提小额加热，金额与是否投放需人工确认</td><td class="l">均值 ≥1000；CTR ≥1%；月佣金 ≥$100</td></tr>
 </tbody></table></div>
 </div>
 
 <div class="ip-card">
 <h3>成本</h3>
-<p>当前 $0。可选项（不是承诺，均需飞总批准，价格用前再查）：</p>
+<p>当前 $0。可选项（不是承诺，均需人工确认，价格用前再查）：</p>
 <ul><li>FB 帖子加热：只给已验证转化的单条，小额测试</li><li>剪辑工具付费版</li><li>TikTok 投放（起量后）</li><li>备用 FB 主页（分散风险）</li></ul>
 </div>
 
@@ -171,9 +172,9 @@ a.ip-nav{color:#111827;background:#fbbf24;font-weight:600;font-size:13px;padding
 <script>
 (function(){
 var R=document.getElementById('income-plan');if(!R)return;
-var D={posts:4,views:264,ctr:1,conv:2,pay:15,rate:30,months:3};
+var D={posts:4,views:264,ctr:1,conv:2,pay:15,rate:30,months:3,days:30};
 var T=[{n:'保守',v:[100,150,264],ctr:.5,conv:1,pay:9.99,rate:20},{n:'中等',v:[264,480,1000],ctr:1,conv:2,pay:15,rate:30},{n:'乐观',v:[480,1000,2500],ctr:2,conv:3,pay:23.85,rate:45}];
-function c(po,vi,ct,co,pa,ra){var v=po*30*vi,k=v*ct/100,p=k*co/100;return{v:v,c:k,p:p,i:p*pa*ra/100};}
+function c(po,vi,ct,co,pa,ra){var v=po*val('days')*vi,k=v*ct/100,p=k*co/100;return{v:v,c:k,p:p,i:p*pa*ra/100};}
 function n0(x){return Math.round(x).toLocaleString('en-US');}
 function n1(x){return x<10?x.toFixed(1):n0(x);}
 function u(x){return '$'+(x<100?x.toFixed(2):n0(x));}
@@ -182,21 +183,21 @@ function val(k){var e=R.querySelector('input[data-k="'+k+'"]');var x=parseFloat(
 function calc(){var r=c(val('posts'),val('views'),val('ctr'),val('conv'),val('pay'),val('rate')),m=val('months');
 document.getElementById('ip-v').textContent=n0(r.v);document.getElementById('ip-c').textContent=n0(r.c);
 document.getElementById('ip-p').textContent=n1(r.p);document.getElementById('ip-i').textContent=u(r.i);
-document.getElementById('ip-t').textContent=u(r.i*m);document.getElementById('ip-tl').textContent=n0(m)+' 个月合计';}
+document.getElementById('ip-t').textContent=u(r.i*m);document.getElementById('ip-tl').textContent=n0(m)+' 个月合计';scen(cur);sum();}
 function reset(){ins.forEach(function(e){e.value=D[e.getAttribute('data-k')];});calc();}
 ins.forEach(function(e){e.addEventListener('input',calc);});
 document.getElementById('ip-reset').addEventListener('click',reset);
 var seg=document.getElementById('ip-seg'),cur=1;
-function scen(i){cur=i;var t=T[i],h='',cum=0;t.v.forEach(function(v,j){var r=c(4,v,t.ctr,t.conv,t.pay,t.rate);cum+=r.i;
+function scen(i){cur=i;var t=T[i],h='',cum=0;t.v.forEach(function(v,j){var r=c(val('posts'),v,t.ctr,t.conv,t.pay,t.rate);cum+=r.i;
 h+='<tr><td>第'+(j+1)+'月</td><td>'+n0(v)+'</td><td>'+n0(r.v)+'</td><td>'+n0(r.c)+'</td><td>'+n1(r.p)+'</td><td>'+u(r.i)+'</td><td>'+u(cum)+'</td></tr>';});
-document.getElementById('ip-sc').innerHTML=h;
+document.getElementById('ip-sc').innerHTML=h;document.getElementById('ip-sh').textContent='跟随计算器：'+n0(val('posts'))+' 条/天，'+n0(val('days'))+' 天/月；其余参数按档位固定；第 1 月 = 11/4 起';
 document.getElementById('ip-sp').textContent=t.n+'档：点击率 '+t.ctr+'%「假设」，转化 '+t.conv+'%「假设」，首付 $'+t.pay+'，佣金 '+t.rate+'%「假设」。'+(cum<50?'3 个月累计不到 $50 提现门槛。':'累计已过 $50 提现门槛。');
 seg.querySelectorAll('button').forEach(function(b,k){b.className=k===i?'on':'';});}
 T.forEach(function(t,i){var b=document.createElement('button');b.type='button';b.textContent=t.n;b.addEventListener('click',function(){scen(i);});seg.appendChild(b);});
-var s='';T.forEach(function(t){var tot=0;t.v.forEach(function(v){tot+=c(4,v,t.ctr,t.conv,t.pay,t.rate).i;});
+function sum(){var s='';T.forEach(function(t){var tot=0;t.v.forEach(function(v){tot+=c(val('posts'),v,t.ctr,t.conv,t.pay,t.rate).i;});
 s+='<tr><td>'+t.n+'</td><td>'+t.ctr+'%</td><td>'+t.conv+'%</td><td>$'+t.pay+'</td><td>'+t.rate+'%</td><td>'+u(tot)+'</td></tr>';});
-document.getElementById('ip-sum').innerHTML=s;
-reset();scen(1);
+document.getElementById('ip-sum').innerHTML=s;}
+reset();
 })();
 </script>
 </section></div>
