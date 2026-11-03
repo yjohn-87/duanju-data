@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-03 15:34",
+ "generated_ict": "2026-11-03 15:35",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2485,7 +2485,7 @@
    "duration_s": "89.0",
    "title": "Her fiance chose her sister. The sister chose sorcery.",
    "fb_caption_ready": "yes",
-   "qa_ok": "yes",
+   "qa_ok": "no",
    "status": "剪好",
    "post_url": "",
    "scheduled_time_ict": "",
