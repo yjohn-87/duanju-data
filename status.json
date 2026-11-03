@@ -54,7 +54,7 @@
   ],
   [
    "11-04",
-   0
+   1
   ]
  ],
  "metrics_source": null,
@@ -88,14 +88,23 @@
    "slug": "virgin_sacrifice",
    "clip": "clip_001",
    "hook": "The God of War wants a new sacrifice: her.",
-   "time": "11-04 03:00",
-   "status": "planned",
-   "fb_url": "",
+   "time": "11-04 03:11",
+   "status": "posted",
+   "fb_url": "https://www.facebook.com/reel/4541558412770118",
    "promo": "https://reelslink.com/cps/3MLpsL",
    "views": null,
    "tiktok": "She begged the God of War to spare her city… he wants her instead ⚡ Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_001_preview.mp4",
-   "metrics": null,
+   "metrics": {
+    "views": null,
+    "reach": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "link_clicks": null,
+    "eng_rate": null,
+    "fetched": null
+   },
    "platform": "Facebook"
   },
   {
@@ -260,6 +269,21 @@
    "views": null,
    "tiktok": "Five years married to a stranger… or never surf again 🔱 Clip from Surf God's Revenge on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/surf_god__clip_003_preview.mp4",
+   "metrics": null,
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
+   "slug": "alpha",
+   "clip": "clip_003",
+   "hook": "Her mate watched. Then he said: ",
+   "time": "11-07 03:00",
+   "status": "planned",
+   "fb_url": "",
+   "promo": "https://reelslink.com/cps/Rynina",
+   "views": null,
+   "tiktok": "She begged her mate to stop it… he said \"Do it\" ✂️ From After the Alpha's Cruel Trials on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #werewolf #fyp",
+   "download": "media/alpha__clip_003_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -894,7 +918,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-04 01:35（北京时间）",
+ "generated": "2026-11-04 03:11（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -906,18 +930,18 @@
   },
   {
    "name": "FB 自动发帖队列",
-   "desc": "按 queue.csv 顺序发 FB Reels（已发 1）",
+   "desc": "按 queue.csv 顺序发 FB Reels（已发 2）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-03 20:17",
-   "result": "成功（11/3 14:05 sea_god clip_001 posted https://www.facebook.com/）",
-   "next": "11-04 03:00"
+   "last": "11-04 03:11",
+   "result": "成功（virgin_sacrifice/clip_001 https://www.facebook.com/reel/4541）",
+   "next": "11-04 07:00"
   },
   {
    "name": "链接评论自动挂",
    "desc": "帖子发出后在评论区挂 RS Boost 推广链接",
    "sched": "每次发帖后",
-   "last": "11-03 20:17",
-   "result": "成功（11/3 sea_god clip_001 link comment added (pin not available)）",
+   "last": "11-04 03:11",
+   "result": "成功（virgin_sacrifice/clip_001 added）",
    "next": "随下次发帖"
   },
   {
@@ -956,12 +980,12 @@
  "queue": [
   {
    "platform": "Facebook",
-   "posted": 1,
+   "posted": 2,
    "scheduled": 12,
-   "remaining": 41,
+   "remaining": 40,
    "hold": 3,
-   "next_time": "11-04 03:00",
-   "next_title": "virgin_sacrifice"
+   "next_time": "11-04 07:00",
+   "next_title": "billionaire_mother"
   },
   {
    "platform": "TikTok",

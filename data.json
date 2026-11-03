@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-04 00:35",
+ "generated_ict": "2026-11-04 02:11",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2366,9 +2366,9 @@
    "title": "Her mate watched. Then he said: \"Do it.\"",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-07 02:00",
    "thumb": "media/alpha__clip_003_thumb.jpg",
    "preview": "media/alpha__clip_003_preview.mp4",
    "note": ""
@@ -2471,9 +2471,9 @@
    "title": "The God of War wants a new sacrifice: her.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-04 02:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/4541558412770118",
+   "scheduled_time_ict": "2026-11-04 02:11",
    "thumb": "media/virgin_sacrifice__clip_001_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_001_preview.mp4",
    "note": ""
@@ -2789,9 +2789,9 @@
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_001.mp4",
-   "scheduled_time_ict": "2026-11-04 02:00",
-   "status": "planned",
-   "post_url": "",
+   "scheduled_time_ict": "2026-11-04 02:11",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/4541558412770118",
    "views": ""
   },
   {
@@ -2870,6 +2870,13 @@
    "status": "planned",
    "post_url": "",
    "views": ""
+  },
+  {
+   "clip_file": "out/alpha/clip_003.mp4",
+   "scheduled_time_ict": "2026-11-07 02:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
   }
  ],
  "earnings": {
@@ -2893,7 +2900,7 @@
     "time": "02:00",
     "clip": "virgin_sacrifice/clip_001.mp4",
     "title": "The God of War wants a new sacrifice: her.",
-    "state": "待发"
+    "state": "已发"
    },
    {
     "time": "06:00",
@@ -2914,7 +2921,7 @@
     "state": "待发"
    }
   ],
-  "queued": 41
+  "queued": 40
  },
  "alerts": [
   [
@@ -2923,7 +2930,7 @@
   ],
   [
    "ok",
-   "库存 41 条排队，约 10.2 天"
+   "库存 40 条排队，约 10.0 天"
   ]
  ],
  "competitors": {
