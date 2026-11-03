@@ -68,11 +68,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1469347595080080",
    "promo": "https://reelslink.com/cps/1noh7F",
-   "views": null,
+   "views": "37",
    "tiktok": "Forced to marry a \"fisherman\"… who secretly rules the sea 🌊 Clip from The Sea God's Disguise on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/sea_god__clip_001_preview.mp4",
    "metrics": {
-    "views": null,
+    "views": 37,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -894,7 +894,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-03 21:36（北京时间）",
+ "generated": "2026-11-03 22:11（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -924,8 +924,8 @@
    "name": "每日复盘",
    "desc": "汇总前一天播放/收益/告警",
    "sched": "每天约 09:15",
-   "last": "暂无记录",
-   "result": "暂无日志",
+   "last": "11-03 22:11",
+   "result": "成功（21:00 summary: 1 post, 37 views, earnings $0.00, 41 clips in）",
    "next": "11-04 09:15"
   },
   {
@@ -933,7 +933,7 @@
    "desc": "播放≥中位数×3 且 ≥1000 → 提醒并加热 $3/天×3天（仅 Meta 余额，仅美/加/英/澳）",
    "sched": "随数据更新",
    "last": "11-03 18:00",
-   "result": "暂无播放数据",
+   "result": "当前热帖 0 条",
    "next": "随数据更新"
   },
   {
@@ -983,13 +983,13 @@
   }
  ],
  "today": {
-  "views": null,
-  "posts_with_views": 0,
+  "views": 37,
+  "posts_with_views": 1,
   "earnings": {
-   "yesterday": null,
-   "this_month": null,
-   "withdrawable": null,
-   "note": "后台页面显示 $0.00（11/3）"
+   "yesterday": "$0.00",
+   "this_month": "$0.00",
+   "withdrawable": "$0.00",
+   "note": "后台显示：昨日/本月/可提现均 $0.00，昨日订单 0"
   },
   "alerts": []
  }

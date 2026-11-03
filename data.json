@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-03 19:46",
+ "generated_ict": "2026-11-03 21:11",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2785,7 +2785,7 @@
    "scheduled_time_ict": "2026-11-03 14:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1469347595080080",
-   "views": ""
+   "views": "37"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_001.mp4",
@@ -2873,11 +2873,17 @@
   }
  ],
  "earnings": {
-  "updated": null,
-  "yesterday": null,
-  "this_month": null,
-  "withdrawable": null,
-  "note": "后台页面显示 $0.00（11/3）"
+  "updated": "2026-11-03 21:11 ICT",
+  "yesterday": "$0.00",
+  "this_month": "$0.00",
+  "withdrawable": "$0.00",
+  "note": "后台显示：昨日/本月/可提现均 $0.00，昨日订单 0",
+  "last_month_settlement": "$0.00",
+  "orders_yesterday": {
+   "dramas": 0,
+   "novels": 0,
+   "commission": 0
+  }
  },
  "plan": {
   "day": "2026-11-04",
