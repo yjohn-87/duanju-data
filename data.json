@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-03 15:35",
+ "generated_ict": "2026-11-03 16:37",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2186,9 +2186,9 @@
    "title": "His father called him worthless. Big mistake.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
+   "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-03 16:30",
+   "scheduled_time_ict": "",
    "thumb": "media/roaming__clip_001_thumb.jpg",
    "preview": "media/roaming__clip_001_preview.mp4",
    "note": ""
@@ -2530,13 +2530,6 @@
    "scheduled_time_ict": "2026-11-03 14:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1469347595080080",
-   "views": ""
-  },
-  {
-   "clip_file": "out/roaming/clip_001.mp4",
-   "scheduled_time_ict": "2026-11-03 16:30",
-   "status": "scheduled",
-   "post_url": "",
    "views": ""
   }
  ],
