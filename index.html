@@ -31,8 +31,51 @@ a.ip-nav{color:#111827;background:#fbbf24;font-weight:600;font-size:13px;padding
 #income-plan-wrap{margin-top:8px}#income-plan-wrap section#income-plan{background:transparent;box-shadow:none;border-radius:0;max-width:none;padding:0;scroll-margin-top:8px}
 @media (max-width:800px){.grid{grid-template-columns:1fr 1fr}.grid .w2{grid-column:span 2}}
 @media (max-width:560px){.clips{grid-template-columns:1fr 1fr}.row .vc{flex-basis:42%}.grid{grid-template-columns:1fr;gap:6px}.grid .w2{grid-column:auto}section{padding:8px 10px}body{font-size:13.5px}.kv{grid-template-columns:auto 1fr auto 1fr}}
-</style></head><body>
-<header><h1>短剧 CPS 看板 · FeiPlay <a class="ip-nav" href="#auto">自动化</a> <a class="ip-nav" href="#income-plan">预收入</a></h1><p>最后更新：2026-11-03 19:28（ICT, UTC+7）· 告警 0 条</p></header><!--AUTO-->
+</style><!--THEME--><style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1c2b33;--ink2:#465a69;--mute:#8595a4;--line:#e4e8ec;--pri:#0866ff;--ok:#1f8a4c;--amb:#b26a00;--bad:#c62828;--side:#ffffff}
+html,body{background:var(--bg)!important}
+body{margin:0;color:var(--ink);font:14px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif!important;-webkit-font-smoothing:antialiased}
+.num,#kpi b,.mt td,.mt b{font-variant-numeric:tabular-nums}
+body>header,body>main,#topbar,#auto,body>section,#toast~*:not(#app){display:none!important}
+#app{display:grid;grid-template-columns:232px 1fr;min-height:100vh}
+#side{background:var(--side);border-right:1px solid var(--line);position:sticky;top:0;height:100vh;padding:20px 12px;box-sizing:border-box;display:flex;flex-direction:column}
+#side .brand{font-weight:700;font-size:16px;padding:0 10px 18px;letter-spacing:.2px}#side .brand small{display:block;font-weight:400;color:var(--mute);font-size:12px}
+#side a.nv{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:8px;color:var(--ink2);text-decoration:none;font-size:14px;margin:1px 0}
+#side a.nv:hover{background:#f0f2f5}#side a.nv.on{background:#e7f0ff;color:var(--pri);font-weight:600}
+#side .ql{margin-top:auto;border-top:1px solid var(--line);padding-top:12px}#side .ql div{font-size:12px;color:var(--mute);padding:0 12px 6px}
+#side .ql a{display:block;padding:7px 12px;font-size:13px;color:var(--ink2);text-decoration:none;border-radius:8px}#side .ql a:hover{background:#f0f2f5}
+#content{min-width:0}
+#bar{position:sticky;top:0;z-index:20;background:rgba(246,247,249,.94);backdrop-filter:blur(6px);display:flex;align-items:center;gap:12px;padding:14px 28px;border-bottom:1px solid var(--line)}
+#bar h1{font-size:18px;margin:0;font-weight:700;flex:1}#bar .upd{font-size:12px;color:var(--mute)}
+.bt{min-height:36px;padding:0 14px;border:1px solid var(--line);background:#fff;border-radius:8px;font-size:13px;cursor:pointer;color:var(--ink)}.bt:hover{background:#f0f2f5}
+.view{display:none;padding:22px 28px 40px;max-width:1680px}.view.on{display:block}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin-bottom:16px;box-sizing:border-box;min-width:0}
+.card>h2,.ttl{font-size:15px;font-weight:600;margin:0 0 12px;color:var(--ink)}
+.cols{display:grid;grid-template-columns:2fr 1fr;gap:16px}.cols3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+#kpi{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;margin-bottom:16px}
+#kpi .card{margin:0}#kpi span{font-size:12px;color:var(--mute)}#kpi b{display:block;font-size:28px;font-weight:600;margin:6px 0 2px;letter-spacing:-.3px}
+#kpi i{font-style:normal;font-size:12px;color:var(--mute)}#kpi i.up{color:var(--ok)}#kpi i.dn{color:var(--bad)}.na{color:#b4bfc9!important}
+.mute{color:var(--mute)}.sm{font-size:12px}
+svg.ch text{font-size:10px;fill:#8595a4}
+.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px}
+.vc2{background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden;position:relative}
+.vc2 video{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:#111}
+.vc2 .m{padding:10px 12px}.vc2 .dn{font-weight:600;font-size:13px}.vc2 .hk{font-size:12px;color:var(--ink2);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin:2px 0 6px;min-height:36px}
+.pc{display:grid;grid-template-columns:260px 1fr;gap:20px;align-items:start}.pc video{width:100%;aspect-ratio:9/16;object-fit:cover;border-radius:8px;background:#111;display:block}
+.mt{width:100%;border-collapse:collapse}.mt td{padding:9px 0;border-bottom:1px solid var(--line);font-size:13px}.mt td:last-child{text-align:right;font-weight:600}
+.mgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:12px 0}.mgrid div{border:1px solid var(--line);border-radius:8px;padding:10px 12px}.mgrid span{font-size:12px;color:var(--mute)}.mgrid b{display:block;font-size:20px;font-weight:600}
+.bdg{display:inline-block;font-size:11.5px;padding:1px 8px;border-radius:4px;margin:0 4px 4px 0;font-weight:500}.b-ok{background:#e6f4ea;color:var(--ok)}.b-amb{background:#fff4e0;color:var(--amb)}.b-gr{background:#eef1f4;color:var(--ink2)}.b-bad{background:#fdecea;color:var(--bad)}
+.vm{position:absolute;top:8px;right:8px}.vm.inl{position:relative;top:0;right:0;display:inline-block}.vm summary{list-style:none;width:30px;height:30px;border-radius:6px;background:rgba(0,0,0,.5);color:#fff;display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:16px}.vm.inl summary{background:#eef1f4;color:var(--ink)}.vm summary::-webkit-details-marker{display:none}
+.vm>div{position:absolute;right:0;top:36px;background:#fff;border:1px solid var(--line);border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,.12);padding:4px;min-width:150px;z-index:9}.vm>div a,.vm>div button{display:block;width:100%;text-align:left;border:0;background:none;padding:9px 12px;font-size:13px;color:var(--ink);text-decoration:none;border-radius:6px;cursor:pointer;font-family:inherit}.vm>div a:hover,.vm>div button:hover{background:#f0f2f5}
+table.jt{width:100%;border-collapse:collapse}table.jt th{text-align:left;font-size:12px;color:var(--mute);font-weight:500;padding:8px 10px;border-bottom:1px solid var(--line)}table.jt td{padding:11px 10px;border-bottom:1px solid var(--line);font-size:13px;vertical-align:top}
+.card section,.card details{background:none!important;box-shadow:none!important;border:0!important;padding:0!important;margin:0!important}.card section>h2{display:none}
+.card details summary{cursor:pointer;color:var(--pri);font-weight:500}
+#toast{position:fixed;left:50%;bottom:30px;transform:translateX(-50%);background:#1c2b33;color:#fff;padding:9px 16px;border-radius:8px;display:none;z-index:99}
+@media(max-width:1100px){#kpi{grid-template-columns:repeat(3,1fr)}.cols,.cols3{grid-template-columns:1fr}}
+@media(max-width:760px){#app{grid-template-columns:1fr}#side{position:sticky;top:0;z-index:30;height:auto;flex-direction:row;overflow-x:auto;padding:8px;gap:4px;border-right:0;border-bottom:1px solid var(--line);align-items:center;align-self:start}#side a.nv{flex:0 0 auto}#side .brand,#side .ql{display:none}#side a.nv{white-space:nowrap;padding:8px 12px;min-height:28px}
+#bar{position:static;padding:12px 14px}.view{padding:14px}#kpi{grid-template-columns:repeat(2,1fr);gap:10px}#kpi b{font-size:22px}.pc{grid-template-columns:1fr}.mgrid{grid-template-columns:repeat(2,1fr)}.vgrid{grid-template-columns:repeat(2,1fr);gap:10px}table.jt th:nth-child(3),table.jt td:nth-child(3){display:none}}
+</style><!--/THEME--></head><body>
+<header><h1>短剧 CPS 看板 · FeiPlay <a class="ip-nav" href="#auto">自动化</a> <a class="ip-nav" href="#income-plan">预收入</a></h1><p>最后更新：2026-11-03 19:46（ICT, UTC+7）· 告警 0 条</p></header><!--AUTO-->
 <div id="topbar"><button class="btn pri" onclick="location.href=location.pathname+'?t='+Date.now()+'#auto'">🔄 刷新数据</button> <span id="upd" class="muted"></span><br>
 <a class="btn" target="_blank" href="https://cps.reelshort.com/">打开 RS Boost 后台</a><a class="btn" target="_blank" href="https://www.facebook.com/feiplay">打开 FeiPlay 主页</a><a class="btn" target="_blank" href="https://www.tiktok.com/">打开 TikTok</a><a class="btn" target="_blank" href="https://x.com/FeiPlayTV">打开 X</a><a class="btn" target="_blank" href="https://adsmanager.facebook.com/">打开 Meta 广告后台</a></div>
 <section id="auto"><h2>自动化</h2><div id="autobox" class="muted">加载中…</div><h3>片段操作</h3><div id="clipbox"></div></section>
@@ -270,4 +313,65 @@ d.innerHTML='';d.appendChild(f);});});
 document.querySelectorAll('a.lp').forEach(function(a){a.addEventListener('click',function(ev){ev.preventDefault();
 var d=a.parentNode.previousElementSibling;if(!d)return;var v=document.createElement('video');v.controls=true;v.playsInline=true;v.preload='none';
 if(a.dataset.poster)v.poster=a.dataset.poster;v.src=a.dataset.src;d.className='pv';d.removeAttribute('data-embed');d.innerHTML='';d.appendChild(v);v.play();});});
-</script></body></html>
+</script><!--THEME--><script>(function(){
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function N(v){return v==null?"暂无":String(v).replace(/\B(?=(\d{3})+(?!\d))/g,",")}
+var NAV=[["ov","概览"],["pub","已发布"],["sch","排期"],["auto","自动化"],["inc","预收入"]];
+var app=el("div");app.id="app";var side=el("nav");side.id="side";var b=el("div","brand","FeiPlay 短剧");b.appendChild(el("small",null,"CPS 推广控制台"));side.appendChild(b);
+var content=el("div");content.id="content";var bar=el("div");bar.id="bar";var h1=el("h1",null,"概览");bar.appendChild(h1);var upd=el("span","upd");bar.appendChild(upd);
+var rb=el("button","bt","刷新");rb.onclick=function(){location.href=location.pathname+"?t="+Date.now()+location.hash};bar.appendChild(rb);content.appendChild(bar);
+var V={};NAV.forEach(function(n){var a=el("a","nv",n[1]);a.href="#"+n[0];a.dataset.v=n[0];side.appendChild(a);var v=el("div","view");v.id="v-"+n[0];V[n[0]]=v;content.appendChild(v)});
+var ql=el("div","ql");ql.appendChild(el("div",null,"快捷入口"));[["RS Boost 后台","https://cps.reelshort.com/"],["FeiPlay 主页","https://www.facebook.com/feiplay"],["Meta 广告后台","https://adsmanager.facebook.com/"],["TikTok","https://www.tiktok.com/"],["X","https://x.com/FeiPlayTV"]].forEach(function(q){var a=el("a",null,q[0]+" ↗");a.href=q[1];a.target="_blank";a.rel="noopener";ql.appendChild(a)});side.appendChild(ql);
+app.appendChild(side);app.appendChild(content);document.body.appendChild(app);
+function show(){var k=(location.hash||"#ov").slice(1);if(!V[k])k="ov";NAV.forEach(function(n){V[n[0]].classList.toggle("on",n[0]==k)});[].forEach.call(side.querySelectorAll("a.nv"),function(a){a.classList.toggle("on",a.dataset.v==k)});NAV.forEach(function(n){if(n[0]==k)h1.textContent=n[1]});window.scrollTo(0,0)}
+window.addEventListener("hashchange",show);
+function card(t,parent){var c=el("div","card");if(t)c.appendChild(el("h2",null,t));(parent||null)&&parent.appendChild(c);return c}
+function mv(sel,c){var n=document.querySelector(sel);if(n)c.appendChild(n);return n}
+// 概览：KPI + 图 + 原有模块
+var kpi=el("div");kpi.id="kpi";V.ov.appendChild(kpi);var row=el("div","cols");V.ov.appendChild(row);var chc=card("近 14 天发布数（FB）",row);var alc=card("告警",row);mv("#alerts",alc);
+var r2=el("div","cols3");V.ov.appendChild(r2);mv("#earn",card("RS Boost 收益",r2));mv("#top",card("播放前三",r2));mv("#plan",card("今日发布计划",r2));
+mv("#comp",card("竞品（每剧一句）",V.ov));var tc=card("热剧榜 / 竞品详情",V.ov);mv("#comp-full",tc);mv("#trend",tc);
+var ip=document.getElementById("income-plan-wrap");if(ip){var ic=card(null,V.inc);ic.appendChild(ip)}else V.inc.appendChild(el("p","mute","暂无"));
+var t=document.getElementById("toast");if(t)document.body.appendChild(t);
+function vid(c){if(!/^media\/[\w.-]+_preview\.mp4$/.test(c.download||""))return el("div","mute sm","暂无视频");var v=document.createElement("video");v.controls=true;v.playsInline=true;v.preload="none";v.src=c.download;v.poster=c.download.replace("_preview.mp4","_thumb.jpg");return v}
+function menu(cs,fi,ti,c,inl){var d=el("details","vm"+(inl?" inl":"")),mn=el("div");d.appendChild(el("summary",null,"⋯"));d.appendChild(mn);
+ function bt(l,f){var x=el("button",null,l);x.onclick=function(){f();d.open=false};mn.appendChild(x)}
+ if(fi!=null&&/^https:\/\//.test(cs[fi].fb_url||"")){var a=el("a",null,"发到 X");a.target="_blank";a.rel="noopener";a.href="https://x.com/intent/post?text="+encodeURIComponent(c.hook+"\n▶ Clip: "+cs[fi].fb_url+"\n▶ Full drama: "+cs[fi].promo+" (affiliate link)\n#ad #shortdrama");mn.appendChild(a);
+  var o=el("a",null,"在 Facebook 查看");o.target="_blank";o.rel="noopener";o.href=cs[fi].fb_url;mn.appendChild(o);bt("复制 X 文案",function(){AU.act(fi,"x")})}
+ if(c.promo)bt("复制推广链接",function(){AU.act(fi!=null?fi:ti,"p")});if(ti!=null)bt("复制 TikTok 文案",function(){AU.act(ti,"t")});return mn.childNodes.length?d:null}
+fetch("status.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.json()}).then(function(st){
+ upd.textContent="数据更新于 "+st.generated;var cs=st.clips||[],q=st.queue||[],fbq=q[0]||{},td=st.today||{},e=td.earnings||{};
+ var pd=st.posts_by_day||[],tdy=pd.length?pd[pd.length-1][1]:0,yst=pd.length>1?pd[pd.length-2][1]:0,dl=tdy-yst;
+ var posted=cs.filter(function(c){return c.kind=="FB"&&c.status=="posted"});
+ var sv=null;posted.forEach(function(c){var v=c.metrics&&c.metrics.views;if(v!=null)sv=(sv||0)+v});
+ function K(l,v,d,dc){var c=el("div","card");c.appendChild(el("span",null,l));var bb=el("b",v=="暂无"?"na":"",v);c.appendChild(bb);c.appendChild(el("i",dc||"",d));kpi.appendChild(c)}
+ K("今日发布",N(tdy),"较昨日 "+(dl>=0?"+":"")+dl,dl>0?"up":dl<0?"dn":"");K("累计已发",N(posted.length),"Facebook","");
+ K("总播放",N(sv),sv==null?"等待数据接入":"已发帖合计","");K("昨日收益",e.yesterday==null?"暂无":"$"+e.yesterday,e.this_month==null?"本月 暂无":"本月 $"+e.this_month,"");
+ K("待发队列",N(fbq.remaining),"已排期 "+N(fbq.scheduled)+" · 待审 "+N(fbq.hold),"");
+ // 图
+ var W=600,H=160,P=24,mx=Math.max.apply(null,pd.map(function(x){return x[1]}).concat([1])),bw=(W-P*2)/Math.max(pd.length,1),s='<svg class="ch" viewBox="0 0 '+W+' '+H+'" width="100%" height="'+H+'">';
+ s+='<line x1="'+P+'" y1="'+(H-P)+'" x2="'+(W-P)+'" y2="'+(H-P)+'" stroke="#e4e8ec"/>';pd.forEach(function(x,i){var bh=(H-P*2)*x[1]/mx,X=P+i*bw+bw*.2;s+='<rect x="'+X+'" y="'+(H-P-bh)+'" width="'+(bw*.6)+'" height="'+bh+'" rx="2" fill="'+(i==pd.length-1?"#0866ff":"#9ec1ff")+'"/>';if(i%2==pd.length%2||i==pd.length-1)s+='<text x="'+(X+bw*.3)+'" y="'+(H-8)+'" text-anchor="middle">'+String(x[0]).replace(/[^\d-]/g,"")+'</text>';if(x[1])s+='<text x="'+(X+bw*.3)+'" y="'+(H-P-bh-4)+'" text-anchor="middle">'+(+x[1])+'</text>'});chc.insertAdjacentHTML("beforeend",s+"</svg>");
+ // 已发布
+ var idx={};cs.forEach(function(c,i){var k=c.slug+"/"+c.clip;idx[k]=idx[k]||{};idx[k][c.kind]=i});
+ if(!posted.length)V.pub.appendChild(el("p","mute","暂无已发布帖子"));
+ var src=card(null,V.pub);src.appendChild(el("div","sm mute",st.metrics_source?"帖子数据来源：复盘抓取（"+st.metrics_source+"）":"帖子数据：暂未接入 Facebook 数据（无 Graph API 权限，复盘写入 out/metrics.csv 后自动显示）。播放量来自 schedule.csv，目前为空。"));
+ posted.forEach(function(c){var ix=idx[c.slug+"/"+c.clip],m=c.metrics||{},cd=card(null,V.pub),g=el("div","pc");cd.appendChild(g);g.appendChild(vid(c));var r=el("div");g.appendChild(r);
+  var hd=el("div");hd.style.cssText="display:flex;justify-content:space-between;gap:8px;align-items:start";var tl=el("div");tl.appendChild(el("div","ttl",c.slug+" · "+c.clip.replace("clip_","#")));tl.appendChild(el("div","mute",c.hook));hd.appendChild(tl);var mn=menu(cs,ix.FB,ix.TikTok,c,1);if(mn)hd.appendChild(mn);r.appendChild(hd);
+  var bd=el("div");bd.style.marginTop="8px";bd.appendChild(el("span","bdg b-ok","已发布"));bd.appendChild(el("span","bdg b-gr",c.platform));bd.appendChild(el("span","bdg b-gr",c.time+"（北京时间）"));r.appendChild(bd);
+  var mg=el("div","mgrid");[["播放量",m.views],["覆盖人数",m.reach],["互动率",m.eng_rate==null?null:m.eng_rate+"%"],["链接点击",m.link_clicks]].forEach(function(x){var d=el("div");d.appendChild(el("span",null,x[0]));d.appendChild(el("b",x[1]==null?"na":"",N(x[1])));mg.appendChild(d)});r.appendChild(mg);
+  var tb=el("table","mt");[["赞",m.likes],["评论",m.comments],["分享",m.shares],["数据抓取时间",m.fetched]].forEach(function(x){var tr=el("tr");tr.appendChild(el("td","mute",x[0]));tr.appendChild(el("td",x[1]==null?"na":"",N(x[1])));tb.appendChild(tr)});r.appendChild(tb)});
+ // 排期
+ var seen={},items=[];cs.forEach(function(c){if(c.status=="posted")return;var k=c.slug+"/"+c.clip;if(!seen[k]){seen[k]={c:c,b:[]};items.push(seen[k])}var it=seen[k];if(c.kind=="FB"){it.c=c;it.b.unshift(["b-amb","FB 排期 "+c.time])}else it.b.push(["b-gr","TikTok 待手动"])});
+ var pl=items.filter(function(x){return x.b[0][0]=="b-amb"}),rest=items.filter(function(x){return x.b[0][0]!="b-amb"});
+ function grid(t,arr){var cd=card(t+"（"+arr.length+"）",V.sch),g=el("div","vgrid");cd.appendChild(g);arr.forEach(function(it){var c=it.c,ix=idx[c.slug+"/"+c.clip],v=el("div","vc2");v.appendChild(vid(c));var m=el("div","m");m.appendChild(el("div","dn",c.slug+" · "+c.clip.replace("clip_","#")));m.appendChild(el("div","hk",c.hook));it.b.forEach(function(x){m.appendChild(el("span","bdg "+x[0],x[1]))});v.appendChild(m);var mn=menu(cs,ix.FB,ix.TikTok,c);if(mn)v.appendChild(mn);g.appendChild(v)})}
+ grid("FB 已排期",pl);grid("待排期 / TikTok 待手动",rest);
+ // 自动化
+ var jc=card("自动任务",V.auto),tb2=el("table","jt"),hr=el("tr");["任务","状态","说明","时间（北京时间）","上次","下次"].forEach(function(x){hr.appendChild(el("th",null,x))});tb2.appendChild(hr);
+ (st.jobs||[]).forEach(function(j){var tr=el("tr"),mm=String(j.result).match(/^(成功|失败)（(.*)）$/),r0=mm?mm[1]:j.result,cl=/成功/.test(r0)?"b-ok":/失败|未运行/.test(r0)?"b-bad":"b-amb";
+  var a=el("td");a.appendChild(el("b",null,j.name));tr.appendChild(a);var b2=el("td");b2.appendChild(el("span","bdg "+cl,r0));tr.appendChild(b2);var c2=el("td",null,j.desc);if(mm)c2.appendChild(el("div","sm mute",mm[2].replace(/https?:\/\/\S+/g,"").trim()));tr.appendChild(c2);
+  tr.appendChild(el("td",null,j.sched));tr.appendChild(el("td","num",j.last));tr.appendChild(el("td","num",j.next));tb2.appendChild(tr)});jc.appendChild(tb2);
+ var qc=card("队列进度",V.auto),qt=el("table","jt"),qh=el("tr");["平台","已发","已排期","剩余","下一条"].forEach(function(x){qh.appendChild(el("th",null,x))});qt.appendChild(qh);
+ q.forEach(function(x){var tr=el("tr");[x.platform,N(x.posted),N(x.scheduled),N(x.remaining),x.next_time+" · "+x.next_title].forEach(function(y,i){tr.appendChild(el("td",i?"num":"",y))});qt.appendChild(tr)});qc.appendChild(qt);
+ document.addEventListener("play",function(ev){document.querySelectorAll("video").forEach(function(x){if(x!==ev.target)x.pause()})},true);
+}).catch(function(){V.ov.insertBefore(el("p","mute","状态数据加载失败"),V.ov.firstChild)});
+show()})();</script><!--/THEME--></body></html>
