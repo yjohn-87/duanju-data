@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-03 19:14",
+ "generated_ict": "2026-11-03 19:19",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2338,7 +2338,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-04 12:00",
    "thumb": "media/alpha__clip_001_thumb.jpg",
    "preview": "media/alpha__clip_001_preview.mp4",
    "note": ""
@@ -2353,7 +2353,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-06 02:00",
    "thumb": "media/alpha__clip_002_thumb.jpg",
    "preview": "media/alpha__clip_002_preview.mp4",
    "note": ""
@@ -2413,7 +2413,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-04 09:00",
    "thumb": "media/surf_god__clip_001_thumb.jpg",
    "preview": "media/surf_god__clip_001_preview.mp4",
    "note": ""
@@ -2428,7 +2428,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-05 09:00",
    "thumb": "media/surf_god__clip_002_thumb.jpg",
    "preview": "media/surf_god__clip_002_preview.mp4",
    "note": ""
@@ -2443,7 +2443,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-06 12:00",
    "thumb": "media/surf_god__clip_003_thumb.jpg",
    "preview": "media/surf_god__clip_003_preview.mp4",
    "note": ""
@@ -2473,7 +2473,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-04 02:00",
    "thumb": "media/virgin_sacrifice__clip_001_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_001_preview.mp4",
    "note": ""
@@ -2503,7 +2503,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-05 06:00",
    "thumb": "media/virgin_sacrifice__clip_003_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_003_preview.mp4",
    "note": ""
@@ -2518,7 +2518,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-06 06:00",
    "thumb": "media/virgin_sacrifice__clip_004_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_004_preview.mp4",
    "note": ""
@@ -2563,7 +2563,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-04 06:00",
    "thumb": "media/billionaire_mother__clip_001_thumb.jpg",
    "preview": "media/billionaire_mother__clip_001_preview.mp4",
    "note": ""
@@ -2578,7 +2578,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-05 02:00",
    "thumb": "media/billionaire_mother__clip_002_thumb.jpg",
    "preview": "media/billionaire_mother__clip_002_preview.mp4",
    "note": ""
@@ -2593,7 +2593,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-05 12:00",
    "thumb": "media/billionaire_mother__clip_003_thumb.jpg",
    "preview": "media/billionaire_mother__clip_003_preview.mp4",
    "note": ""
@@ -2608,7 +2608,7 @@
    "qa_ok": "yes",
    "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-06 09:00",
    "thumb": "media/billionaire_mother__clip_004_thumb.jpg",
    "preview": "media/billionaire_mother__clip_004_preview.mp4",
    "note": ""
@@ -2785,6 +2785,90 @@
    "scheduled_time_ict": "2026-11-03 14:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1469347595080080",
+   "views": ""
+  },
+  {
+   "clip_file": "out/virgin_sacrifice/clip_001.mp4",
+   "scheduled_time_ict": "2026-11-04 02:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/billionaire_mother/clip_001.mp4",
+   "scheduled_time_ict": "2026-11-04 06:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/surf_god/clip_001.mp4",
+   "scheduled_time_ict": "2026-11-04 09:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/alpha/clip_001.mp4",
+   "scheduled_time_ict": "2026-11-04 12:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/billionaire_mother/clip_002.mp4",
+   "scheduled_time_ict": "2026-11-05 02:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/virgin_sacrifice/clip_003.mp4",
+   "scheduled_time_ict": "2026-11-05 06:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/surf_god/clip_002.mp4",
+   "scheduled_time_ict": "2026-11-05 09:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/billionaire_mother/clip_003.mp4",
+   "scheduled_time_ict": "2026-11-05 12:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/alpha/clip_002.mp4",
+   "scheduled_time_ict": "2026-11-06 02:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/virgin_sacrifice/clip_004.mp4",
+   "scheduled_time_ict": "2026-11-06 06:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/billionaire_mother/clip_004.mp4",
+   "scheduled_time_ict": "2026-11-06 09:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/surf_god/clip_003.mp4",
+   "scheduled_time_ict": "2026-11-06 12:00",
+   "status": "planned",
+   "post_url": "",
    "views": ""
   }
  ],
