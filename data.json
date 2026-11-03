@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-03 15:04",
+ "generated_ict": "2026-11-03 15:06",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2111,9 +2111,9 @@
    "title": "They called him useless. Next stop: the Devil's Triangle.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
+   "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-04 11:00",
+   "scheduled_time_ict": "",
    "thumb": "media/sea_god__clip_002_thumb.jpg",
    "preview": "media/sea_god__clip_002_preview.mp4",
    "note": ""
@@ -2201,9 +2201,9 @@
    "title": "Raised by dragons. Playing the fool, until yesterday.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
+   "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-04 19:00",
+   "scheduled_time_ict": "",
    "thumb": "media/roaming__clip_002_thumb.jpg",
    "preview": "media/roaming__clip_002_preview.mp4",
    "note": ""
@@ -2280,20 +2280,6 @@
   {
    "clip_file": "out/roaming/clip_001.mp4",
    "scheduled_time_ict": "2026-11-03 16:30",
-   "status": "scheduled",
-   "post_url": "",
-   "views": ""
-  },
-  {
-   "clip_file": "out/sea_god/clip_002.mp4",
-   "scheduled_time_ict": "2026-11-04 11:00",
-   "status": "scheduled",
-   "post_url": "",
-   "views": ""
-  },
-  {
-   "clip_file": "out/roaming/clip_002.mp4",
-   "scheduled_time_ict": "2026-11-04 19:00",
    "status": "scheduled",
    "post_url": "",
    "views": ""
