@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-03 17:48",
+ "generated_ict": "2026-11-03 17:49",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2824,7 +2824,7 @@
     "state": "待发"
    }
   ],
-  "queued": 44
+  "queued": 41
  },
  "alerts": [
   [
@@ -2833,7 +2833,7 @@
   ],
   [
    "ok",
-   "库存 44 条排队，约 11.0 天"
+   "库存 41 条排队，约 10.2 天"
   ]
  ],
  "competitors": {
