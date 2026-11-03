@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-03 17:49",
+ "generated_ict": "2026-11-03 18:30",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2740,7 +2740,7 @@
    "duration_s": "90.0",
    "title": "Her ex is back in town. On their anniversary.",
    "fb_caption_ready": "yes",
-   "qa_ok": "yes",
+   "qa_ok": "hold",
    "status": "剪好",
    "post_url": "",
    "scheduled_time_ict": "",
@@ -2755,7 +2755,7 @@
    "duration_s": "90.0",
    "title": "She skipped their anniversary to surf with her ex.",
    "fb_caption_ready": "yes",
-   "qa_ok": "yes",
+   "qa_ok": "hold",
    "status": "剪好",
    "post_url": "",
    "scheduled_time_ict": "",
@@ -2770,7 +2770,7 @@
    "duration_s": "88.0",
    "title": "He built her a board. She picked her ex's sponsor.",
    "fb_caption_ready": "yes",
-   "qa_ok": "yes",
+   "qa_ok": "hold",
    "status": "剪好",
    "post_url": "",
    "scheduled_time_ict": "",
@@ -2807,20 +2807,20 @@
    },
    {
     "time": "06:00",
+    "clip": "billionaire_mother/clip_001.mp4",
+    "title": "Her own family slammed the door. So she lifted crates.",
+    "state": "待发"
+   },
+   {
+    "time": "09:00",
     "clip": "surf_god/clip_001.mp4",
     "title": "A sea hag cursed a god. Her price? Her daughter.",
     "state": "待发"
    },
    {
-    "time": "09:00",
+    "time": "12:00",
     "clip": "alpha/clip_001.mp4",
     "title": "Her father called her a liar. She has the scars.",
-    "state": "待发"
-   },
-   {
-    "time": "12:00",
-    "clip": "virgin_sacrifice/clip_003.mp4",
-    "title": "Her sister cast a spell. Now the gods are angry.",
     "state": "待发"
    }
   ],
@@ -3547,7 +3547,7 @@
    },
    "billionaire_mother": {
     "title": "The Extraordinary Mother of a Billionaire",
-    "accounts_estimate": "无数据",
+    "accounts_estimate": "~6",
     "accounts": [],
     "posts_found": 0,
     "platforms": {},
@@ -3559,8 +3559,8 @@
      "无数据"
     ],
     "overlap_with_our_clips": [],
-    "saturation": "无数据",
-    "conclusion": "无数据（公开搜索未返回带剧名的视频帖）；站内热度 无数据",
+    "saturation": "低",
+    "conclusion": "FB 站内：账号 ~6 · 最高播放 多数 <1000（老帖） · 饱和度 低（可多下集多剪，往前排）｜公开搜索：无数据",
     "queries": [
      "\"The Extraordinary Mother of a Billionaire\" reelshort",
      "The Extraordinary Mother of a Billionaire",
@@ -3573,11 +3573,15 @@
      "未见 TikTok/FB 短切片（公开搜索看不到，FB 站内未查）；竞品用的角度=官方简介『被误认成小偷/流浪汉羞辱→儿子是万亿集团主席』的全集合辑",
      "站内：reelshort.com 剧页显示 18.2M / 235k（原样）"
     ],
-    "source": "公开搜索"
+    "source": "FB 站内",
+    "web_saturation": "无数据",
+    "web_accounts_estimate": "无数据",
+    "fb_top_views": "多数 <1000（老帖）",
+    "fb_note": "可多下集多剪，往前排"
    },
    "homegirls": {
     "title": "Homegirls Before Husbands",
-    "accounts_estimate": "约4（0 个已知账号 + 4 条账号未显示）",
+    "accounts_estimate": "~15",
     "accounts": [],
     "posts_found": 4,
     "platforms": {
@@ -3649,8 +3653,8 @@
      "Two Wives, One Family, Zero Rescue"
     ],
     "overlap_with_our_clips": [],
-    "saturation": "低",
-    "conclusion": "竞争低：可见 4 条/约4（0 个已知账号 + 4 条账号未显示） 个账号（Dailymotion 2, YouTube 2），≤3分钟短切片 0 条/0 个账号；最高播放 无数据；站内热度 4895614 read_count(站内播放数)",
+    "saturation": "高",
+    "conclusion": "FB 站内：账号 ~15 · 最高播放 无数据 · 饱和度 高（一串垃圾号刷 15 秒片段，多挂 inbeidou 链接；放最后）｜公开搜索：低",
     "queries": [
      "\"Homegirls Before Husbands\" reelshort",
      "Homegirls Before Husbands",
@@ -3663,11 +3667,15 @@
      "竞品角度：『两个妻子都没人救』（火灾+丈夫去救前任的猫）全集合辑 → 我们标题避开 rescue/cat 字眼",
      "gasptv.com 记录站内播放 4.1M（11/2），dramacatalog 记 3M（11/1），上线 10/30 → 新剧，竞品少"
     ],
-    "source": "公开搜索"
+    "source": "FB 站内",
+    "web_saturation": "低",
+    "web_accounts_estimate": "约4（0 个已知账号 + 4 条账号未显示）",
+    "fb_top_views": "无数据",
+    "fb_note": "一串垃圾号刷 15 秒片段，多挂 inbeidou 链接；放最后"
    },
    "agent_shadows": {
     "title": "Agent of Shadows",
-    "accounts_estimate": "约4（0 个已知账号 + 4 条账号未显示）",
+    "accounts_estimate": "中",
     "accounts": [],
     "posts_found": 4,
     "platforms": {
@@ -3739,8 +3747,8 @@
      "无数据（标题多为全集合辑/只有剧名，看不出具体片段）"
     ],
     "overlap_with_our_clips": [],
-    "saturation": "低",
-    "conclusion": "竞争低：可见 4 条/约4（0 个已知账号 + 4 条账号未显示） 个账号（Dailymotion 2, YouTube 2），≤3分钟短切片 0 条/0 个账号；最高播放 无数据；站内热度 16270396 read_count(站内播放数)",
+    "saturation": "中",
+    "conclusion": "FB 站内：账号 中 · 最高播放 3–8.6万（WWE/ReelShort 官方为主） · 饱和度 中（仅 1 个号挂 reelslink；钩子避开 Drew McIntyre / now LIVE）｜公开搜索：低",
     "queries": [
      "\"Agent of Shadows\" reelshort",
      "Agent of Shadows",
@@ -3753,7 +3761,11 @@
      "竞品/官方角度：『世界第一特工伪装成女儿的保姆』+ WWE 明星（Drew McIntyre）→ 我们避开 nanny/WWE 角度，用酒保身份反转、亲子鉴定",
      "verticalcharts：10/29 Vertical 52 榜 #13，10.3M（原样）；有官方 WWE 推广，后续竞品可能快速增加"
     ],
-    "source": "公开搜索"
+    "source": "FB 站内",
+    "web_saturation": "低",
+    "web_accounts_estimate": "约4（0 个已知账号 + 4 条账号未显示）",
+    "fb_top_views": "3–8.6万（WWE/ReelShort 官方为主）",
+    "fb_note": "仅 1 个号挂 reelslink；钩子避开 Drew McIntyre / now LIVE"
    }
   },
   "fb_file": "trends/out/competitors_fb_insite_2026-11-03.md"
