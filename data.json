@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-04 06:06",
+ "generated_ict": "2026-11-04 06:10",
  "trends": {
   "file": "trends/out/2026-11-03.csv",
   "overseas": [
@@ -2456,9 +2456,9 @@
    "title": "They called him a sponger. He made a vow.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-07 06:00",
    "thumb": "media/surf_god__clip_004_thumb.jpg",
    "preview": "media/surf_god__clip_004_preview.mp4",
    "note": ""
@@ -2561,9 +2561,9 @@
    "title": "Her own family slammed the door. So she lifted crates.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-04 06:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/5007631552797040",
+   "scheduled_time_ict": "2026-11-04 06:09",
    "thumb": "media/billionaire_mother__clip_001_thumb.jpg",
    "preview": "media/billionaire_mother__clip_001_preview.mp4",
    "note": ""
@@ -2796,9 +2796,9 @@
   },
   {
    "clip_file": "out/billionaire_mother/clip_001.mp4",
-   "scheduled_time_ict": "2026-11-04 06:00",
-   "status": "planned",
-   "post_url": "",
+   "scheduled_time_ict": "2026-11-04 06:09",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/5007631552797040",
    "views": ""
   },
   {
@@ -2877,6 +2877,13 @@
    "status": "planned",
    "post_url": "",
    "views": ""
+  },
+  {
+   "clip_file": "out/surf_god/clip_004.mp4",
+   "scheduled_time_ict": "2026-11-07 06:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
   }
  ],
  "earnings": {
@@ -2904,15 +2911,15 @@
    },
    {
     "time": "06:00",
-    "clip": "",
-    "title": "",
-    "state": "漏发"
+    "clip": "billionaire_mother/clip_001.mp4",
+    "title": "Her own family slammed the door. So she lifted crates.",
+    "state": "已发"
    },
    {
     "time": "09:00",
-    "clip": "billionaire_mother/clip_001.mp4",
-    "title": "Her own family slammed the door. So she lifted crates.",
-    "state": "待发"
+    "clip": "",
+    "title": "",
+    "state": "跳过（距上一条 <3h）"
    },
    {
     "time": "12:00",
@@ -2921,24 +2928,16 @@
     "state": "待发"
    }
   ],
-  "queued": 40
+  "queued": 39
  },
  "alerts": [
-  [
-   "missed",
-   "11-04 06:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "out/billionaire_mother/clip_001.mp4 排期 11-04 06:00 已过，状态仍是 planned"
-  ],
   [
    "ok",
    "安全验证/封禁：无记录（来自 alerts.json 和 schedule.csv）"
   ],
   [
    "ok",
-   "库存 40 条排队，约 10.0 天"
+   "库存 39 条排队，约 9.8 天"
   ]
  ],
  "competitors": {

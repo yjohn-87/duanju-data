@@ -54,7 +54,7 @@
   ],
   [
    "11-04",
-   1
+   2
   ]
  ],
  "metrics_source": null,
@@ -112,14 +112,23 @@
    "slug": "billionaire_mother",
    "clip": "clip_001",
    "hook": "Her own family slammed the door. So she lifted crates.",
-   "time": "11-04 07:00",
-   "status": "planned",
-   "fb_url": "",
+   "time": "11-04 07:09",
+   "status": "posted",
+   "fb_url": "https://www.facebook.com/reel/5007631552797040",
    "promo": "https://reelslink.com/cps/PyuQ4m",
    "views": null,
    "tiktok": "Her own family shut the door on her… so she started hauling crates for her son 📦 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #emotional #fyp",
    "download": "media/billionaire_mother__clip_001_preview.mp4",
-   "metrics": null,
+   "metrics": {
+    "views": null,
+    "reach": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "link_clicks": null,
+    "eng_rate": null,
+    "fetched": null
+   },
    "platform": "Facebook"
   },
   {
@@ -284,6 +293,21 @@
    "views": null,
    "tiktok": "She begged her mate to stop it… he said \"Do it\" ✂️ From After the Alpha's Cruel Trials on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #werewolf #fyp",
    "download": "media/alpha__clip_003_preview.mp4",
+   "metrics": null,
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
+   "slug": "surf_god",
+   "clip": "clip_004",
+   "hook": "They called him a sponger. He made a vow.",
+   "time": "11-07 07:00",
+   "status": "planned",
+   "fb_url": "",
+   "promo": "https://reelslink.com/cps/D5qbWz",
+   "views": null,
+   "tiktok": "Everyone at the wedding called him a sponger… they have no idea who he is 💍 From Surf God's Revenge on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #faceslap #fyp",
+   "download": "media/surf_god__clip_004_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -918,7 +942,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-04 07:07（北京时间）",
+ "generated": "2026-11-04 07:10（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -930,18 +954,18 @@
   },
   {
    "name": "FB 自动发帖队列",
-   "desc": "按 queue.csv 顺序发 FB Reels（已发 2）",
+   "desc": "按 queue.csv 顺序发 FB Reels（已发 3）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-04 03:11",
-   "result": "成功（virgin_sacrifice/clip_001 https://www.facebook.com/reel/4541）",
-   "next": "11-04 07:00"
+   "last": "11-04 07:10",
+   "result": "成功（billionaire_mother/clip_001 https://www.facebook.com/reel/50）",
+   "next": "11-04 10:00"
   },
   {
    "name": "链接评论自动挂",
    "desc": "帖子发出后在评论区挂 RS Boost 推广链接",
    "sched": "每次发帖后",
-   "last": "11-04 03:11",
-   "result": "成功（virgin_sacrifice/clip_001 added）",
+   "last": "11-04 07:10",
+   "result": "成功（billionaire_mother/clip_001 added）",
    "next": "随下次发帖"
   },
   {
@@ -980,12 +1004,12 @@
  "queue": [
   {
    "platform": "Facebook",
-   "posted": 2,
+   "posted": 3,
    "scheduled": 12,
-   "remaining": 40,
+   "remaining": 39,
    "hold": 3,
-   "next_time": "11-04 07:00",
-   "next_title": "billionaire_mother"
+   "next_time": "11-04 10:00",
+   "next_title": "surf_god"
   },
   {
    "platform": "TikTok",
