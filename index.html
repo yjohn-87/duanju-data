@@ -75,9 +75,9 @@ table.jt{width:100%;border-collapse:collapse}table.jt th{text-align:left;font-si
 @media(max-width:760px){#app{grid-template-columns:1fr}#side{position:sticky;top:0;z-index:30;height:auto;flex-direction:row;overflow-x:auto;padding:8px;gap:4px;border-right:0;border-bottom:1px solid var(--line);align-items:center;align-self:start}#side a.nv{flex:0 0 auto}#side .brand,#side .ql{display:none}#side a.nv{white-space:nowrap;padding:8px 12px;min-height:28px}
 #bar{position:static;padding:12px 14px}.view{padding:14px}#kpi{grid-template-columns:repeat(2,1fr);gap:10px}#kpi b{font-size:22px}.pc{grid-template-columns:1fr}.mgrid{grid-template-columns:repeat(2,1fr)}.vgrid{grid-template-columns:repeat(2,1fr);gap:10px}table.jt th:nth-child(3),table.jt td:nth-child(3){display:none}}
 </style><!--/THEME--></head><body>
-<header><h1>短剧 CPS 看板 · FeiPlay <a class="ip-nav" href="#auto">自动化</a> <a class="ip-nav" href="#income-plan">预收入</a></h1><p>最后更新：2026-11-03 21:11（ICT, UTC+7）· 告警 0 条</p></header><!--AUTO-->
+<header><h1>短剧 CPS 看板 · FeiPlay <a class="ip-nav" href="#auto">自动化</a> <a class="ip-nav" href="#income-plan">预收入</a></h1><p>最后更新：2026-11-03 21:29（ICT, UTC+7）· 告警 0 条</p></header><!--AUTO-->
 <div id="topbar"><button class="btn pri" onclick="location.href=location.pathname+'?t='+Date.now()+'#auto'">🔄 刷新数据</button> <span id="upd" class="muted"></span><br>
-<a class="btn" target="_blank" href="https://cps.reelshort.com/">打开 RS Boost 后台</a><a class="btn" target="_blank" href="https://www.facebook.com/feiplay">打开 FeiPlay 主页</a><a class="btn" target="_blank" href="https://www.tiktok.com/">打开 TikTok</a><a class="btn" target="_blank" href="https://x.com/FeiPlayTV">打开 X</a><a class="btn" target="_blank" href="https://adsmanager.facebook.com/">打开 Meta 广告后台</a></div>
+<a class="btn" target="_blank" href="https://cps.reelshort.com/">打开 RS Boost 后台</a><a class="btn" target="_blank" href="https://www.facebook.com/feiplay">打开 FeiPlay 主页</a><a class="btn" target="_blank" href="https://www.tiktok.com/@feiplay.tv">打开 TikTok @feiplay.tv</a><a class="btn" target="_blank" href="https://www.youtube.com/@FeiPlayTV">打开 YouTube</a><a class="btn" target="_blank" href="https://x.com/FeiPlayTV">打开 X</a><a class="btn" target="_blank" href="https://adsmanager.facebook.com/">打开 Meta 广告后台</a></div>
 <section id="auto"><h2>自动化</h2><div id="autobox" class="muted">加载中…</div><h3>片段操作</h3><div id="clipbox"></div></section>
 <div id="toast"></div>
 <style>#topbar{position:sticky;top:0;z-index:9;background:#fff;padding:6px 4px;border-bottom:1px solid #e5e7eb}.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 14px;margin:4px 4px 0 0;border:1px solid #d1d5db;border-radius:10px;background:#f9fafb;color:#111827;font-size:15px;text-decoration:none;cursor:pointer}.btn.pri{background:#2563eb;color:#fff;border-color:#2563eb}#toast{position:fixed;left:50%;bottom:30px;transform:translateX(-50%);background:#111827;color:#fff;padding:10px 18px;border-radius:20px;display:none;z-index:99}#auto .c{border:1px solid #e5e7eb;border-radius:10px;padding:10px;margin:8px 0;font-size:14px}#auto .c b{font-size:15px}#auto .ok{color:#059669}#auto .bad{color:#dc2626}#auto .g{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;text-align:center}#auto .n{font-size:20px;font-weight:700}</style>
@@ -141,7 +141,7 @@ load(0);return{load:load,act:act}})();</script>
 <div class="ip-card">
 <h2>预计收入计划表</h2>
 <div class="ip-con">结论：现在收入 $0。前 3 个月现实区间：保守每月 $1–$3，中等每月 $29 → $52 → $108，乐观每月 $371 → $773 → $1,932（需全部乐观假设同时成立）；中等档约第 2 个月累计过 $50 提现门槛。佣金比例后台未写，全部是估算。</div>
-<p class="ip-muted">现状 11/3：RS Boost 已激活（rs2026），My Earnings $0.00；FB 主页 FeiPlay 新建，已发 1 条，队列 26 条，11/4 起 4 条/天；TikTok 待改名；花费 $0。26 条约 11/10 发完，之后需持续补片。</p>
+<p class="ip-muted">现状 11/3：RS Boost 已激活（rs2026），My Earnings $0.00；FB 主页 FeiPlay 新建，已发 1 条，队列 26 条，11/4 起 4 条/天；TikTok 已改名 @feiplay.tv；YouTube @FeiPlayTV 已开；花费 $0。26 条约 11/10 发完，之后需持续补片。</p>
 </div>
 
 <div class="ip-card">
@@ -321,7 +321,7 @@ var app=el("div");app.id="app";var side=el("nav");side.id="side";var b=el("div",
 var content=el("div");content.id="content";var bar=el("div");bar.id="bar";var h1=el("h1",null,"概览");bar.appendChild(h1);var upd=el("span","upd");bar.appendChild(upd);
 var rb=el("button","bt","刷新");rb.onclick=function(){location.href=location.pathname+"?t="+Date.now()+location.hash};bar.appendChild(rb);content.appendChild(bar);
 var V={};NAV.forEach(function(n){var a=el("a","nv",n[1]);a.href="#"+n[0];a.dataset.v=n[0];side.appendChild(a);var v=el("div","view");v.id="v-"+n[0];V[n[0]]=v;content.appendChild(v)});
-var ql=el("div","ql");ql.appendChild(el("div",null,"快捷入口"));[["RS Boost 后台","https://cps.reelshort.com/"],["FeiPlay 主页","https://www.facebook.com/feiplay"],["Meta 广告后台","https://adsmanager.facebook.com/"],["TikTok","https://www.tiktok.com/"],["X","https://x.com/FeiPlayTV"]].forEach(function(q){var a=el("a",null,q[0]+" ↗");a.href=q[1];a.target="_blank";a.rel="noopener";ql.appendChild(a)});side.appendChild(ql);
+var ql=el("div","ql");ql.appendChild(el("div",null,"快捷入口"));[["RS Boost 后台","https://cps.reelshort.com/"],["FeiPlay 主页","https://www.facebook.com/feiplay"],["Meta 广告后台","https://adsmanager.facebook.com/"],["TikTok @feiplay.tv","https://www.tiktok.com/@feiplay.tv"],["YouTube","https://www.youtube.com/@FeiPlayTV"],["X","https://x.com/FeiPlayTV"]].forEach(function(q){var a=el("a",null,q[0]+" ↗");a.href=q[1];a.target="_blank";a.rel="noopener";ql.appendChild(a)});side.appendChild(ql);
 app.appendChild(side);app.appendChild(content);document.body.appendChild(app);
 function show(){var k=(location.hash||"#ov").slice(1);if(!V[k])k="ov";NAV.forEach(function(n){V[n[0]].classList.toggle("on",n[0]==k)});[].forEach.call(side.querySelectorAll("a.nv"),function(a){a.classList.toggle("on",a.dataset.v==k)});NAV.forEach(function(n){if(n[0]==k)h1.textContent=n[1]});window.scrollTo(0,0)}
 window.addEventListener("hashchange",show);
