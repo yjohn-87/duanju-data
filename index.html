@@ -32,7 +32,7 @@ a.ip-nav{color:#111827;background:#fbbf24;font-weight:600;font-size:13px;padding
 @media (max-width:800px){.grid{grid-template-columns:1fr 1fr}.grid .w2{grid-column:span 2}}
 @media (max-width:560px){.clips{grid-template-columns:1fr 1fr}.row .vc{flex-basis:42%}.grid{grid-template-columns:1fr;gap:6px}.grid .w2{grid-column:auto}section{padding:8px 10px}body{font-size:13.5px}.kv{grid-template-columns:auto 1fr auto 1fr}}
 </style></head><body>
-<header><h1>短剧 CPS 看板 · FeiPlay <a class="ip-nav" href="#income-plan">预收入</a></h1><p>最后更新：2026-11-03 18:30（ICT, UTC+7）· 告警 0 条</p></header>
+<header><h1>短剧 CPS 看板 · FeiPlay <a class="ip-nav" href="#auto">自动化</a> <a class="ip-nav" href="#income-plan">预收入</a></h1><p>最后更新：2026-11-03 19:14（ICT, UTC+7）· 告警 0 条</p></header>
 <main>
 <div class="grid">
 <section id="earn"><h2>💰 RS Boost 收益</h2><div class="kv"><span>昨日</span><b>null（未填）</b><span>本月</span><b>null（未填）</b><span>可提现</span><b>null（未填）</b><span>更新时间</span><b>null（未填）</b></div><p class="sm muted">备注：后台页面显示 $0.00（11/3）</p></section>
@@ -223,4 +223,15 @@ d.innerHTML='';d.appendChild(f);});});
 document.querySelectorAll('a.lp').forEach(function(a){a.addEventListener('click',function(ev){ev.preventDefault();
 var d=a.parentNode.previousElementSibling;if(!d)return;var v=document.createElement('video');v.controls=true;v.playsInline=true;v.preload='none';
 if(a.dataset.poster)v.poster=a.dataset.poster;v.src=a.dataset.src;d.className='pv';d.removeAttribute('data-embed');d.innerHTML='';d.appendChild(v);v.play();});});
-</script></body></html>
+</script><!--AUTO-->
+<section id="auto"><h2>自动化</h2><div id="autobox" class="muted">加载中…</div></section>
+<style>#auto .c{border:1px solid #e5e7eb;border-radius:10px;padding:10px;margin:8px 0;font-size:14px}#auto .c b{font-size:15px}#auto .ok{color:#059669}#auto .bad{color:#dc2626}#auto .g{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;text-align:center}#auto .n{font-size:20px;font-weight:700}</style>
+<script>(function(){var E=function(s){return String(s==null?"暂无":s).replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})};
+fetch("status.json?t="+Date.now()).then(function(r){return r.json()}).then(function(s){var h="<p class=muted>更新于 "+E(s.generated)+" · 每 30 分钟自动刷新</p><h3>今日关键数据</h3><div class='c g'>";
+var t=s.today,e=t.earnings;h+="<div><div class=n>"+E(t.views)+"</div>总播放</div><div><div class=n>"+(e.yesterday==null?"暂无":"$"+E(e.yesterday))+"</div>昨日收益</div><div><div class=n>"+t.alerts.length+"</div>告警</div></div>";
+if(e.note)h+="<p class=muted>收益备注："+E(e.note)+"</p>";t.alerts.forEach(function(a){h+="<div class='c bad'>"+E(typeof a=="string"?a:(a.msg||a.message||JSON.stringify(a)))+"</div>"});
+h+="<h3>队列进度</h3>";s.queue.forEach(function(q){h+="<div class=c><b>"+E(q.platform)+"</b> 已发 "+q.posted+" · 已排期 "+q.scheduled+" · 剩余 "+E(q.remaining)+(q.hold?" · 待审 "+q.hold:"")+"<br>下一条："+E(q.next_time)+" · "+E(q.next_title)+"</div>"});
+h+="<h3>自动任务</h3>";s.jobs.forEach(function(j){var c=/成功/.test(j.result)?"ok":/失败|未运行/.test(j.result)?"bad":"";h+="<div class=c><b>"+E(j.name)+"</b> <span class="+c+">"+E(j.result)+"</span><br><span class=muted>"+E(j.desc)+"</span><br>时间（北京时间）："+E(j.sched)+"<br>上次："+E(j.last)+" · 下次："+E(j.next)+"</div>"});
+document.getElementById("autobox").innerHTML=h}).catch(function(){document.getElementById("autobox").textContent="状态数据加载失败"})})();</script>
+<!--/AUTO-->
+</body></html>

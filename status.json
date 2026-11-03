@@ -1,0 +1,101 @@
+{
+ "generated": "2026-11-03 20:14（北京时间）",
+ "jobs": [
+  {
+   "name": "热剧榜每日抓取",
+   "desc": "抓红果/ReelShort 热度榜 + 竞品检查，出选剧参考",
+   "sched": "每天 09:00",
+   "last": "11-03 15:51",
+   "result": "成功",
+   "next": "11-04 09:00"
+  },
+  {
+   "name": "FB 自动发帖队列",
+   "desc": "按 queue.csv 顺序发 FB Reels（已发 1）",
+   "sched": "按排期表 schedule.csv",
+   "last": "11-03 15:05",
+   "result": "成功",
+   "next": "未排期"
+  },
+  {
+   "name": "链接评论自动挂",
+   "desc": "帖子发出后在评论区挂 RS Boost 推广链接",
+   "sched": "每次发帖后",
+   "last": "暂无记录",
+   "result": "暂无日志",
+   "next": "随下次发帖"
+  },
+  {
+   "name": "每日复盘",
+   "desc": "汇总前一天播放/收益/告警",
+   "sched": "每天约 09:15",
+   "last": "11-03 20:14",
+   "result": "暂无日志",
+   "next": "11-04 09:15"
+  },
+  {
+   "name": "热帖提醒/加热",
+   "desc": "播放≥中位数×3 且 ≥1000 → 提醒并加热 $3/天×3天（仅 Meta 余额，仅美/加/英/澳）",
+   "sched": "随数据更新",
+   "last": "11-03 18:00",
+   "result": "暂无播放数据",
+   "next": "随数据更新"
+  },
+  {
+   "name": "TikTok 队列",
+   "desc": "42 条待发，暂为手动发布",
+   "sched": "待手动/待接入",
+   "last": "—",
+   "result": "待手动",
+   "next": "待接入"
+  },
+  {
+   "name": "X（推特）",
+   "desc": "一键发布链接，手动点",
+   "sched": "手动",
+   "last": "—",
+   "result": "手动",
+   "next": "—"
+  }
+ ],
+ "queue": [
+  {
+   "platform": "Facebook",
+   "posted": 1,
+   "scheduled": 0,
+   "remaining": 41,
+   "hold": 3,
+   "next_time": "未排期",
+   "next_title": "virgin_sacrifice（队首）"
+  },
+  {
+   "platform": "TikTok",
+   "posted": 0,
+   "scheduled": 0,
+   "remaining": 42,
+   "hold": 0,
+   "next_time": "待手动",
+   "next_title": "surf_god"
+  },
+  {
+   "platform": "X",
+   "posted": 0,
+   "scheduled": 0,
+   "remaining": null,
+   "hold": 0,
+   "next_time": "手动",
+   "next_title": "—"
+  }
+ ],
+ "today": {
+  "views": null,
+  "posts_with_views": 0,
+  "earnings": {
+   "yesterday": null,
+   "this_month": null,
+   "withdrawable": null,
+   "note": "后台页面显示 $0.00（11/3）"
+  },
+  "alerts": []
+ }
+}
