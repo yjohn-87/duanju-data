@@ -1047,7 +1047,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-04 14:09（北京时间）",
+ "generated": "2026-11-04 15:12（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1061,8 +1061,8 @@
    "name": "FB 自动发帖队列",
    "desc": "按 queue.csv 顺序发 FB Reels（已发 3）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-04 11:58",
-   "result": "失败（virgin_sacrifice/clip_003 not posted: Page identity kept fli）",
+   "last": "11-04 14:42",
+   "result": "失败（virgin_sacrifice/clip_003 not posted: Facebook login prompt ）",
    "next": "11-04 10:00"
   },
   {
@@ -1144,6 +1144,8 @@
    "withdrawable": "$0.00",
    "note": "后台显示：昨日/本月/上月结算/可提现均 $0.00；Dramas/Novels/Commission 推广内容 0、订单 0"
   },
-  "alerts": []
+  "alerts": [
+   "{\"type\": \"fb_login_required\", \"date\": \"2026-11-04T13:42+07:00\", \"note\": \"facebook.com/feiplay/reels showed logged-out view (Log In / Create new account) in box Chrome; user's computer offline so browsing no longer routed through it. VS clip_003 not posted.\"}"
+  ]
  }
 }
