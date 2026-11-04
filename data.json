@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-04 14:12",
+ "generated_ict": "2026-11-04 15:51",
  "trends": {
   "file": "trends/out/2026-11-04.csv",
   "overseas": [
@@ -1393,7 +1393,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-05 06:00",
+   "scheduled_time_ict": "2026-11-05 09:00",
    "thumb": "media/sea_god__clip_002_thumb.jpg",
    "preview": "media/sea_god__clip_002_preview.mp4",
    "note": ""
@@ -1468,7 +1468,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-05 02:00",
+   "scheduled_time_ict": "2026-11-05 06:00",
    "thumb": "media/roaming__clip_001_thumb.jpg",
    "preview": "media/roaming__clip_001_preview.mp4",
    "note": ""
@@ -1481,9 +1481,9 @@
    "title": "Raised by dragons. Playing the fool, until yesterday.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-07 12:00",
    "thumb": "media/roaming__clip_002_thumb.jpg",
    "preview": "media/roaming__clip_002_preview.mp4",
    "note": ""
@@ -1558,7 +1558,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-05 12:00",
+   "scheduled_time_ict": "2026-11-06 02:00",
    "thumb": "media/triplets__clip_001_thumb.jpg",
    "preview": "media/triplets__clip_001_preview.mp4",
    "note": ""
@@ -1618,7 +1618,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 06:00",
+   "scheduled_time_ict": "2026-11-06 09:00",
    "thumb": "media/alpha__clip_001_thumb.jpg",
    "preview": "media/alpha__clip_001_preview.mp4",
    "note": ""
@@ -1678,7 +1678,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 02:00",
+   "scheduled_time_ict": "2026-11-06 06:00",
    "thumb": "media/worth_chase__clip_001_thumb.jpg",
    "preview": "media/worth_chase__clip_001_preview.mp4",
    "note": ""
@@ -1693,7 +1693,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-05 09:00",
+   "scheduled_time_ict": "2026-11-05 12:00",
    "thumb": "media/surf_god__clip_001_thumb.jpg",
    "preview": "media/surf_god__clip_001_preview.mp4",
    "note": ""
@@ -1781,9 +1781,9 @@
    "title": "Her sister cast a spell. Now the gods are angry.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-04 09:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/1612730899844955",
+   "scheduled_time_ict": "2026-11-04 15:51",
    "thumb": "media/virgin_sacrifice__clip_003_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_003_preview.mp4",
    "note": ""
@@ -1798,7 +1798,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 12:00",
+   "scheduled_time_ict": "2026-11-07 02:00",
    "thumb": "media/virgin_sacrifice__clip_004_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_004_preview.mp4",
    "note": ""
@@ -1813,7 +1813,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 09:00",
+   "scheduled_time_ict": "2026-11-06 12:00",
    "thumb": "media/agent_shadows__clip_001_thumb.jpg",
    "preview": "media/agent_shadows__clip_001_preview.mp4",
    "note": ""
@@ -1858,7 +1858,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-04 12:00",
+   "scheduled_time_ict": "2026-11-05 02:00",
    "thumb": "media/billionaire_mother__clip_002_thumb.jpg",
    "preview": "media/billionaire_mother__clip_002_preview.mp4",
    "note": ""
@@ -1873,7 +1873,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 06:00",
+   "scheduled_time_ict": "2026-11-07 09:00",
    "thumb": "media/billionaire_mother__clip_003_thumb.jpg",
    "preview": "media/billionaire_mother__clip_003_preview.mp4",
    "note": ""
@@ -1903,7 +1903,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 02:00",
+   "scheduled_time_ict": "2026-11-07 06:00",
    "thumb": "media/homegirls__clip_001_thumb.jpg",
    "preview": "media/homegirls__clip_001_preview.mp4",
    "note": ""
@@ -2188,84 +2188,91 @@
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_003.mp4",
-   "scheduled_time_ict": "2026-11-04 09:00",
-   "status": "planned",
-   "post_url": "",
+   "scheduled_time_ict": "2026-11-04 15:51",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/1612730899844955",
    "views": ""
   },
   {
    "clip_file": "out/billionaire_mother/clip_002.mp4",
-   "scheduled_time_ict": "2026-11-04 12:00",
-   "status": "planned",
-   "post_url": "",
-   "views": ""
-  },
-  {
-   "clip_file": "out/roaming/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_002.mp4",
+   "clip_file": "out/roaming/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_001.mp4",
+   "clip_file": "out/sea_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-05 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/triplets/clip_001.mp4",
+   "clip_file": "out/surf_god/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/worth_chase/clip_001.mp4",
+   "clip_file": "out/triplets/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/alpha/clip_001.mp4",
+   "clip_file": "out/worth_chase/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/agent_shadows/clip_001.mp4",
+   "clip_file": "out/alpha/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_004.mp4",
+   "clip_file": "out/agent_shadows/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/homegirls/clip_001.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_004.mp4",
    "scheduled_time_ict": "2026-11-07 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/billionaire_mother/clip_003.mp4",
+   "clip_file": "out/homegirls/clip_001.mp4",
    "scheduled_time_ict": "2026-11-07 06:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/billionaire_mother/clip_003.mp4",
+   "scheduled_time_ict": "2026-11-07 09:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/roaming/clip_002.mp4",
+   "scheduled_time_ict": "2026-11-07 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
@@ -2291,47 +2298,35 @@
   "slots": [
    {
     "time": "02:00",
-    "clip": "virgin_sacrifice/clip_003.mp4",
-    "title": "Her sister cast a spell. Now the gods are angry.",
-    "state": "待发"
-   },
-   {
-    "time": "06:00",
     "clip": "billionaire_mother/clip_002.mp4",
     "title": "She hid the wound from her son. Now he runs an empire.",
     "state": "待发"
    },
    {
-    "time": "09:00",
+    "time": "06:00",
     "clip": "roaming/clip_001.mp4",
     "title": "His father called him worthless. Big mistake.",
     "state": "待发"
    },
    {
-    "time": "12:00",
+    "time": "09:00",
     "clip": "sea_god/clip_002.mp4",
     "title": "They called him useless. Next stop: the Devil's Triangle.",
     "state": "待发"
+   },
+   {
+    "time": "12:00",
+    "clip": "surf_god/clip_001.mp4",
+    "title": "A sea hag cursed a god. Her price? Her daughter.",
+    "state": "待发"
    }
   ],
-  "queued": 45
+  "queued": 44
  },
  "alerts": [
   [
    "missed",
    "11-04 09:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "11-04 12:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "out/virgin_sacrifice/clip_003.mp4 排期 11-04 09:00 已过，状态仍是 planned"
-  ],
-  [
-   "missed",
-   "out/billionaire_mother/clip_002.mp4 排期 11-04 12:00 已过，状态仍是 planned"
   ],
   [
    "fb_login_required",
@@ -2343,7 +2338,7 @@
   ],
   [
    "ok",
-   "库存 45 条排队，约 11.2 天"
+   "库存 44 条排队，约 11.0 天"
   ]
  ],
  "competitors": {

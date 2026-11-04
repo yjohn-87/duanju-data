@@ -54,7 +54,7 @@
   ],
   [
    "11-04",
-   2
+   3
   ]
  ],
  "metrics_source": "out/metrics.csv",
@@ -136,14 +136,23 @@
    "slug": "virgin_sacrifice",
    "clip": "clip_003",
    "hook": "Her sister cast a spell. Now the gods are angry.",
-   "time": "11-04 10:00",
-   "status": "planned",
-   "fb_url": "",
+   "time": "11-04 16:51",
+   "status": "posted",
+   "fb_url": "https://www.facebook.com/reel/1612730899844955",
    "promo": "https://reelslink.com/cps/3MLpsL",
    "views": null,
    "tiktok": "Her sister bewitched the prince… and now the God of War is coming 🔮 Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_003_preview.mp4",
-   "metrics": null,
+   "metrics": {
+    "views": null,
+    "reach": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "link_clicks": null,
+    "eng_rate": null,
+    "fetched": null
+   },
    "platform": "Facebook"
   },
   {
@@ -151,7 +160,7 @@
    "slug": "billionaire_mother",
    "clip": "clip_002",
    "hook": "She hid the wound from her son. Now he runs an empire.",
-   "time": "11-04 13:00",
+   "time": "11-05 03:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/PyuQ4m",
@@ -166,7 +175,7 @@
    "slug": "roaming",
    "clip": "clip_001",
    "hook": "His father called him worthless. Big mistake.",
-   "time": "11-05 03:00",
+   "time": "11-05 07:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/TKJUII",
@@ -181,7 +190,7 @@
    "slug": "sea_god",
    "clip": "clip_002",
    "hook": "They called him useless. Next stop: the Devil's Triangle.",
-   "time": "11-05 07:00",
+   "time": "11-05 10:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/1noh7F",
@@ -196,7 +205,7 @@
    "slug": "surf_god",
    "clip": "clip_001",
    "hook": "A sea hag cursed a god. Her price? Her daughter.",
-   "time": "11-05 10:00",
+   "time": "11-05 13:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/D5qbWz",
@@ -211,7 +220,7 @@
    "slug": "triplets",
    "clip": "clip_001",
    "hook": "They burned the gift they gave her. Big mistake.",
-   "time": "11-05 13:00",
+   "time": "11-06 03:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/7FIatU",
@@ -226,7 +235,7 @@
    "slug": "worth_chase",
    "clip": "clip_001",
    "hook": "Was last night a mistake? His answer...",
-   "time": "11-06 03:00",
+   "time": "11-06 07:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/xrJ2jS",
@@ -241,7 +250,7 @@
    "slug": "alpha",
    "clip": "clip_001",
    "hook": "Her father called her a liar. She has the scars.",
-   "time": "11-06 07:00",
+   "time": "11-06 10:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/Rynina",
@@ -256,7 +265,7 @@
    "slug": "agent_shadows",
    "clip": "clip_001",
    "hook": "They took him for a bartender. Wrong guy.",
-   "time": "11-06 10:00",
+   "time": "11-06 13:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/L5jVGR",
@@ -271,7 +280,7 @@
    "slug": "virgin_sacrifice",
    "clip": "clip_004",
    "hook": "One sister gets the prince. The other gets the altar.",
-   "time": "11-06 13:00",
+   "time": "11-07 03:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/3MLpsL",
@@ -286,7 +295,7 @@
    "slug": "homegirls",
    "clip": "clip_001",
    "hook": "Her husband's ex came to the wedding. Bad sign.",
-   "time": "11-07 03:00",
+   "time": "11-07 07:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/OZCb9B",
@@ -301,13 +310,28 @@
    "slug": "billionaire_mother",
    "clip": "clip_003",
    "hook": "Told to wait in the bathroom. She was waiting for her son.",
-   "time": "11-07 07:00",
+   "time": "11-07 10:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/PyuQ4m",
    "views": null,
    "tiktok": "They told a mom waiting for her son to go sit in the bathroom ☕ From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #faceslap #karma #fyp",
    "download": "media/billionaire_mother__clip_003_preview.mp4",
+   "metrics": null,
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
+   "slug": "roaming",
+   "clip": "clip_002",
+   "hook": "Raised by dragons. Playing the fool, until yesterday.",
+   "time": "11-07 13:00",
+   "status": "planned",
+   "fb_url": "",
+   "promo": "https://reelslink.com/cps/TKJUII",
+   "views": null,
+   "tiktok": "Raised by dragons, pretending to be a fool… until yesterday 🐉 Clip from Roaming the World Untamed on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #hiddenidentity #fyp",
+   "download": "media/roaming__clip_002_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -1047,7 +1071,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-04 16:14（北京时间）",
+ "generated": "2026-11-04 16:51（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1059,18 +1083,18 @@
   },
   {
    "name": "FB 自动发帖队列",
-   "desc": "按 queue.csv 顺序发 FB Reels（已发 3）",
+   "desc": "按 queue.csv 顺序发 FB Reels（已发 4）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-04 14:42",
-   "result": "失败（virgin_sacrifice/clip_003 not posted: Facebook login prompt ）",
-   "next": "11-04 10:00"
+   "last": "11-04 16:51",
+   "result": "成功（virgin_sacrifice/clip_003 https://www.facebook.com/reel/1612）",
+   "next": "11-05 03:00"
   },
   {
    "name": "链接评论自动挂",
    "desc": "帖子发出后在评论区挂 RS Boost 推广链接",
    "sched": "每次发帖后",
-   "last": "11-04 07:10",
-   "result": "成功（billionaire_mother/clip_001 added）",
+   "last": "11-04 16:51",
+   "result": "成功（virgin_sacrifice/clip_003 added）",
    "next": "随下次发帖"
   },
   {
@@ -1109,12 +1133,12 @@
  "queue": [
   {
    "platform": "Facebook",
-   "posted": 3,
+   "posted": 4,
    "scheduled": 12,
-   "remaining": 45,
+   "remaining": 44,
    "hold": 4,
-   "next_time": "11-04 10:00",
-   "next_title": "virgin_sacrifice"
+   "next_time": "11-05 03:00",
+   "next_title": "billionaire_mother"
   },
   {
    "platform": "TikTok",
