@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-04 11:30",
+ "generated_ict": "2026-11-04 12:06",
  "trends": {
   "file": "trends/out/2026-11-04.csv",
   "overseas": [
@@ -2286,31 +2286,31 @@
   "note": "后台显示：昨日/本月/上月结算/可提现均 $0.00；Dramas/Novels/Commission 推广内容 0、订单 0"
  },
  "plan": {
-  "day": "2026-11-04",
-  "is_today": true,
+  "day": "2026-11-05",
+  "is_today": false,
   "slots": [
    {
     "time": "02:00",
-    "clip": "virgin_sacrifice/clip_001.mp4",
-    "title": "The God of War wants a new sacrifice: her.",
-    "state": "已发"
+    "clip": "virgin_sacrifice/clip_003.mp4",
+    "title": "Her sister cast a spell. Now the gods are angry.",
+    "state": "待发"
    },
    {
     "time": "06:00",
-    "clip": "billionaire_mother/clip_001.mp4",
-    "title": "Her own family slammed the door. So she lifted crates.",
-    "state": "已发"
+    "clip": "billionaire_mother/clip_002.mp4",
+    "title": "She hid the wound from her son. Now he runs an empire.",
+    "state": "待发"
    },
    {
     "time": "09:00",
-    "clip": "",
-    "title": "",
-    "state": "漏发"
+    "clip": "roaming/clip_001.mp4",
+    "title": "His father called him worthless. Big mistake.",
+    "state": "待发"
    },
    {
     "time": "12:00",
-    "clip": "virgin_sacrifice/clip_003.mp4",
-    "title": "Her sister cast a spell. Now the gods are angry.",
+    "clip": "sea_god/clip_002.mp4",
+    "title": "They called him useless. Next stop: the Devil's Triangle.",
     "state": "待发"
    }
   ],
@@ -2323,7 +2323,15 @@
   ],
   [
    "missed",
+   "11-04 12:00 时段已过，没有发布记录"
+  ],
+  [
+   "missed",
    "out/virgin_sacrifice/clip_003.mp4 排期 11-04 09:00 已过，状态仍是 planned"
+  ],
+  [
+   "missed",
+   "out/billionaire_mother/clip_002.mp4 排期 11-04 12:00 已过，状态仍是 planned"
   ],
   [
    "ok",
