@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-05 06:31",
+ "generated_ict": "2026-11-05 06:52",
  "trends": {
   "file": "trends/out/2026-11-04.csv",
   "overseas": [
@@ -1391,9 +1391,9 @@
    "title": "They called him useless. Next stop: the Devil's Triangle.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-05 06:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/1122352644117792",
+   "scheduled_time_ict": "2026-11-05 07:05",
    "thumb": "media/sea_god__clip_002_thumb.jpg",
    "preview": "media/sea_god__clip_002_preview.mp4",
    "note": ""
@@ -1571,9 +1571,9 @@
    "title": "Her 18th birthday. They chose the maid's daughter.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-08 06:00",
    "thumb": "media/triplets__clip_002_thumb.jpg",
    "preview": "media/triplets__clip_002_preview.mp4",
    "note": ""
@@ -2170,48 +2170,48 @@
    "scheduled_time_ict": "2026-11-03 14:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1469347595080080",
-   "views": "86"
+   "views": "104"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 02:11",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/4541558412770118",
-   "views": "131"
+   "views": "134"
   },
   {
    "clip_file": "out/billionaire_mother/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 06:09",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/5007631552797040",
-   "views": "33"
+   "views": "35"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_003.mp4",
    "scheduled_time_ict": "2026-11-04 15:51",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1612730899844955",
-   "views": "41"
+   "views": "43"
   },
   {
    "clip_file": "out/billionaire_mother/clip_002.mp4",
    "scheduled_time_ict": "2026-11-04 21:59",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/2375010042903847",
-   "views": "11"
+   "views": "13"
   },
   {
    "clip_file": "out/roaming/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/29435518246034289",
-   "views": ""
+   "views": "11"
   },
   {
    "clip_file": "out/sea_god/clip_002.mp4",
-   "scheduled_time_ict": "2026-11-05 06:00",
-   "status": "planned",
-   "post_url": "",
+   "scheduled_time_ict": "2026-11-05 07:05",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/1122352644117792",
    "views": ""
   },
   {
@@ -2290,6 +2290,13 @@
    "status": "planned",
    "post_url": "",
    "views": ""
+  },
+  {
+   "clip_file": "out/triplets/clip_002.mp4",
+   "scheduled_time_ict": "2026-11-08 06:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
   }
  ],
  "earnings": {
@@ -2318,24 +2325,24 @@
    },
    {
     "time": "06:00",
-    "clip": "",
-    "title": "",
-    "state": "漏发"
+    "clip": "sea_god/clip_002.mp4",
+    "title": "They called him useless. Next stop: the Devil's Triangle.",
+    "state": "已发"
    },
    {
     "time": "09:00",
-    "clip": "sea_god/clip_002.mp4",
-    "title": "They called him useless. Next stop: the Devil's Triangle.",
+    "clip": "virgin_sacrifice/clip_004.mp4",
+    "title": "One sister gets the prince. The other gets the altar.",
     "state": "待发"
    },
    {
     "time": "12:00",
-    "clip": "virgin_sacrifice/clip_004.mp4",
-    "title": "One sister gets the prince. The other gets the altar.",
+    "clip": "surf_god/clip_001.mp4",
+    "title": "A sea hag cursed a god. Her price? Her daughter.",
     "state": "待发"
    }
   ],
-  "queued": 42
+  "queued": 41
  },
  "alerts": [
   [
@@ -2343,20 +2350,12 @@
    "11-04 09:00 时段已过，没有发布记录"
   ],
   [
-   "missed",
-   "11-05 06:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "out/sea_god/clip_002.mp4 排期 11-05 06:00 已过，状态仍是 planned"
-  ],
-  [
    "ok",
    "安全验证/封禁：无记录（来自 alerts.json 和 schedule.csv）"
   ],
   [
    "ok",
-   "库存 42 条排队，约 10.5 天"
+   "库存 41 条排队，约 10.2 天"
   ]
  ],
  "competitors": {

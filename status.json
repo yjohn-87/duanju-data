@@ -54,7 +54,7 @@
   ],
   [
    "11-05",
-   1
+   2
   ]
  ],
  "metrics_source": "out/metrics.csv",
@@ -68,7 +68,7 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1469347595080080",
    "promo": "https://reelslink.com/cps/1noh7F",
-   "views": "86",
+   "views": "104",
    "tiktok": "Forced to marry a \"fisherman\"… who secretly rules the sea 🌊 Clip from The Sea God's Disguise on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/sea_god__clip_001_preview.mp4",
    "metrics": {
@@ -92,11 +92,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/4541558412770118",
    "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": "131",
+   "views": "134",
    "tiktok": "She begged the God of War to spare her city… he wants her instead ⚡ Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_001_preview.mp4",
    "metrics": {
-    "views": 131,
+    "views": 134,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -116,11 +116,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/5007631552797040",
    "promo": "https://reelslink.com/cps/PyuQ4m",
-   "views": "33",
+   "views": "35",
    "tiktok": "Her own family shut the door on her… so she started hauling crates for her son 📦 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #emotional #fyp",
    "download": "media/billionaire_mother__clip_001_preview.mp4",
    "metrics": {
-    "views": 33,
+    "views": 35,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -140,11 +140,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1612730899844955",
    "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": "41",
+   "views": "43",
    "tiktok": "Her sister bewitched the prince… and now the God of War is coming 🔮 Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_003_preview.mp4",
    "metrics": {
-    "views": 41,
+    "views": 43,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -164,11 +164,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/2375010042903847",
    "promo": "https://reelslink.com/cps/PyuQ4m",
-   "views": "11",
+   "views": "13",
    "tiktok": "She hid the wound so he could chase his dream… wait for who he became 💔 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #plottwist #fyp",
    "download": "media/billionaire_mother__clip_002_preview.mp4",
    "metrics": {
-    "views": 11,
+    "views": 13,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -188,11 +188,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/29435518246034289",
    "promo": "https://reelslink.com/cps/TKJUII",
-   "views": null,
+   "views": "11",
    "tiktok": "His father called him worthless in front of everyone… big mistake. From Roaming the World Untamed on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #faceslap #fyp",
    "download": "media/roaming__clip_001_preview.mp4",
    "metrics": {
-    "views": null,
+    "views": 11,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -208,14 +208,23 @@
    "slug": "sea_god",
    "clip": "clip_002",
    "hook": "They called him useless. Next stop: the Devil's Triangle.",
-   "time": "11-05 07:00",
-   "status": "planned",
-   "fb_url": "",
+   "time": "11-05 08:05",
+   "status": "posted",
+   "fb_url": "https://www.facebook.com/reel/1122352644117792",
    "promo": "https://reelslink.com/cps/1noh7F",
    "views": null,
    "tiktok": "Everyone laughed at the \"useless\" husband… until he sailed for the Devil's Triangle alone. From The Sea God's Disguise on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #plottwist #fyp",
    "download": "media/sea_god__clip_002_preview.mp4",
-   "metrics": null,
+   "metrics": {
+    "views": null,
+    "reach": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "link_clicks": null,
+    "eng_rate": null,
+    "fetched": null
+   },
    "platform": "Facebook"
   },
   {
@@ -380,6 +389,21 @@
    "views": null,
    "tiktok": "She treats him like a servant… he's secretly a god 🏄 From Surf God's Revenge on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/surf_god__clip_002_preview.mp4",
+   "metrics": null,
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
+   "slug": "triplets",
+   "clip": "clip_002",
+   "hook": "Her 18th birthday. They chose the maid's daughter.",
+   "time": "11-08 07:00",
+   "status": "planned",
+   "fb_url": "",
+   "promo": "https://reelslink.com/cps/7FIatU",
+   "views": null,
+   "tiktok": "Her 18th birthday… and they all chose the maid's daughter 🎂 Clip from The Triplets' Final Regret on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #regret #fyp",
+   "download": "media/triplets__clip_002_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -1119,7 +1143,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-05 07:31（北京时间）",
+ "generated": "2026-11-05 07:52（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1131,18 +1155,18 @@
   },
   {
    "name": "FB 自动发帖队列",
-   "desc": "按 queue.csv 顺序发 FB Reels（已发 6）",
+   "desc": "按 queue.csv 顺序发 FB Reels（已发 7）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-05 03:48",
-   "result": "成功（roaming/clip_001 https://www.facebook.com/reel/2943551824603）",
-   "next": "11-05 07:00"
+   "last": "11-05 07:52",
+   "result": "成功（sea_god/clip_002 https://www.facebook.com/reel/1122352644117）",
+   "next": "11-05 10:00"
   },
   {
    "name": "链接评论自动挂",
    "desc": "帖子发出后在评论区挂 RS Boost 推广链接",
    "sched": "每次发帖后",
-   "last": "11-05 03:48",
-   "result": "成功（roaming/clip_001 added）",
+   "last": "11-05 07:52",
+   "result": "失败（sea_god/clip_002 skipped: FB said 无法发布你的评论 after ~40s, no li）",
    "next": "随下次发帖"
   },
   {
@@ -1181,12 +1205,12 @@
  "queue": [
   {
    "platform": "Facebook",
-   "posted": 6,
+   "posted": 7,
    "scheduled": 12,
-   "remaining": 42,
+   "remaining": 41,
    "hold": 4,
-   "next_time": "11-05 07:00",
-   "next_title": "sea_god"
+   "next_time": "11-05 10:00",
+   "next_title": "virgin_sacrifice"
   },
   {
    "platform": "TikTok",
@@ -1208,8 +1232,8 @@
   }
  ],
  "today": {
-  "views": 302,
-  "posts_with_views": 5,
+  "views": 340,
+  "posts_with_views": 6,
   "earnings": {
    "yesterday": "$0.00",
    "this_month": "$0.00",
