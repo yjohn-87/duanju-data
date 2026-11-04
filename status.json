@@ -54,7 +54,7 @@
   ],
   [
    "11-05",
-   0
+   1
   ]
  ],
  "metrics_source": "out/metrics.csv",
@@ -68,7 +68,7 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1469347595080080",
    "promo": "https://reelslink.com/cps/1noh7F",
-   "views": "73",
+   "views": "86",
    "tiktok": "Forced to marry a \"fisherman\"… who secretly rules the sea 🌊 Clip from The Sea God's Disguise on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/sea_god__clip_001_preview.mp4",
    "metrics": {
@@ -92,11 +92,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/4541558412770118",
    "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": "123",
+   "views": "131",
    "tiktok": "She begged the God of War to spare her city… he wants her instead ⚡ Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_001_preview.mp4",
    "metrics": {
-    "views": 123,
+    "views": 131,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -116,11 +116,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/5007631552797040",
    "promo": "https://reelslink.com/cps/PyuQ4m",
-   "views": "29",
+   "views": "33",
    "tiktok": "Her own family shut the door on her… so she started hauling crates for her son 📦 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #emotional #fyp",
    "download": "media/billionaire_mother__clip_001_preview.mp4",
    "metrics": {
-    "views": 29,
+    "views": 33,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -140,11 +140,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1612730899844955",
    "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": "36",
+   "views": "41",
    "tiktok": "Her sister bewitched the prince… and now the God of War is coming 🔮 Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_003_preview.mp4",
    "metrics": {
-    "views": 36,
+    "views": 41,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -164,11 +164,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/2375010042903847",
    "promo": "https://reelslink.com/cps/PyuQ4m",
-   "views": "5",
+   "views": "11",
    "tiktok": "She hid the wound so he could chase his dream… wait for who he became 💔 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #plottwist #fyp",
    "download": "media/billionaire_mother__clip_002_preview.mp4",
    "metrics": {
-    "views": 5,
+    "views": 11,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -184,14 +184,23 @@
    "slug": "roaming",
    "clip": "clip_001",
    "hook": "His father called him worthless. Big mistake.",
-   "time": "11-05 03:00",
-   "status": "planned",
-   "fb_url": "",
+   "time": "11-05 03:46",
+   "status": "posted",
+   "fb_url": "https://www.facebook.com/reel/29435518246034289",
    "promo": "https://reelslink.com/cps/TKJUII",
    "views": null,
    "tiktok": "His father called him worthless in front of everyone… big mistake. From Roaming the World Untamed on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #faceslap #fyp",
    "download": "media/roaming__clip_001_preview.mp4",
-   "metrics": null,
+   "metrics": {
+    "views": null,
+    "reach": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "link_clicks": null,
+    "eng_rate": null,
+    "fetched": null
+   },
    "platform": "Facebook"
   },
   {
@@ -356,6 +365,21 @@
    "views": null,
    "tiktok": "He saved a sea god as a boy… decades later he came back to cash in the favor 🔱 Clip from The Sea God's Disguise on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/sea_god__clip_003_preview.mp4",
+   "metrics": null,
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
+   "slug": "surf_god",
+   "clip": "clip_002",
+   "hook": "She treats him like a servant. He's a god.",
+   "time": "11-08 03:00",
+   "status": "planned",
+   "fb_url": "",
+   "promo": "https://reelslink.com/cps/D5qbWz",
+   "views": null,
+   "tiktok": "She treats him like a servant… he's secretly a god 🏄 From Surf God's Revenge on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
+   "download": "media/surf_god__clip_002_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -1095,7 +1119,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-05 03:43（北京时间）",
+ "generated": "2026-11-05 03:48（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1107,18 +1131,18 @@
   },
   {
    "name": "FB 自动发帖队列",
-   "desc": "按 queue.csv 顺序发 FB Reels（已发 5）",
+   "desc": "按 queue.csv 顺序发 FB Reels（已发 6）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-04 22:01",
-   "result": "成功（billionaire_mother/clip_002 https://www.facebook.com/reel/23）",
-   "next": "11-05 03:00"
+   "last": "11-05 03:48",
+   "result": "成功（roaming/clip_001 https://www.facebook.com/reel/2943551824603）",
+   "next": "11-05 07:00"
   },
   {
    "name": "链接评论自动挂",
    "desc": "帖子发出后在评论区挂 RS Boost 推广链接",
    "sched": "每次发帖后",
-   "last": "11-04 22:01",
-   "result": "成功（billionaire_mother/clip_002 added）",
+   "last": "11-05 03:48",
+   "result": "成功（roaming/clip_001 added）",
    "next": "随下次发帖"
   },
   {
@@ -1157,12 +1181,12 @@
  "queue": [
   {
    "platform": "Facebook",
-   "posted": 5,
+   "posted": 6,
    "scheduled": 12,
-   "remaining": 43,
+   "remaining": 42,
    "hold": 4,
-   "next_time": "11-05 03:00",
-   "next_title": "roaming"
+   "next_time": "11-05 07:00",
+   "next_title": "sea_god"
   },
   {
    "platform": "TikTok",
@@ -1184,7 +1208,7 @@
   }
  ],
  "today": {
-  "views": 266,
+  "views": 302,
   "posts_with_views": 5,
   "earnings": {
    "yesterday": "$0.00",
