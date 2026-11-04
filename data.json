@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-04 21:52",
+ "generated_ict": "2026-11-05 02:43",
  "trends": {
   "file": "trends/out/2026-11-04.csv",
   "overseas": [
@@ -2301,30 +2301,30 @@
  },
  "plan": {
   "day": "2026-11-05",
-  "is_today": false,
+  "is_today": true,
   "slots": [
    {
     "time": "02:00",
+    "clip": "",
+    "title": "",
+    "state": "漏发"
+   },
+   {
+    "time": "06:00",
     "clip": "roaming/clip_001.mp4",
     "title": "His father called him worthless. Big mistake.",
     "state": "待发"
    },
    {
-    "time": "06:00",
+    "time": "09:00",
     "clip": "sea_god/clip_002.mp4",
     "title": "They called him useless. Next stop: the Devil's Triangle.",
     "state": "待发"
    },
    {
-    "time": "09:00",
+    "time": "12:00",
     "clip": "virgin_sacrifice/clip_004.mp4",
     "title": "One sister gets the prince. The other gets the altar.",
-    "state": "待发"
-   },
-   {
-    "time": "12:00",
-    "clip": "surf_god/clip_001.mp4",
-    "title": "A sea hag cursed a god. Her price? Her daughter.",
     "state": "待发"
    }
   ],
@@ -2334,6 +2334,14 @@
   [
    "missed",
    "11-04 09:00 时段已过，没有发布记录"
+  ],
+  [
+   "missed",
+   "11-05 02:00 时段已过，没有发布记录"
+  ],
+  [
+   "missed",
+   "out/roaming/clip_001.mp4 排期 11-05 02:00 已过，状态仍是 planned"
   ],
   [
    "ok",
