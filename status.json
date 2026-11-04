@@ -68,7 +68,7 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1469347595080080",
    "promo": "https://reelslink.com/cps/1noh7F",
-   "views": "42",
+   "views": "73",
    "tiktok": "Forced to marry a \"fisherman\"… who secretly rules the sea 🌊 Clip from The Sea God's Disguise on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/sea_god__clip_001_preview.mp4",
    "metrics": {
@@ -116,11 +116,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/5007631552797040",
    "promo": "https://reelslink.com/cps/PyuQ4m",
-   "views": "28",
+   "views": "29",
    "tiktok": "Her own family shut the door on her… so she started hauling crates for her son 📦 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #emotional #fyp",
    "download": "media/billionaire_mother__clip_001_preview.mp4",
    "metrics": {
-    "views": 28,
+    "views": 29,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -140,11 +140,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1612730899844955",
    "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": "34",
+   "views": "36",
    "tiktok": "Her sister bewitched the prince… and now the God of War is coming 🔮 Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_003_preview.mp4",
    "metrics": {
-    "views": 34,
+    "views": 36,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -164,11 +164,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/2375010042903847",
    "promo": "https://reelslink.com/cps/PyuQ4m",
-   "views": null,
+   "views": "5",
    "tiktok": "She hid the wound so he could chase his dream… wait for who he became 💔 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #plottwist #fyp",
    "download": "media/billionaire_mother__clip_002_preview.mp4",
    "metrics": {
-    "views": null,
+    "views": 5,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -211,10 +211,25 @@
   },
   {
    "kind": "FB",
+   "slug": "virgin_sacrifice",
+   "clip": "clip_004",
+   "hook": "One sister gets the prince. The other gets the altar.",
+   "time": "11-05 10:00",
+   "status": "planned",
+   "fb_url": "",
+   "promo": "https://reelslink.com/cps/3MLpsL",
+   "views": null,
+   "tiktok": "One sister gets the prince… the other gets the altar 🏛️ From The Virgin Sacrifice Who Seduced a God on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
+   "download": "media/virgin_sacrifice__clip_004_preview.mp4",
+   "metrics": null,
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
    "slug": "surf_god",
    "clip": "clip_001",
    "hook": "A sea hag cursed a god. Her price? Her daughter.",
-   "time": "11-05 10:00",
+   "time": "11-05 13:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/D5qbWz",
@@ -229,7 +244,7 @@
    "slug": "triplets",
    "clip": "clip_001",
    "hook": "They burned the gift they gave her. Big mistake.",
-   "time": "11-05 13:00",
+   "time": "11-06 03:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/7FIatU",
@@ -244,7 +259,7 @@
    "slug": "worth_chase",
    "clip": "clip_001",
    "hook": "Was last night a mistake? His answer...",
-   "time": "11-06 03:00",
+   "time": "11-06 07:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/xrJ2jS",
@@ -259,7 +274,7 @@
    "slug": "alpha",
    "clip": "clip_001",
    "hook": "Her father called her a liar. She has the scars.",
-   "time": "11-06 07:00",
+   "time": "11-06 10:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/Rynina",
@@ -274,28 +289,13 @@
    "slug": "agent_shadows",
    "clip": "clip_001",
    "hook": "They took him for a bartender. Wrong guy.",
-   "time": "11-06 10:00",
+   "time": "11-06 13:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/L5jVGR",
    "views": null,
    "tiktok": "They thought he was just the bartender… wrong guy 🍸 From Agent of Shadows on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #action #plottwist #fyp",
    "download": "media/agent_shadows__clip_001_preview.mp4",
-   "metrics": null,
-   "platform": "Facebook"
-  },
-  {
-   "kind": "FB",
-   "slug": "virgin_sacrifice",
-   "clip": "clip_004",
-   "hook": "One sister gets the prince. The other gets the altar.",
-   "time": "11-06 13:00",
-   "status": "planned",
-   "fb_url": "",
-   "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": null,
-   "tiktok": "One sister gets the prince… the other gets the altar 🏛️ From The Virgin Sacrifice Who Seduced a God on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
-   "download": "media/virgin_sacrifice__clip_004_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -1095,7 +1095,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-04 22:44（北京时间）",
+ "generated": "2026-11-04 22:52（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1125,8 +1125,8 @@
    "name": "每日复盘",
    "desc": "汇总前一天播放/收益/告警",
    "sched": "每天约 09:15",
-   "last": "11-04 09:08",
-   "result": "成功（views SG42 VS108 BM22; earnings $0/0单; 国家未取到; 队列前移VS3/SG2/BM）",
+   "last": "11-04 22:52",
+   "result": "成功（23:00 report: FB4 today, best VS1 123 views, RS Boost $0, sa）",
    "next": "11-05 09:15"
   },
   {
@@ -1184,13 +1184,13 @@
   }
  ],
  "today": {
-  "views": 227,
-  "posts_with_views": 4,
+  "views": 266,
+  "posts_with_views": 5,
   "earnings": {
    "yesterday": "$0.00",
    "this_month": "$0.00",
    "withdrawable": "$0.00",
-   "note": "后台显示：昨日/本月/上月结算/可提现均 $0.00；Dramas/Novels/Commission 推广内容 0、订单 0"
+   "note": null
   },
   "alerts": []
  }
