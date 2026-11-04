@@ -942,7 +942,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-04 09:41（北京时间）",
+ "generated": "2026-11-04 10:11（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -956,8 +956,8 @@
    "name": "FB 自动发帖队列",
    "desc": "按 queue.csv 顺序发 FB Reels（已发 3）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-04 07:10",
-   "result": "成功（billionaire_mother/clip_001 https://www.facebook.com/reel/50）",
+   "last": "11-04 10:03",
+   "result": "成功（skip: last post 06:09 ICT is <3h old (now 09:03 ICT)）",
    "next": "11-04 10:00"
   },
   {

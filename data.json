@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-04 08:10",
+ "generated_ict": "2026-11-04 09:11",
  "trends": {
   "file": "trends/out/2026-11-04.csv",
   "overseas": [
@@ -2200,7 +2200,7 @@
     "time": "09:00",
     "clip": "",
     "title": "",
-    "state": "跳过（距上一条 <3h）"
+    "state": "漏发"
    },
    {
     "time": "12:00",
@@ -2212,6 +2212,14 @@
   "queued": 38
  },
  "alerts": [
+  [
+   "missed",
+   "11-04 09:00 时段已过，没有发布记录"
+  ],
+  [
+   "missed",
+   "out/virgin_sacrifice/clip_003.mp4 排期 11-04 09:00 已过，状态仍是 planned"
+  ],
   [
    "ok",
    "安全验证/封禁：无记录（来自 alerts.json 和 schedule.csv）"
