@@ -1,131 +1,140 @@
 {
- "generated_ict": "2026-11-04 06:10",
+ "generated_ict": "2026-11-04 08:08",
  "trends": {
-  "file": "trends/out/2026-11-03.csv",
+  "file": "trends/out/2026-11-04.csv",
   "overseas": [
    {
-    "rank": "5",
+    "rank": "13",
+    "title": "The Extraordinary Mother of a Billionaire",
+    "genre_tags": "Family Drama",
+    "source": "ReelShort站内搜索(补充)",
+    "raw_metric": "119348989 read_count(站内播放数)",
+    "source_url": "https://www.reelshort.com/search?keywords=The%20Extraordinary%20Mother%20of%20a%20Billionaire",
+    "promotable": true
+   },
+   {
+    "rank": "4",
     "title": "The Triplets' Final Regret",
     "genre_tags": "Young Adult",
     "source": "ReelShort首页Banner",
-    "raw_metric": "223617427 read_count(站内播放数)",
+    "raw_metric": "226263958 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/search?keywords=The%20Triplets%27%20Final%20Regret",
     "promotable": true
    },
    {
-    "rank": "20",
+    "rank": "19",
     "title": "Roaming the World Untamed",
     "genre_tags": "High Fantasy",
     "source": "ReelShort首页Banner",
-    "raw_metric": "71228140 read_count(站内播放数)",
+    "raw_metric": "73413468 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/search?keywords=Roaming%20the%20World%20Untamed",
     "promotable": true
    },
    {
-    "rank": "26",
+    "rank": "24",
     "title": "The Sea God's Disguise: Fishing for Love",
     "genre_tags": "Divorce",
     "source": "ReelShort首页Banner",
-    "raw_metric": "54205372 read_count(站内播放数)",
+    "raw_metric": "55764531 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/search?keywords=The%20Sea%20God%27s%20Disguise%3A%20Fishing%20for%20Love",
     "promotable": true
    },
    {
-    "rank": "31",
+    "rank": "26",
     "title": "Surf God's Revenge",
     "genre_tags": "High Fantasy",
     "source": "ReelShort首页Banner",
-    "raw_metric": "44333239 read_count(站内播放数)",
+    "raw_metric": "47855037 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/search?keywords=Surf%20God%27s%20Revenge",
-    "promotable": false
+    "promotable": true
    },
    {
-    "rank": "40",
+    "rank": "34",
     "title": "After the Alpha's Cruel Trials",
     "genre_tags": "Werewolf",
     "source": "ReelShort首页Banner",
-    "raw_metric": "34538074 read_count(站内播放数)",
+    "raw_metric": "36479394 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/search?keywords=After%20the%20Alpha%27s%20Cruel%20Trials",
     "promotable": true
    },
    {
-    "rank": "47",
+    "rank": "41",
     "title": "Worth the Chase",
     "genre_tags": "Sports",
     "source": "ReelShort首页Banner",
-    "raw_metric": "24754989 read_count(站内播放数)",
+    "raw_metric": "26117509 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/search?keywords=Worth%20the%20Chase",
     "promotable": true
    },
    {
-    "rank": "48",
+    "rank": "43",
     "title": "The Virgin Sacrifice Who Seduced a God",
     "genre_tags": "Mythology",
     "source": "ReelShort首页Banner",
-    "raw_metric": "22673833 read_count(站内播放数)",
+    "raw_metric": "23821219 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/search?keywords=The%20Virgin%20Sacrifice%20Who%20Seduced%20a%20God",
-    "promotable": false
+    "promotable": true
    },
    {
-    "rank": "56",
+    "rank": "54",
     "title": "Agent of Shadows",
     "genre_tags": "Action",
     "source": "ReelShort首页Banner",
-    "raw_metric": "16270396 read_count(站内播放数)",
+    "raw_metric": "16369315 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/search?keywords=Agent%20of%20Shadows",
-    "promotable": false
+    "promotable": true
    },
    {
     "rank": "1",
-    "title": "My Sister Is the Warlord Queen",
-    "genre_tags": "Strong Heroine/Female/Series/Drama/Modern",
+    "title": "Don't Miss Me When I'm Gone",
+    "genre_tags": "Family Drama/Female/Series/Drama/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "640663525 read_count(站内播放数)",
+    "raw_metric": "301672402 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "2",
-    "title": "Don't Miss Me When I'm Gone",
-    "genre_tags": "Family Drama/Female/Series/Drama/Modern",
+    "title": "My X-Ray Vision Sees Right Through You",
+    "genre_tags": "Playing Dumb/Male/Series/All Ages/Student/Super Warrior",
     "source": "ReelShort首页榜单",
-    "raw_metric": "301661604 read_count(站内播放数)",
+    "raw_metric": "252075762 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "3",
-    "title": "My X-Ray Vision Sees Right Through You",
-    "genre_tags": "Playing Dumb/Male/Series/All Ages/Student/Super Warrior",
+    "title": "Undercover Prison King",
+    "genre_tags": "Hidden Identity/Male/Series/Drama/Comeback Story/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "251620069 read_count(站内播放数)",
+    "raw_metric": "240906909 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
-    "rank": "4",
-    "title": "Undercover Prison King",
-    "genre_tags": "Hidden Identity/Male/Series/Drama/Comeback Story/Modern",
+    "rank": "5",
+    "title": "Married In A Heartbeat",
+    "genre_tags": "Flash Marriage/Female/Series/Romance/Sweet Romance/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "240876162 read_count(站内播放数)",
+    "raw_metric": "214896822 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "6",
-    "title": "Married In A Heartbeat",
-    "genre_tags": "Flash Marriage/Female/Series/Romance/Sweet Romance/Modern",
+    "title": "My Secret Lover Is His Brother",
+    "genre_tags": "Female/Series/Romance/Drama/Young Adult",
     "source": "ReelShort首页榜单",
-    "raw_metric": "214869648 read_count(站内播放数)",
+    "raw_metric": "213348736 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "7",
-    "title": "My Secret Lover Is His Brother",
-    "genre_tags": "Female/Series/Romance/Drama/Young Adult",
+    "title": "The Quarterback Next Door",
+    "genre_tags": "Rom-Com/Female/Series/Drama/Young Adult/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "213303181 read_count(站内播放数)",
+    "raw_metric": "167819718 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -134,7 +143,7 @@
     "title": "The Senator's Son",
     "genre_tags": "Campus Romance/Female/Interactive/Romance/Young Adult/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "148183549 read_count(站内播放数)",
+    "raw_metric": "148196917 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -143,7 +152,7 @@
     "title": "In Bed with My Brother-in-Law",
     "genre_tags": "Playing Dumb/Female/All Ages/Heiress/Socialite/Crime Lord/Love Triangle",
     "source": "ReelShort首页榜单",
-    "raw_metric": "135351093 read_count(站内播放数)",
+    "raw_metric": "136038322 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -152,7 +161,7 @@
     "title": "Cooking My Way Back to Love",
     "genre_tags": "Rags to Riches/Male/Series/Drama/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "132579174 read_count(站内播放数)",
+    "raw_metric": "132586461 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -161,7 +170,7 @@
     "title": "Rejected Luna Is the Alpha Queen",
     "genre_tags": "Playing Dumb/Female/Series/Drama/Strong Heroine/Fantasy",
     "source": "ReelShort首页榜单",
-    "raw_metric": "120736207 read_count(站内播放数)",
+    "raw_metric": "120765993 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -170,43 +179,34 @@
     "title": "Shhh, Professor! Please Don't Tell",
     "genre_tags": "Age Gap/Female/Interactive/Romance/Modern/Emotional",
     "source": "ReelShort首页榜单",
-    "raw_metric": "120727783 read_count(站内播放数)",
-    "source_url": "https://www.reelshort.com/",
-    "promotable": false
-   },
-   {
-    "rank": "13",
-    "title": "The Alpha and His Nanny Luna",
-    "genre_tags": "Playing Dumb/Female/All Ages/Single Dad/Protective Husband/Werewolf",
-    "source": "ReelShort首页榜单",
-    "raw_metric": "113112258 read_count(站内播放数)",
+    "raw_metric": "120751864 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "14",
-    "title": "Mistaken as His Mate: The Luna’s Regret",
-    "genre_tags": "Family Drama/Female/Series/Drama/Modern",
+    "title": "The Alpha and His Nanny Luna",
+    "genre_tags": "Playing Dumb/Female/All Ages/Single Dad/Protective Husband/Werewolf",
     "source": "ReelShort首页榜单",
-    "raw_metric": "103261354 read_count(站内播放数)",
+    "raw_metric": "113275446 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "15",
-    "title": "When Love Walked Away",
+    "title": "Mistaken as His Mate: The Luna’s Regret",
     "genre_tags": "Family Drama/Female/Series/Drama/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "100863093 read_count(站内播放数)",
+    "raw_metric": "103272522 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "16",
-    "title": "Never Reject A Wolf Princess",
-    "genre_tags": "Hidden Identity/Female/Series/Drama/Strong Heroine/Fantasy",
+    "title": "The Cooking Queen: A Recipe for Divorce",
+    "genre_tags": "Female/Series/Drama/Strong Heroine/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "96032883 read_count(站内播放数)",
+    "raw_metric": "96575061 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -215,889 +215,889 @@
     "title": "Their Brother Lost in Space",
     "genre_tags": "Male/Series/Drama/Family Drama/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "90725965 read_count(站内播放数)",
+    "raw_metric": "90729901 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "18",
-    "title": "Infatuated with the CEO",
-    "genre_tags": "One Night Stand/Female/Series/Romance/Second Chance/Modern",
+    "title": "The Genius and the Bad Boy",
+    "genre_tags": "Young Adult/Female/Interactive/Romance/Drama",
     "source": "ReelShort首页榜单",
-    "raw_metric": "83139246 read_count(站内播放数)",
+    "raw_metric": "80630559 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
-    "rank": "19",
-    "title": "The Genius and the Bad Boy",
-    "genre_tags": "Young Adult/Female/Interactive/Romance/Drama",
+    "rank": "20",
+    "title": "The Quarterback's First Love",
+    "genre_tags": "Campus Romance/Female/Series/Romance/Sweet Romance/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "80622999 read_count(站内播放数)",
+    "raw_metric": "67700041 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "21",
-    "title": "Step Back! That Homeless Man Is Not to be Messed with",
-    "genre_tags": "Playing Dumb/Male/Drama/Rags to Riches/Modern/Feel-Good",
+    "title": "Oops! I’m in Love with My Stepbrother",
+    "genre_tags": "Young Adult/Female/Interactive/Drama/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "64937314 read_count(站内播放数)",
+    "raw_metric": "63706231 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "22",
-    "title": "The Seduction Game",
-    "genre_tags": "Female/Series/Drama/Young Adult/Modern",
+    "title": "Crowned in Silver Blood",
+    "genre_tags": "Playing Dumb/Female/All Ages/Alpha/Werewolf/Possessive",
     "source": "ReelShort首页榜单",
-    "raw_metric": "64194108 read_count(站内播放数)",
+    "raw_metric": "61197487 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "23",
-    "title": "Oops! I’m in Love with My Stepbrother",
-    "genre_tags": "Young Adult/Female/Interactive/Drama/Modern",
+    "title": "Waterboy",
+    "genre_tags": "Young Adult/Interactive/Romance/Drama/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "63685981 read_count(站内播放数)",
-    "source_url": "https://www.reelshort.com/",
-    "promotable": false
-   },
-   {
-    "rank": "24",
-    "title": "Crowned in Silver Blood",
-    "genre_tags": "Playing Dumb/Female/All Ages/Alpha/Werewolf/Possessive",
-    "source": "ReelShort首页榜单",
-    "raw_metric": "60632412 read_count(站内播放数)",
+    "raw_metric": "60129231 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "25",
-    "title": "Waterboy",
-    "genre_tags": "Young Adult/Interactive/Romance/Drama/Modern",
+    "title": "Audrey in Full Bloom",
+    "genre_tags": "Hidden Identity/Female/Series/Drama/Strong Heroine/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "60121008 read_count(站内播放数)",
+    "raw_metric": "51450229 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "27",
-    "title": "Audrey in Full Bloom",
-    "genre_tags": "Hidden Identity/Female/Series/Drama/Strong Heroine/Modern",
+    "title": "You Can't Stop My Super X-Ray Vision",
+    "genre_tags": "Playing Dumb/Male/Series/All Ages/Student/Super Warrior",
     "source": "ReelShort首页榜单",
-    "raw_metric": "51447531 read_count(站内播放数)",
+    "raw_metric": "46424524 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "28",
-    "title": "You Can't Stop My Super X-Ray Vision",
-    "genre_tags": "Playing Dumb/Male/Series/All Ages/Student/Super Warrior",
+    "title": "Chained to My Prison Guard",
+    "genre_tags": "Enemies to Lovers/Female/Interactive/Romance/Dark Romance/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "46364784 read_count(站内播放数)",
+    "raw_metric": "46047082 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "29",
-    "title": "Chained to My Prison Guard",
-    "genre_tags": "Enemies to Lovers/Female/Interactive/Romance/Dark Romance/Modern",
+    "title": "Wasteland Sovereign",
+    "genre_tags": "Playing Dumb/Male/All Ages/Super Warrior/Loyal",
     "source": "ReelShort首页榜单",
-    "raw_metric": "46043382 read_count(站内播放数)",
+    "raw_metric": "45963436 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "30",
-    "title": "Wasteland Sovereign",
-    "genre_tags": "Playing Dumb/Male/All Ages/Super Warrior/Loyal",
+    "title": "Just One Kiss",
+    "genre_tags": "Playing Dumb/Female/Series/All Ages/Student/Strong-Willed",
     "source": "ReelShort首页榜单",
-    "raw_metric": "45752784 read_count(站内播放数)",
+    "raw_metric": "39504816 read_count(站内播放数)",
+    "source_url": "https://www.reelshort.com/",
+    "promotable": false
+   },
+   {
+    "rank": "31",
+    "title": "The Imperfect Marriage",
+    "genre_tags": "Playing Dumb/Female/Series/Artist/CEO/Love Triangle",
+    "source": "ReelShort首页榜单",
+    "raw_metric": "39448447 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "32",
-    "title": "A Cinderella for Wolf King",
-    "genre_tags": "Playing Dumb/Female/Werewolf/Fated Lovers",
+    "title": "Once Love Is Lost, It Never Returns",
+    "genre_tags": "Playing Dumb/Female/Series/Romance/Toxic Romance/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "41526682 read_count(站内播放数)",
+    "raw_metric": "38994706 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "33",
-    "title": "The Imperfect Marriage",
-    "genre_tags": "Playing Dumb/Female/Series/Artist/CEO/Love Triangle",
+    "title": "Tempted by My Bad Boy Stepbrother",
+    "genre_tags": "Playing Dumb/Female/Romance/Hidden Feelings/Forbidden Love/Taboo",
     "source": "ReelShort首页榜单",
-    "raw_metric": "39424198 read_count(站内播放数)",
-    "source_url": "https://www.reelshort.com/",
-    "promotable": false
-   },
-   {
-    "rank": "34",
-    "title": "Just One Kiss",
-    "genre_tags": "Playing Dumb/Female/Series/All Ages/Student/Strong-Willed",
-    "source": "ReelShort首页榜单",
-    "raw_metric": "39325093 read_count(站内播放数)",
+    "raw_metric": "37569744 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "35",
-    "title": "Once Love Is Lost, It Never Returns",
-    "genre_tags": "Playing Dumb/Female/Series/Romance/Toxic Romance/Modern",
+    "title": "Baby Daddy Goals",
+    "genre_tags": "Young Adult/Female/Interactive/Drama/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "38975563 read_count(站内播放数)",
+    "raw_metric": "34932865 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "36",
-    "title": "Wings of Fire: The Dragon Slayer Is My Ex-Lover",
-    "genre_tags": "Reunion/Female/Series/Romance/Second Chance/Fantasy",
+    "title": "God of Pain",
+    "genre_tags": "Playing Dumb/Female/Series/All Ages/Student/Playboy",
     "source": "ReelShort首页榜单",
-    "raw_metric": "38456184 read_count(站内播放数)",
+    "raw_metric": "33167010 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "37",
-    "title": "Tempted by My Bad Boy Stepbrother",
-    "genre_tags": "Playing Dumb/Female/Romance/Hidden Feelings/Forbidden Love/Taboo",
+    "title": "The Dragon King's Forbidden Maid",
+    "genre_tags": "Playing Dumb/Female/All Ages/Dragon/Servant/Pregnancy",
     "source": "ReelShort首页榜单",
-    "raw_metric": "37471815 read_count(站内播放数)",
+    "raw_metric": "33003610 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "38",
-    "title": "DILFS",
-    "genre_tags": "Love at First Sight/Female/Interactive/Romance/Sweet Romance/Modern",
+    "title": "Swept Away by My Janitor Husband",
+    "genre_tags": "Flash Marriage/Female/Interactive/Romance/Sweet Romance/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "36945436 read_count(站内播放数)",
+    "raw_metric": "31693531 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "39",
-    "title": "Baby Daddy Goals",
-    "genre_tags": "Young Adult/Female/Interactive/Drama/Modern",
+    "title": "Their Brother, the Dragon Sacrifice",
+    "genre_tags": "Playing Dumb/Male/Series/All Ages/Dragon/Immortal",
     "source": "ReelShort首页榜单",
-    "raw_metric": "34923441 read_count(站内播放数)",
+    "raw_metric": "28795417 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
-    "rank": "41",
-    "title": "God of Pain",
-    "genre_tags": "Playing Dumb/Female/Series/All Ages/Student/Playboy",
+    "rank": "40",
+    "title": "The Fake Dating Spell",
+    "genre_tags": "Playing Dumb/Female/All Ages/Student/Jock/Fake Relationship",
     "source": "ReelShort首页榜单",
-    "raw_metric": "33001332 read_count(站内播放数)",
+    "raw_metric": "26397789 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "42",
-    "title": "The Dragon King's Forbidden Maid",
-    "genre_tags": "Playing Dumb/Female/All Ages/Dragon/Servant/Pregnancy",
+    "title": "The Ultimate Fight for Love",
+    "genre_tags": "Love-Hate/Female/Interactive/Romance/Erotica/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "30898564 read_count(站内播放数)",
-    "source_url": "https://www.reelshort.com/",
-    "promotable": false
-   },
-   {
-    "rank": "43",
-    "title": "Luna Reborn: Alpha's Second Chance",
-    "genre_tags": "Playing Dumb/Female/Romance/Monster/Imaginative/Werewolf",
-    "source": "ReelShort首页榜单",
-    "raw_metric": "30361092 read_count(站内播放数)",
+    "raw_metric": "25655340 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "44",
-    "title": "Their Brother, the Dragon Sacrifice",
-    "genre_tags": "Playing Dumb/Male/Series/All Ages/Dragon/Immortal",
+    "title": "Divorced: Claimed by the Mafia King",
+    "genre_tags": "Playing Dumb/Divorce/Young Adult/Upgrade from Ex/Mafia/sweet",
     "source": "ReelShort首页榜单",
-    "raw_metric": "28182246 read_count(站内播放数)",
+    "raw_metric": "22552873 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "45",
-    "title": "The Fake Dating Spell",
-    "genre_tags": "Playing Dumb/Female/All Ages/Student/Jock/Fake Relationship",
+    "title": "Tide of Forbidden Touch",
+    "genre_tags": "Playing Dumb/Female/Drama/Family Drama/Emotional/Dark",
     "source": "ReelShort首页榜单",
-    "raw_metric": "26293459 read_count(站内播放数)",
+    "raw_metric": "22434513 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "46",
-    "title": "The Ultimate Fight for Love",
-    "genre_tags": "Love-Hate/Female/Interactive/Romance/Erotica/Modern",
+    "title": "My Father, My Hero",
+    "genre_tags": "Family Drama/Male/Series/Drama/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "25654167 read_count(站内播放数)",
+    "raw_metric": "22303303 read_count(站内播放数)",
+    "source_url": "https://www.reelshort.com/",
+    "promotable": false
+   },
+   {
+    "rank": "47",
+    "title": "His Father Made Me His",
+    "genre_tags": "Playing Dumb/Female/Series/Romance/Erotica/Modern",
+    "source": "ReelShort首页榜单",
+    "raw_metric": "22059135 read_count(站内播放数)",
+    "source_url": "https://www.reelshort.com/",
+    "promotable": false
+   },
+   {
+    "rank": "48",
+    "title": "Dear Brother, Your Regret Came Too Late",
+    "genre_tags": "Playing Dumb/Female/Series/Drama/Young Adult/Modern",
+    "source": "ReelShort首页榜单",
+    "raw_metric": "21436275 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "49",
-    "title": "Tide of Forbidden Touch",
-    "genre_tags": "Playing Dumb/Female/Drama/Family Drama/Emotional/Dark",
+    "title": "Married a Gardener, Got a Prince",
+    "genre_tags": "Playing Dumb/All/Series/Romance/Sweet Romance/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "22259610 read_count(站内播放数)",
+    "raw_metric": "20113822 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "50",
-    "title": "Divorced: Claimed by the Mafia King",
-    "genre_tags": "Playing Dumb/Divorce/Young Adult/Upgrade from Ex/Mafia/sweet",
+    "title": "Traded My Wolves for a Snake",
+    "genre_tags": "Playing Dumb/Werewolf/Marriage of Convenience/Drama/Strong Heroine/Revenge",
     "source": "ReelShort首页榜单",
-    "raw_metric": "22186684 read_count(站内播放数)",
+    "raw_metric": "19423348 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "51",
-    "title": "His Father Made Me His",
-    "genre_tags": "Playing Dumb/Female/Series/Romance/Erotica/Modern",
+    "title": "Waterboy: Second Down",
+    "genre_tags": "Playing Dumb/LGBTQ/Interactive/All Ages/Athlete/Childhood Sweetheart",
     "source": "ReelShort首页榜单",
-    "raw_metric": "21947919 read_count(站内播放数)",
+    "raw_metric": "19013842 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "52",
-    "title": "Dear Brother, Your Regret Came Too Late",
-    "genre_tags": "Playing Dumb/Female/Series/Drama/Young Adult/Modern",
+    "title": "Mated to My Sworn Enemy",
+    "genre_tags": "Playing Dumb/Female/Werewolf/Fated Lovers/Werewolf Attack/Identity Reveal",
     "source": "ReelShort首页榜单",
-    "raw_metric": "21295774 read_count(站内播放数)",
+    "raw_metric": "18585445 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "53",
-    "title": "Waterboy: Second Down",
-    "genre_tags": "Playing Dumb/LGBTQ/Interactive/All Ages/Athlete/Childhood Sweetheart",
+    "title": "I Slept With My Ex's Father",
+    "genre_tags": "Playing Dumb/Age Gap/Billionaire/Upgrade from Ex/Regret/Love Triangle",
     "source": "ReelShort首页榜单",
-    "raw_metric": "19003464 read_count(站内播放数)",
-    "source_url": "https://www.reelshort.com/",
-    "promotable": false
-   },
-   {
-    "rank": "54",
-    "title": "Mated to My Sworn Enemy",
-    "genre_tags": "Playing Dumb/Female/Werewolf/Fated Lovers/Werewolf Attack/Identity Reveal",
-    "source": "ReelShort首页榜单",
-    "raw_metric": "17876350 read_count(站内播放数)",
+    "raw_metric": "16518289 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "55",
-    "title": "Dream On",
-    "genre_tags": "Playing Dumb/Female/Series/Romance/Second Chance/Modern",
+    "title": "Forward, Without Him",
+    "genre_tags": "Playing Dumb/Young Adult/Love Triangle/Upgrade from Ex/Revenge/Regret",
     "source": "ReelShort首页榜单",
-    "raw_metric": "16688506 read_count(站内播放数)",
+    "raw_metric": "15281568 read_count(站内播放数)",
+    "source_url": "https://www.reelshort.com/",
+    "promotable": false
+   },
+   {
+    "rank": "56",
+    "title": "God of Wrath",
+    "genre_tags": "Playing Dumb/Female/Series/All Ages/Possessive/Student",
+    "source": "ReelShort首页榜单",
+    "raw_metric": "14445805 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "57",
-    "title": "I Slept With My Ex's Father",
-    "genre_tags": "Playing Dumb/Age Gap/Billionaire/Upgrade from Ex/Regret/Love Triangle",
+    "title": "Big Molly The Billionaire's Only Cure",
+    "genre_tags": "Playing Dumb/Male/Female/Romance/Sweet Romance/Modern",
     "source": "ReelShort首页榜单",
-    "raw_metric": "16090584 read_count(站内播放数)",
+    "raw_metric": "12796333 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "58",
-    "title": "God of Wrath",
-    "genre_tags": "Playing Dumb/Female/Series/All Ages/Possessive/Student",
+    "title": "I Flew Home Pregnant Only To See His Secret",
+    "genre_tags": "Playing Dumb/Billionaire/Divorce/Love Triangle/Regret/Revenge",
     "source": "ReelShort首页榜单",
-    "raw_metric": "13626093 read_count(站内播放数)",
+    "raw_metric": "12661623 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "59",
-    "title": "Big Molly The Billionaire's Only Cure",
-    "genre_tags": "Playing Dumb/Male/Female/Romance/Sweet Romance/Modern",
+    "title": "Found a True Love on My Bachelor Party",
+    "genre_tags": "Playing Dumb/Young Adult/Billionaire/Divorce/Upgrade from Ex/Second Chance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "12748479 read_count(站内播放数)",
+    "raw_metric": "12184024 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "60",
-    "title": "I Flew Home Pregnant Only To See His Secret",
-    "genre_tags": "Playing Dumb/Billionaire/Divorce/Love Triangle/Regret/Revenge",
+    "title": "Married the Mafia Don, Now My Ex Regrets Everything",
+    "genre_tags": "Playing Dumb/Female/Series/All Ages/Actor/Actress/Housewife",
     "source": "ReelShort首页榜单",
-    "raw_metric": "12543999 read_count(站内播放数)",
+    "raw_metric": "9635398 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "61",
-    "title": "Found a True Love on My Bachelor Party",
-    "genre_tags": "Playing Dumb/Young Adult/Billionaire/Divorce/Upgrade from Ex/Second Chance",
+    "title": "Race and Rise: My Machine Girls",
+    "genre_tags": "Harem/Male/Fantasy/Sci-Fi/Inspiring",
     "source": "ReelShort首页榜单",
-    "raw_metric": "11977365 read_count(站内播放数)",
+    "raw_metric": "9220128 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "62",
-    "title": "The Boy the QB Used in Bed",
-    "genre_tags": "Playing Dumb/Sports/Upgrade from Ex/Drama/Young Adult/LGBTQ",
+    "title": "The Alpha Heir Gave Me to His Brother",
+    "genre_tags": "Playing Dumb/Werewolf/Second Chance/Rebirth/Drama/Strong Heroine",
     "source": "ReelShort首页榜单",
-    "raw_metric": "11020350 read_count(站内播放数)",
+    "raw_metric": "8756133 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "63",
-    "title": "Race and Rise: My Machine Girls",
-    "genre_tags": "Harem/Male/Fantasy/Sci-Fi/Inspiring",
+    "title": "Her Secret Lycan King",
+    "genre_tags": "Playing Dumb/Female/Werewolf/Fated Lovers/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "9212029 read_count(站内播放数)",
+    "raw_metric": "8623662 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "64",
-    "title": "The Six Years Old Dragon MasterDragon Trainer",
-    "genre_tags": "Playing Dumb/All/High Fantasy/Lost Child/Parent Identity Reveal/Identity Reveal",
+    "title": "The School for Bad Boys",
+    "genre_tags": "Playing Dumb/LGBTQ/Series/All Ages/Student/Secret Lover",
     "source": "ReelShort首页榜单",
-    "raw_metric": "8151670 read_count(站内播放数)",
+    "raw_metric": "8199060 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "65",
-    "title": "The School for Bad Boys",
-    "genre_tags": "Playing Dumb/LGBTQ/Series/All Ages/Student/Secret Lover",
+    "title": "Mated to Two Bad Boy Alphas",
+    "genre_tags": "Playing Dumb/Werewolf/Love Triangle/Drama/Strong Heroine/Fated Lovers",
     "source": "ReelShort首页榜单",
-    "raw_metric": "8128090 read_count(站内播放数)",
+    "raw_metric": "8108143 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "66",
-    "title": "Mated to Two Bad Boy Alphas",
-    "genre_tags": "Playing Dumb/Werewolf/Love Triangle/Drama/Strong Heroine/Fated Lovers",
+    "title": "Came For The Money, Stayed For Him",
+    "genre_tags": "Playing Dumb/LGBTQ/Gay/Romance/Dark Romance/Dark",
     "source": "ReelShort首页榜单",
-    "raw_metric": "8053078 read_count(站内播放数)",
+    "raw_metric": "7229236 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "67",
-    "title": "Married the Mafia Don, Now My Ex Regrets Everything",
-    "genre_tags": "Playing Dumb/Female/Series/All Ages/Actor/Actress/Housewife",
+    "title": "The Heiress Prevented from Returning Home",
+    "genre_tags": "Playing Dumb/Female",
     "source": "ReelShort首页榜单",
-    "raw_metric": "8003247 read_count(站内播放数)",
+    "raw_metric": "5997753 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "68",
-    "title": "The Big Wife's Revenge: From Model to Queen",
-    "genre_tags": "Playing Dumb/Female/Plus-Sized/Second Chance/Divorce/Misunderstanding",
+    "title": "Homegirls Before Husbands",
+    "genre_tags": "Playing Dumb/Female/Series/All Ages/Firefighter/Doctor/Surgeon",
     "source": "ReelShort首页榜单",
-    "raw_metric": "7227910 read_count(站内播放数)",
+    "raw_metric": "5562562 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
-    "promotable": false
+    "promotable": true
    },
    {
     "rank": "69",
-    "title": "Came For The Money, Stayed For Him",
-    "genre_tags": "Playing Dumb/LGBTQ/Gay/Romance/Dark Romance/Dark",
+    "title": "Chained by Hades, the Underworld King",
+    "genre_tags": "Playing Dumb/Female/All Ages/Protective Husband/Student/Crime Lord",
     "source": "ReelShort首页榜单",
-    "raw_metric": "7172251 read_count(站内播放数)",
+    "raw_metric": "5257062 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "70",
-    "title": "The Heiress Prevented from Returning Home",
-    "genre_tags": "Playing Dumb/Female",
+    "title": "Desert Island Throne: Four Goddesses Fall for Me",
+    "genre_tags": "Playing Dumb/Male/Workplace/Harem/Drama/Comeback Story",
     "source": "ReelShort首页榜单",
-    "raw_metric": "5996557 read_count(站内播放数)",
+    "raw_metric": "5211636 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "71",
-    "title": "The Warmth of His Tongue",
-    "genre_tags": "Playing Dumb/Female/Romance/Erotica/Billionaire/Forbidden Love",
+    "title": "God of the Arena",
+    "genre_tags": "Playing Dumb/Male/Series/Drama/Comeback Story/Period Drama",
     "source": "ReelShort首页榜单",
-    "raw_metric": "5391948 read_count(站内播放数)",
+    "raw_metric": "4771644 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "72",
-    "title": "Chained by Hades, the Underworld King",
-    "genre_tags": "Playing Dumb/Female/All Ages/Protective Husband/Student/Crime Lord",
+    "title": "My Sister Got the Party, I Got the Scholarship",
+    "genre_tags": "Playing Dumb/Young Adult/Family Drama/Upgrade from Ex/Regret/Revenge",
     "source": "ReelShort首页榜单",
-    "raw_metric": "5246839 read_count(站内播放数)",
+    "raw_metric": "4526992 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "73",
-    "title": "Desert Island Throne: Four Goddesses Fall for Me",
-    "genre_tags": "Playing Dumb/Male/Workplace/Harem/Drama/Comeback Story",
+    "title": "School for Bad Boys: S*x Lessons",
+    "genre_tags": "Playing Dumb/LGBTQ/Series/All Ages/Artist/Happy-Go-Lucky",
     "source": "ReelShort首页榜单",
-    "raw_metric": "5057631 read_count(站内播放数)",
+    "raw_metric": "4406382 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "74",
-    "title": "Homegirls Before Husbands",
-    "genre_tags": "Playing Dumb/Female/Series/All Ages/Firefighter/Doctor/Surgeon",
+    "title": "My Twins Picked a Billionaire Dad",
+    "genre_tags": "Playing Dumb/Female/Billionaire/Rom-Com/One Night Stand/Hooking-up",
     "source": "ReelShort首页榜单",
-    "raw_metric": "4895614 read_count(站内播放数)",
+    "raw_metric": "3198364 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "75",
-    "title": "God of the Arena",
-    "genre_tags": "Playing Dumb/Male/Series/Drama/Comeback Story/Period Drama",
+    "title": "In Bed with the Cowboy Who Replaced Me",
+    "genre_tags": "Playing Dumb/LGBTQ/Gay/Young Adult/Enemies to Lovers/Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "4619290 read_count(站内播放数)",
+    "raw_metric": "3103314 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "76",
-    "title": "The Wolf Assassin: Pregnant and Dangerous (updating)",
-    "genre_tags": "Playing Dumb/Female/Series/Drama/Revenge/Modern",
+    "title": "My Best Man Stole Me at the Altar",
+    "genre_tags": "Playing Dumb/Female/Young Adult/Fated Lovers/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "4534738 read_count(站内播放数)",
+    "raw_metric": "2995392 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "77",
-    "title": "Second Chance, Double Trouble",
-    "genre_tags": "Playing Dumb/Female",
+    "title": "Stripper Nanny: Forbidden Romance with Mafia",
+    "genre_tags": "Playing Dumb/Female/Mafia/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "4444752 read_count(站内播放数)",
+    "raw_metric": "2826753 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "78",
-    "title": "School for Bad Boys: S*x Lessons",
-    "genre_tags": "Playing Dumb/LGBTQ/Series/All Ages/Artist/Happy-Go-Lucky",
+    "title": "The Ice King's Contract",
+    "genre_tags": "Playing Dumb/Female/Apocalypse/Fated Lovers/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "4158010 read_count(站内播放数)",
+    "raw_metric": "2825040 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "79",
-    "title": "Daughter Chose Her, I Chose Me",
-    "genre_tags": "Playing Dumb/Billionaire/Divorce/Second Chance/Upgrade from Ex/Toxic Romance",
+    "title": "Demigod Under Oath",
+    "genre_tags": "Playing Dumb/Male/Fantasy/Royalty/The Chosen One/Hidden Identity",
     "source": "ReelShort首页榜单",
-    "raw_metric": "3775429 read_count(站内播放数)",
+    "raw_metric": "2794014 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "80",
-    "title": "The Devil's Obsession",
-    "genre_tags": "Playing Dumb/Female/Mafia/Mistaken Identity/Misunderstanding/Identity Reveal",
+    "title": "The Lunar Eclipse's Scar",
+    "genre_tags": "Playing Dumb/Werewolf/Military/Divorce/Upgrade from Ex/Toxic Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "3741100 read_count(站内播放数)",
+    "raw_metric": "2792232 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "81",
-    "title": "My Twins Picked a Billionaire Dad",
-    "genre_tags": "Playing Dumb/Female/Billionaire/Rom-Com/One Night Stand/Hooking-up",
+    "title": "Cast Out by My Clan, I Woke the Dragon King",
+    "genre_tags": "Playing Dumb/Male/High Fantasy/Competition/Drama/Comeback Story",
     "source": "ReelShort首页榜单",
-    "raw_metric": "3102234 read_count(站内播放数)",
+    "raw_metric": "2752677 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "82",
-    "title": "In Bed with the Cowboy Who Replaced Me",
-    "genre_tags": "Playing Dumb/LGBTQ/Gay/Young Adult/Enemies to Lovers/Romance",
+    "title": "The Dragon King's Surrogate Wife",
+    "genre_tags": "Playing Dumb/Female/High Fantasy/Fated Lovers/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "3049717 read_count(站内播放数)",
+    "raw_metric": "2523879 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "83",
-    "title": "My Best Man Stole Me at the Altar",
-    "genre_tags": "Playing Dumb/Female/Young Adult/Fated Lovers/Romance/Sweet Romance",
+    "title": "The Billionaire Tiny Secret Wife",
+    "genre_tags": "Playing Dumb/Female/Billionaire/Fated Lovers/Amnesia/Competition",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2940333 read_count(站内播放数)",
+    "raw_metric": "2356986 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "84",
-    "title": "I Taught a Snake Woman How to Flirt—Then She Got Me Pregnant",
-    "genre_tags": "Playing Dumb/Young Adult/High Fantasy/The Chosen One/Happy Ending/Beauty",
+    "title": "Dumped by My Amnesiac Wolf Alpha",
+    "genre_tags": "Playing Dumb/Werewolf/Second Chance/Drama/Strong Heroine/Female Empowerment",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2887594 read_count(站内播放数)",
+    "raw_metric": "2181711 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "85",
-    "title": "The Lunar Eclipse's Scar",
-    "genre_tags": "Playing Dumb/Werewolf/Military/Divorce/Upgrade from Ex/Toxic Romance",
+    "title": "The Alpha's Forbidden Bunny",
+    "genre_tags": "Playing Dumb/LGBTQ/Adults Only/Werewolf/Alpha/Possessive",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2789107 read_count(站内播放数)",
+    "raw_metric": "2126491 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "86",
-    "title": "Demigod Under Oath",
-    "genre_tags": "Playing Dumb/Male/Fantasy/Royalty/The Chosen One/Hidden Identity",
+    "title": "My Twin is the Godfather",
+    "genre_tags": "Playing Dumb/Male/All Ages/Crime Lord/Engineer/Lawyer",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2778067 read_count(站内播放数)",
+    "raw_metric": "2000844 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "87",
-    "title": "The Ice King's Contract",
-    "genre_tags": "Playing Dumb/Female/Apocalypse/Fated Lovers/Romance/Sweet Romance",
+    "title": "His Eggs Inside Me",
+    "genre_tags": "Playing Dumb/Female/High Fantasy/Fated Lovers/Romance/Dark Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2744704 read_count(站内播放数)",
+    "raw_metric": "1870425 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "88",
-    "title": "Stripper Nanny: Forbidden Romance with Mafia",
-    "genre_tags": "Playing Dumb/Female/Mafia/Romance/Sweet Romance",
+    "title": "Fiancé Wed My Sister,I Exposed Them",
+    "genre_tags": "Playing Dumb/Young Adult/Billionaire/Upgrade from Ex/Toxic Romance/Revenge",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2652553 read_count(站内播放数)",
+    "raw_metric": "1865248 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "89",
-    "title": "Cast Out by My Clan, I Woke the Dragon King",
-    "genre_tags": "Playing Dumb/Male/High Fantasy/Competition/Drama/Comeback Story",
+    "title": "ReelTalk EP 49-Red Carpet Ready with Meg",
+    "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2613276 read_count(站内播放数)",
+    "raw_metric": "1764772 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "90",
-    "title": "I'm My Vampire Sister's Forbidden Mate",
-    "genre_tags": "Playing Dumb/Young Adult/Vampire/LGBTQ+/Erotic Romance/Happy Ending",
+    "title": "Mr. Reid Is My Husband",
+    "genre_tags": "Playing Dumb/Female/Rom-Com/Time Travel/transmigration/Protective Husband",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2474818 read_count(站内播放数)",
+    "raw_metric": "1755609 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "91",
-    "title": "The Billionaire Tiny Secret Wife",
-    "genre_tags": "Playing Dumb/Female/Billionaire/Fated Lovers/Amnesia/Competition",
+    "title": "Big Mistake! You Drove Away the Racing God",
+    "genre_tags": "Playing Dumb/Male/Action/Secret Identity/Drama/Comeback Story",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2347605 read_count(站内播放数)",
+    "raw_metric": "1753365 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "92",
-    "title": "Dumped by My Amnesiac Wolf Alpha",
-    "genre_tags": "Playing Dumb/Werewolf/Second Chance/Drama/Strong Heroine/Female Empowerment",
+    "title": "Paper Marriage",
+    "genre_tags": "Playing Dumb/Second Chance/Romance/Betrayal",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2180571 read_count(站内播放数)",
+    "raw_metric": "1582234 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "93",
-    "title": "365 Days to Be Mine",
-    "genre_tags": "Playing Dumb/LGBTQ/Gay/Mafia/Erotic Romance/Romance",
+    "title": "Spoiled by Four Sea Monster Husbands",
+    "genre_tags": "Playing Dumb/Female/Fantasy/Reverse Harem/Glow-Up/Reincarnation",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2149311 read_count(站内播放数)",
+    "raw_metric": "1543062 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "94",
-    "title": "The Alpha's Forbidden Bunny",
-    "genre_tags": "Playing Dumb/LGBTQ/Adults Only/Werewolf/Alpha/Possessive",
+    "title": "After Losing a Dare, I Told My Ex I Was Pregnant",
+    "genre_tags": "Playing Dumb/Billionaire/Second Chance/Happy Ending/High Society/Contemporary Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "2113794 read_count(站内播放数)",
+    "raw_metric": "1499625 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "95",
-    "title": "Fiancé Wed My Sister,I Exposed Them",
-    "genre_tags": "Playing Dumb/Young Adult/Billionaire/Upgrade from Ex/Toxic Romance/Revenge",
+    "title": "Three Days After My Divorce, I Wed the Wolf King",
+    "genre_tags": "Playing Dumb/Divorce/Upgrade from Ex/Toxic Romance/Regret/Second Chance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1847458 read_count(站内播放数)",
+    "raw_metric": "1434637 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "96",
-    "title": "Goodbye, My Ex-Lover",
-    "genre_tags": "Playing Dumb/Female/Billionaire/Secret Identity/Contract Lovers/Hidden Identity",
+    "title": "My Fake Husband Is My Daughter’s Billionaire Dad",
+    "genre_tags": "Playing Dumb/Female/Billionaire/Fated Lovers/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1845928 read_count(站内播放数)",
+    "raw_metric": "1387362 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "97",
-    "title": "ReelTalk EP 49-Red Carpet Ready with Meg",
-    "genre_tags": "Podcast",
+    "title": "Blood Lion: The Sacrificial Cage",
+    "genre_tags": "Playing Dumb/LGBTQ/Gay/Fantasy/Supernatural",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1762914 read_count(站内播放数)",
+    "raw_metric": "1355463 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "98",
-    "title": "Mr. Reid Is My Husband",
-    "genre_tags": "Playing Dumb/Female/Rom-Com/Time Travel/transmigration/Protective Husband",
+    "title": "My Brother, the Legendary Marshal",
+    "genre_tags": "Playing Dumb/Male/Marshal/General/Super Warrior/Royalty/Nobility/Hidden Identity",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1725025 read_count(站内播放数)",
+    "raw_metric": "1342549 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "99",
-    "title": "Paper Marriage",
-    "genre_tags": "Playing Dumb/Second Chance/Romance/Betrayal",
+    "title": "Silence! The 8-Year-Old Supreme Mage Is Here!",
+    "genre_tags": "Playing Dumb/Male/Identity Reveal/Hidden Identity/High Fantasy",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1581429 read_count(站内播放数)",
+    "raw_metric": "1336551 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "100",
-    "title": "Spoiled by Four Sea Monster Husbands",
-    "genre_tags": "Playing Dumb/Female/Fantasy/Reverse Harem/Glow-Up/Reincarnation",
+    "title": "The Dragon's Precious Princess",
+    "genre_tags": "Playing Dumb/Female/High Fantasy/Fated Lovers/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1530868 read_count(站内播放数)",
+    "raw_metric": "1332054 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "101",
-    "title": "ReelTalk EP 48-Flirting, First Kisses, and Fighting",
-    "genre_tags": "Podcast",
+    "title": "My Housekeeper Mom’s Billionaire Romance",
+    "genre_tags": "Playing Dumb/Female/Billionaire/Lost Child/Lost Child Reveal",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1491775 read_count(站内播放数)",
+    "raw_metric": "1276518 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "102",
-    "title": "John Carter, Hero of Mars",
-    "genre_tags": "Playing Dumb/Male/Series/All Ages/Super Warrior/Royalty/Nobility",
+    "title": "The Last Daughter of House Vale",
+    "genre_tags": "Playing Dumb/Young Adult/Vampire/Revenge/Regret/Love Triangle",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1440042 read_count(站内播放数)",
+    "raw_metric": "1219654 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "103",
-    "title": "My Fake Husband Is My Daughter’s Billionaire Dad",
-    "genre_tags": "Playing Dumb/Female/Billionaire/Fated Lovers/Romance/Sweet Romance",
+    "title": "Auntie’s 5 Lucky Charm Angels",
+    "genre_tags": "Playing Dumb/Female/Young Adult/The Chosen One/Self-growth/Beauty & Brains",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1372177 read_count(站内播放数)",
+    "raw_metric": "1204836 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "104",
-    "title": "Blood Lion: The Sacrificial Cage",
-    "genre_tags": "Playing Dumb/LGBTQ/Gay/Fantasy/Supernatural",
+    "title": "A Marriage Deal with the Billionaire",
+    "genre_tags": "Playing Dumb/Billionaire/Marriage of Convenience/High-Stakes/Romance/Second Chance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1350843 read_count(站内播放数)",
+    "raw_metric": "1084753 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "105",
-    "title": "My Brother, the Legendary Marshal",
-    "genre_tags": "Playing Dumb/Male/Marshal/General/Super Warrior/Royalty/Nobility/Hidden Identity",
+    "title": "The Supreme Luna: The Untouchable Wolf King Kneels for Me",
+    "genre_tags": "Playing Dumb/Female/High Fantasy/Fated Lovers/Romance/Toxic Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1329336 read_count(站内播放数)",
+    "raw_metric": "1030681 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "106",
-    "title": "The Dragon's Precious Princess",
-    "genre_tags": "Playing Dumb/Female/High Fantasy/Fated Lovers/Romance/Sweet Romance",
+    "title": "Married to the Firefighter I Slapped",
+    "genre_tags": "Playing Dumb/Female/Young Adult/Marriage of Convenience/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1301614 read_count(站内播放数)",
+    "raw_metric": "1029484 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "107",
-    "title": "My Housekeeper Mom’s Billionaire Romance",
-    "genre_tags": "Playing Dumb/Female/Billionaire/Lost Child/Lost Child Reveal",
+    "title": "Don't Cross the Cowgirl Queen",
+    "genre_tags": "Playing Dumb/Female/Workplace/Strong Heroine/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1194474 read_count(站内播放数)",
+    "raw_metric": "1020162 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "108",
-    "title": "Auntie’s 5 Lucky Charm Angels",
-    "genre_tags": "Playing Dumb/Female/Young Adult/The Chosen One/Self-growth/Beauty & Brains",
+    "title": "ReelTalk EP 60-Spend a Day with Me on Set",
+    "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1190484 read_count(站内播放数)",
+    "raw_metric": "991614 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "109",
-    "title": "A Marriage Deal with the Billionaire",
-    "genre_tags": "Playing Dumb/Billionaire/Marriage of Convenience/High-Stakes/Romance/Second Chance",
+    "title": "Reborn As the Broken Lycan King's Luna",
+    "genre_tags": "Playing Dumb/Female/Werewolf/Fated Lovers/Drama/Revenge",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1083364 read_count(站内播放数)",
+    "raw_metric": "948051 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "110",
-    "title": "Married to the Firefighter I Slapped",
-    "genre_tags": "Playing Dumb/Female/Young Adult/Marriage of Convenience/Romance/Sweet Romance",
+    "title": "He Killed My Pup for His Mate. I Burned His Pack",
+    "genre_tags": "Playing Dumb/Female/Werewolf/Revenge/Drama/Strong Heroine",
     "source": "ReelShort首页榜单",
-    "raw_metric": "1015168 read_count(站内播放数)",
+    "raw_metric": "903900 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "111",
-    "title": "Don't Cross the Cowgirl Queen",
-    "genre_tags": "Playing Dumb/Female/Workplace/Strong Heroine/Romance/Sweet Romance",
+    "title": "Ex-Con Barrister Chases Poor Widow",
+    "genre_tags": "Playing Dumb/Female/Royalty/Nobility/Glow-Up/Genius Babies/Sabotaging",
     "source": "ReelShort首页榜单",
-    "raw_metric": "940723 read_count(站内播放数)",
+    "raw_metric": "892018 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "112",
-    "title": "Dragon Speaker’s Little Girl",
-    "genre_tags": "Playing Dumb/All/High Fantasy/Group Favorite/Secret Reveal/Identity Reveal",
+    "title": "ReelTalk EP 71-Maria and Nate's First Date",
+    "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "927106 read_count(站内播放数)",
+    "raw_metric": "878802 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "113",
-    "title": "Reborn As the Broken Lycan King's Luna",
-    "genre_tags": "Playing Dumb/Female/Werewolf/Fated Lovers/Drama/Revenge",
+    "title": "Love Fades with Bygone Days",
+    "genre_tags": "Playing Dumb/Divorce/Upgrade from Ex/Toxic Romance/Second Chance/Regret",
     "source": "ReelShort首页榜单",
-    "raw_metric": "908932 read_count(站内播放数)",
+    "raw_metric": "874983 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "114",
-    "title": "Reeltalk Special | ReelShort Awards 2025",
-    "genre_tags": "Podcast",
+    "title": "Marked By The Alpha King: His Cherished Mate",
+    "genre_tags": "Playing Dumb/Female/Werewolf/Fated Lovers/Romance/Sweet Romance",
     "source": "ReelShort首页榜单",
-    "raw_metric": "901956 read_count(站内播放数)",
+    "raw_metric": "828436 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "115",
-    "title": "Ex-Con Barrister Chases Poor Widow",
-    "genre_tags": "Playing Dumb/Female/Royalty/Nobility/Glow-Up/Genius Babies/Sabotaging",
+    "title": "ReelTalk EP 64-Waterboy Duo Reveal Who’s Most Likely To",
+    "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "887475 read_count(站内播放数)",
+    "raw_metric": "824541 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "116",
-    "title": "ReelTalk EP 71-Maria and Nate's First Date",
+    "title": "ReelTalk EP 50-Happy Reelsgiving!",
     "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "877737 read_count(站内播放数)",
+    "raw_metric": "782449 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "117",
-    "title": "ReelTalk EP 53-Happy Holidays, Hollywood",
-    "genre_tags": "Podcast",
+    "title": "In Love, Out of Sync",
+    "genre_tags": "Playing Dumb/Female/All Ages/Dragon/Royalty/Nobility/Possessive",
     "source": "ReelShort首页榜单",
-    "raw_metric": "857898 read_count(站内播放数)",
+    "raw_metric": "751345 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "118",
-    "title": "ReelTalk EP 52 -Backstage: American Sniper: The Last Round",
-    "genre_tags": "Podcast",
+    "title": "The Dragon King’s Little Princess",
+    "genre_tags": "Playing Dumb/Female/High Fantasy/Group Favorite/Drama/Family Drama",
     "source": "ReelShort首页榜单",
-    "raw_metric": "848292 read_count(站内播放数)",
+    "raw_metric": "748573 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "119",
-    "title": "Marked By The Alpha King: His Cherished Mate",
-    "genre_tags": "Playing Dumb/Female/Werewolf/Fated Lovers/Romance/Sweet Romance",
+    "title": "Devour to the God of Death from a Stray Dog",
+    "genre_tags": "Playing Dumb/Female/Animal/Fantasy/Zero to Hero/Underdog",
     "source": "ReelShort首页榜单",
-    "raw_metric": "810348 read_count(站内播放数)",
+    "raw_metric": "744189 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "120",
-    "title": "ReelTalk EP 50-Happy Reelsgiving!",
-    "genre_tags": "Podcast",
+    "title": "Kiss Your Guardian Angel Goodbye!",
+    "genre_tags": "Playing Dumb/Female/All Ages/Immortal/CEO/Assistant",
     "source": "ReelShort首页榜单",
-    "raw_metric": "782014 read_count(站内播放数)",
+    "raw_metric": "721477 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "121",
-    "title": "Devour to the God of Death from a Stray Dog",
-    "genre_tags": "Playing Dumb/Female/Animal/Fantasy/Zero to Hero/Underdog",
+    "title": "At the Mercy of My Vampire Ex",
+    "genre_tags": "Playing Dumb/Female/Vampire/Second Chance/Sabotaging/Vampire Attack",
     "source": "ReelShort首页榜单",
-    "raw_metric": "743916 read_count(站内播放数)",
+    "raw_metric": "711477 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "122",
-    "title": "In Love, Out of Sync",
-    "genre_tags": "Playing Dumb/Female/All Ages/Dragon/Royalty/Nobility/Possessive",
+    "title": "ReelTalk EP 75-ReelTrip: Thailand",
+    "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "738898 read_count(站内播放数)",
+    "raw_metric": "661818 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -1106,7 +1106,7 @@
     "title": "ReelTalk EP 77-Love Whisper",
     "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "607350 read_count(站内播放数)",
+    "raw_metric": "607650 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -1115,7 +1115,7 @@
     "title": "ReelTalk EP 51-Flashback Friday",
     "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "597424 read_count(站内播放数)",
+    "raw_metric": "597987 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -1124,7 +1124,7 @@
     "title": "Insect Invasion: The Legendary Mage's Revenge",
     "genre_tags": "Playing Dumb/Male/All Ages/Super Warrior/Janitor/Damsel",
     "source": "ReelShort首页榜单",
-    "raw_metric": "572103 read_count(站内播放数)",
+    "raw_metric": "575298 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -1133,7 +1133,7 @@
     "title": "My Cursed Merman Husband Rules the Deep",
     "genre_tags": "Playing Dumb/Female/All Ages/Royalty/Nobility/Surrogate Bride/Hidden Identity",
     "source": "ReelShort首页榜单",
-    "raw_metric": "568441 read_count(站内播放数)",
+    "raw_metric": "573409 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -1142,7 +1142,7 @@
     "title": "My Strongest Master Likes Acting Weak",
     "genre_tags": "Playing Dumb/Male/Fantasy/Time Travel/Super Warrior/Super Power",
     "source": "ReelShort首页榜单",
-    "raw_metric": "534100 read_count(站内播放数)",
+    "raw_metric": "534375 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -1151,7 +1151,7 @@
     "title": "Copycat",
     "genre_tags": "Playing Dumb/Comedy/All/Animal/Self-growth/Secret",
     "source": "ReelShort首页榜单",
-    "raw_metric": "524530 read_count(站内播放数)",
+    "raw_metric": "525712 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -1160,16 +1160,16 @@
     "title": "ReelTalk EP 88-Bro Knows Ball",
     "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "492954 read_count(站内播放数)",
+    "raw_metric": "493365 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
    {
     "rank": "130",
-    "title": "Escape Velocity",
-    "genre_tags": "Playing Dumb/Male/Series/All Ages/Super Warrior/Driver",
+    "title": "ReelTalk EP 92-Vertical Actors Vs. Escape Room",
+    "genre_tags": "Podcast",
     "source": "ReelShort首页榜单",
-    "raw_metric": "444051 read_count(站内播放数)",
+    "raw_metric": "444586 read_count(站内播放数)",
     "source_url": "https://www.reelshort.com/",
     "promotable": false
    },
@@ -1185,729 +1185,9 @@
   ],
   "domestic": [
    {
-    "rank": "21",
-    "title": "修仙归来，我的未婚妻藏不住了",
-    "genre_tags": "都市玄幻",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5570 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "22",
-    "title": "猎王的养家路",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5566 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "23",
-    "title": "边军破刀：一路砍到裂土封王",
-    "genre_tags": "古风权谋",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5562 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "24",
-    "title": "归路",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5561 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "25",
-    "title": "我海洛薇兹，在韩国贵族学院假扮千金第二季",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5554 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "26",
-    "title": "空间囤货！我有四合院末世求生",
-    "genre_tags": "都市脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5535 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "27",
-    "title": "八零恋歌：冷面丈夫的心尖宠",
-    "genre_tags": "年代爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5521 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "28",
-    "title": "一九七零清秋赴锦年",
-    "genre_tags": "年代爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5510 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "29",
-    "title": "末世轮回：我以尸躯化神明",
-    "genre_tags": "奇幻脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5510 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "30",
-    "title": "文溪归来第一季",
-    "genre_tags": "女性成长",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5499 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "31",
-    "title": "村花错嫁，竟是弟弟替哥哥相亲",
-    "genre_tags": "女性成长",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5496 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "32",
-    "title": "镇北少帅第五季",
-    "genre_tags": "古风权谋",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5492 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "33",
-    "title": "持械入宋：第一季",
-    "genre_tags": "时空之旅",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5484 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "34",
-    "title": "认下混混老爹，我一路青云",
-    "genre_tags": "女性成长",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5480 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "35",
-    "title": "谁说纨绔不能当状元！第六季",
-    "genre_tags": "古风权谋",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5478 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "36",
-    "title": "洁爱联姻之京婚越界",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5473 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "37",
-    "title": "nova：新星",
-    "genre_tags": "其他",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5460 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "38",
-    "title": "拒绝内耗！穿书后我靠囤货苟成团宠了",
-    "genre_tags": "古风爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5452 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "39",
-    "title": "剑神归来：我和驴子的十万年四季",
-    "genre_tags": "玄幻仙侠",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5451 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "40",
-    "title": "真千金她真没有背景通天",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5446 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "41",
-    "title": "纨绔下乡-顽郎亦不负流年第三季",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5445 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "42",
-    "title": "重生老太的潇洒人生",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5442 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "43",
-    "title": "烛九阴第八季",
-    "genre_tags": "古风权谋",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5433 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "44",
-    "title": "持械入宋：第十季",
-    "genre_tags": "古风权谋",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5432 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "45",
-    "title": "全民机械飞升",
-    "genre_tags": "奇幻脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5428 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "46",
-    "title": "婆婆装瘫七年，我高调离婚！",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5426 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "47",
-    "title": "赶海拾光娶佳人",
-    "genre_tags": "种田经营",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5414 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "48",
-    "title": "末世第一粮仓",
-    "genre_tags": "都市脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5411 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "49",
-    "title": "咱家剑宗团宠小师妹第五季",
-    "genre_tags": "玄幻仙侠",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5410 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "50",
-    "title": "萌宝小熊末日超市经营第四季",
-    "genre_tags": "奇幻脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5408 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "51",
-    "title": "末哥超凡公路第九季",
-    "genre_tags": "悬疑灵异",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5408 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "52",
-    "title": "卖掉养老房那天，我重获新生",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5387 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "53",
-    "title": "天医下山：不爽一脚直接踹飞",
-    "genre_tags": "无敌神医",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5387 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "54",
-    "title": "亲家母带全家来我家过年",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5384 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "55",
-    "title": "仙界归来家人竟护了我十年肉身第一季",
-    "genre_tags": "未分类",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5382 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "56",
-    "title": "妈咪受辱，大小姐回国掀翻全场",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5382 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "57",
-    "title": "天命玄骨，萧小姐有点强",
-    "genre_tags": "都市玄幻",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5375 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "58",
-    "title": "人前小保姆，人后是亲妈",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5368 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "59",
-    "title": "京婚越界，宗少请自重",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5363 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "60",
-    "title": "我被傲娇魔尊大反派“馋”上了！第二季",
-    "genre_tags": "奇幻爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5363 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "61",
-    "title": "万倍返还：收徒筑基我直接成仙",
-    "genre_tags": "玄幻仙侠",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5363 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "62",
-    "title": "阡陌空间录",
-    "genre_tags": "种田经营",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5362 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "63",
-    "title": "神豪外挂第二季",
-    "genre_tags": "都市脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5357 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "64",
-    "title": "变废为宝:大佬哥哥们抢着捡垃圾第三季",
-    "genre_tags": "都市脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5355 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "65",
-    "title": "六十岁老太不一般",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5354 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "66",
-    "title": "公路求生榜一说他要走到公路尽头",
-    "genre_tags": "都市脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5353 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "67",
-    "title": "黄昏之恋，陆总幸遇真爱",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5352 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "68",
-    "title": "问鼎仙途：踏碎仙凡",
-    "genre_tags": "玄幻仙侠",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5351 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "69",
-    "title": "灵葫仙缘：葫中藏尽世间粮",
-    "genre_tags": "玄幻仙侠",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5349 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "70",
-    "title": "一身腱子肉，乱世做谋臣",
-    "genre_tags": "古风权谋",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5344 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "71",
-    "title": "全球死考：刚下刑场你让我去考试一季",
-    "genre_tags": "未分类",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5329 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "72",
-    "title": "执子之手，生死同契",
-    "genre_tags": "未分类",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5328 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "73",
-    "title": "迟来的情缘，董事长的暖心妻",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5327 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "74",
-    "title": "震关东",
-    "genre_tags": "都市日常",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5327 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "75",
-    "title": "祖传戒指通异界：我靠倒卖横推万宗",
-    "genre_tags": "奇幻脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5325 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "76",
-    "title": "净身出户后我赶海发家",
-    "genre_tags": "都市脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5321 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "77",
-    "title": "重生1977：我靠打猎赶山发家致富",
-    "genre_tags": "种田经营",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5310 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "78",
-    "title": "魔神人生：弃子问天第一季",
-    "genre_tags": "玄幻仙侠",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5308 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "79",
-    "title": "许君明月共余生",
-    "genre_tags": "古风爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5307 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "80",
-    "title": "莞城往事：八十五块闯出亿万身家第一季",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5305 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "81",
-    "title": "一书解尽天下忧第二季",
-    "genre_tags": "未分类",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5304 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "82",
-    "title": "枝头春意闹",
-    "genre_tags": "古风爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5303 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "83",
-    "title": "逆江湖之苍生为局第十季",
-    "genre_tags": "玄幻仙侠",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5300 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "84",
-    "title": "悍妻赶海旺全家",
-    "genre_tags": "种田经营",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5299 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "85",
-    "title": "总裁是我前女友",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5299 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "86",
-    "title": "灾年逆袭：我靠穿越养全家",
-    "genre_tags": "种田经营",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5294 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "87",
-    "title": "二婚遇到爱",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5290 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "88",
-    "title": "逆江湖之苍生为局",
-    "genre_tags": "古风权谋",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5290 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "89",
-    "title": "萌宝驾到：总裁爹地请认领",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5285 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "90",
-    "title": "后妈只想苟，老公非要凑第二季",
-    "genre_tags": "都市爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5283 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "91",
-    "title": "人到中年：我的双眼可以看穿一切",
-    "genre_tags": "都市脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5281 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "92",
-    "title": "穿越八零：厂区第一辣媳",
-    "genre_tags": "年代爱情",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5280 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "93",
-    "title": "我靠开幼儿园爆红全网第二季",
-    "genre_tags": "都市脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5279 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "94",
-    "title": "村花错嫁，竟是弟弟替哥哥相亲第二季",
-    "genre_tags": "女性成长",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5279 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "95",
-    "title": "婚礼当天，我掀翻全场",
-    "genre_tags": "家庭伦理",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5278 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "96",
-    "title": "穿书末世，我的日常很滋润",
-    "genre_tags": "都市脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5276 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "97",
-    "title": "我本是魔之阴阳魔帝",
-    "genre_tags": "玄幻仙侠",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5276 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "98",
-    "title": "伪人降临！我是全场唯一预言家第四季",
-    "genre_tags": "奇幻脑洞",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5273 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "99",
-    "title": "烬九州：三十四季",
-    "genre_tags": "古风权谋",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5269 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
-    "rank": "100",
-    "title": "我在男团摸鱼，粉丝非说我是神",
-    "genre_tags": "青春",
-    "source": "短剧工程·红果日榜TOP100",
-    "raw_metric": "5267 当日热播指数",
-    "source_url": "https://www.duanjugongcheng.com/cn/bangdan/2026-11-03",
-    "promotable": false
-   },
-   {
     "rank": "1",
     "title": "十八岁太奶奶驾到，重整家族荣耀第五部",
-    "genre_tags": "家族/家族振兴/穿越/家庭伦理",
+    "genre_tags": "家族/家族振兴/穿越",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "9667万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7701935931787316286",
@@ -1916,7 +1196,7 @@
    {
     "rank": "2",
     "title": "重生！丑小鸭逆袭成了万人迷第五季",
-    "genre_tags": "脑洞/重生/系统/都市脑洞",
+    "genre_tags": "脑洞/重生/系统",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "9126万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7703101760604212248",
@@ -1925,7 +1205,7 @@
    {
     "rank": "3",
     "title": "和离后我带女儿横扫魔域",
-    "genre_tags": "玄幻/系统/异界/玄幻仙侠",
+    "genre_tags": "玄幻/系统/异界",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "8252万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7698294694886788121",
@@ -1934,7 +1214,7 @@
    {
     "rank": "4",
     "title": "魔神人生：弃子问天第二季",
-    "genre_tags": "玄幻/穿越/系统/玄幻仙侠",
+    "genre_tags": "玄幻/穿越/系统",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "7920万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7703101760809749528",
@@ -1943,7 +1223,7 @@
    {
     "rank": "5",
     "title": "聚宝仙盆之杂灵根才是真BOSS第十五季",
-    "genre_tags": "玄幻/异界/漫剧/玄幻仙侠",
+    "genre_tags": "玄幻/异界/漫剧",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "7795万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7701226234214108185",
@@ -1952,7 +1232,7 @@
    {
     "rank": "6",
     "title": "退役归来，这个保镖不好惹",
-    "genre_tags": "战神/都市/AI剧/都市爱情",
+    "genre_tags": "战神/都市/AI剧",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "7595万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7697622096326708286",
@@ -1961,7 +1241,7 @@
    {
     "rank": "7",
     "title": "满院亲戚全是上古大妖第六季",
-    "genre_tags": "奇幻/都市/漫剧/都市玄幻",
+    "genre_tags": "奇幻/都市/漫剧",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "6916万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7701567939715025944",
@@ -1970,7 +1250,7 @@
    {
     "rank": "8",
     "title": "备用联系人（完）",
-    "genre_tags": "恋爱/都市/AI剧/都市爱情",
+    "genre_tags": "恋爱/都市/AI剧",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "6406万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7697612795184958489",
@@ -1979,7 +1259,7 @@
    {
     "rank": "9",
     "title": "一念沉沦，霍总心动了",
-    "genre_tags": "爱情/都市爱情/暧昧拉扯/都市爱情",
+    "genre_tags": "爱情/都市爱情/暧昧拉扯",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "6334万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7701334722449787928",
@@ -1988,7 +1268,7 @@
    {
     "rank": "10",
     "title": "摊牌了我真的有系统",
-    "genre_tags": "脑洞/系统/都市/都市脑洞",
+    "genre_tags": "脑洞/系统/都市",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "6162万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7701297357857491993",
@@ -1997,7 +1277,7 @@
    {
     "rank": "11",
     "title": "重生螳螂，觉醒无限吞噬进化",
-    "genre_tags": "脑洞/重生/系统/奇幻脑洞",
+    "genre_tags": "脑洞/重生/系统",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5842万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7700941738487073817",
@@ -2006,7 +1286,7 @@
    {
     "rank": "12",
     "title": "分家没我份，破院枯井全是金条",
-    "genre_tags": "剧情/逆袭/乡村/家庭伦理",
+    "genre_tags": "剧情/逆袭/乡村",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5822万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7698311709634595864",
@@ -2015,7 +1295,7 @@
    {
     "rank": "13",
     "title": "边军破刀：一路砍到裂土封王第二季",
-    "genre_tags": "剧情/逆袭/古代/古风权谋",
+    "genre_tags": "剧情/逆袭/古代",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5784万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7700138431145315390",
@@ -2024,7 +1304,7 @@
    {
     "rank": "14",
     "title": "末世选择，从解析神明开始成神第三季",
-    "genre_tags": "末世/系统/战斗/奇幻脑洞",
+    "genre_tags": "末世/系统/战斗",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5781万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7702023183850818585",
@@ -2033,7 +1313,7 @@
    {
     "rank": "15",
     "title": "天道余途：苍途问道",
-    "genre_tags": "玄幻/逆袭/异界/玄幻仙侠",
+    "genre_tags": "玄幻/逆袭/异界",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5712万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7688651092246154264",
@@ -2042,7 +1322,7 @@
    {
     "rank": "16",
     "title": "宝星行",
-    "genre_tags": "脑洞/逆袭/穿越/都市脑洞",
+    "genre_tags": "脑洞/逆袭/穿越",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5671万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7701535469078596633",
@@ -2051,7 +1331,7 @@
    {
     "rank": "17",
     "title": "学法律的玄学大师，很常见吗第二季",
-    "genre_tags": "脑洞/逆袭/都市/都市玄幻",
+    "genre_tags": "脑洞/逆袭/都市",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5659万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7700968020511837208",
@@ -2060,7 +1340,7 @@
    {
     "rank": "18",
     "title": "王妈在顾家当保姆后全家只会搞笑了",
-    "genre_tags": "喜剧/轻喜剧/反转/都市日常",
+    "genre_tags": "喜剧/轻喜剧/反转",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5641万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7694653385668037657",
@@ -2069,7 +1349,7 @@
    {
     "rank": "19",
     "title": "反向拿捏：和闺蜜穿七零带着婆婆一起离",
-    "genre_tags": "剧情/穿越/逆袭/年代爱情",
+    "genre_tags": "剧情/穿越/逆袭",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5623万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7692043430955863102",
@@ -2078,7 +1358,7 @@
    {
     "rank": "20",
     "title": "夕阳红顶流，大爷大妈助我乐坛封神第二季",
-    "genre_tags": "脑洞/穿越/系统/都市脑洞",
+    "genre_tags": "脑洞/穿越/系统",
     "source": "红果热播榜(hongguoduanju.com)",
     "raw_metric": "5589万热度",
     "source_url": "https://hongguoduanju.com/detail?series_id=7701272618531310617",
@@ -2111,9 +1391,9 @@
    "title": "They called him useless. Next stop: the Devil's Triangle.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-04 12:00",
    "thumb": "media/sea_god__clip_002_thumb.jpg",
    "preview": "media/sea_god__clip_002_preview.mp4",
    "note": ""
@@ -2338,7 +1618,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-04 12:00",
+   "scheduled_time_ict": "2026-11-05 09:00",
    "thumb": "media/alpha__clip_001_thumb.jpg",
    "preview": "media/alpha__clip_001_preview.mp4",
    "note": ""
@@ -2353,7 +1633,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 02:00",
+   "scheduled_time_ict": "2026-11-06 06:00",
    "thumb": "media/alpha__clip_002_thumb.jpg",
    "preview": "media/alpha__clip_002_preview.mp4",
    "note": ""
@@ -2368,7 +1648,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 02:00",
+   "scheduled_time_ict": "2026-11-07 06:00",
    "thumb": "media/alpha__clip_003_thumb.jpg",
    "preview": "media/alpha__clip_003_preview.mp4",
    "note": ""
@@ -2413,7 +1693,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-04 09:00",
+   "scheduled_time_ict": "2026-11-05 06:00",
    "thumb": "media/surf_god__clip_001_thumb.jpg",
    "preview": "media/surf_god__clip_001_preview.mp4",
    "note": ""
@@ -2428,7 +1708,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-05 09:00",
+   "scheduled_time_ict": "2026-11-05 12:00",
    "thumb": "media/surf_god__clip_002_thumb.jpg",
    "preview": "media/surf_god__clip_002_preview.mp4",
    "note": ""
@@ -2443,7 +1723,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 12:00",
+   "scheduled_time_ict": "2026-11-07 02:00",
    "thumb": "media/surf_god__clip_003_thumb.jpg",
    "preview": "media/surf_god__clip_003_preview.mp4",
    "note": ""
@@ -2456,9 +1736,9 @@
    "title": "They called him a sponger. He made a vow.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
+   "status": "剪好",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 06:00",
+   "scheduled_time_ict": "",
    "thumb": "media/surf_god__clip_004_thumb.jpg",
    "preview": "media/surf_god__clip_004_preview.mp4",
    "note": ""
@@ -2503,7 +1783,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-05 06:00",
+   "scheduled_time_ict": "2026-11-04 09:00",
    "thumb": "media/virgin_sacrifice__clip_003_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_003_preview.mp4",
    "note": ""
@@ -2518,7 +1798,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 06:00",
+   "scheduled_time_ict": "2026-11-06 09:00",
    "thumb": "media/virgin_sacrifice__clip_004_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_004_preview.mp4",
    "note": ""
@@ -2593,7 +1873,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-05 12:00",
+   "scheduled_time_ict": "2026-11-06 02:00",
    "thumb": "media/billionaire_mother__clip_003_thumb.jpg",
    "preview": "media/billionaire_mother__clip_003_preview.mp4",
    "note": ""
@@ -2608,7 +1888,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 09:00",
+   "scheduled_time_ict": "2026-11-06 12:00",
    "thumb": "media/billionaire_mother__clip_004_thumb.jpg",
    "preview": "media/billionaire_mother__clip_004_preview.mp4",
    "note": ""
@@ -2785,31 +2065,31 @@
    "scheduled_time_ict": "2026-11-03 14:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1469347595080080",
-   "views": "37"
+   "views": "42"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 02:11",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/4541558412770118",
-   "views": ""
+   "views": "108"
   },
   {
    "clip_file": "out/billionaire_mother/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 06:09",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/5007631552797040",
-   "views": ""
+   "views": "22"
   },
   {
-   "clip_file": "out/surf_god/clip_001.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_003.mp4",
    "scheduled_time_ict": "2026-11-04 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/alpha/clip_001.mp4",
+   "clip_file": "out/sea_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-04 12:00",
    "status": "planned",
    "post_url": "",
@@ -2823,63 +2103,63 @@
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_003.mp4",
+   "clip_file": "out/surf_god/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_002.mp4",
+   "clip_file": "out/alpha/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/billionaire_mother/clip_003.mp4",
+   "clip_file": "out/surf_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-05 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/alpha/clip_002.mp4",
+   "clip_file": "out/billionaire_mother/clip_003.mp4",
    "scheduled_time_ict": "2026-11-06 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_004.mp4",
+   "clip_file": "out/alpha/clip_002.mp4",
    "scheduled_time_ict": "2026-11-06 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/billionaire_mother/clip_004.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_004.mp4",
    "scheduled_time_ict": "2026-11-06 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_003.mp4",
+   "clip_file": "out/billionaire_mother/clip_004.mp4",
    "scheduled_time_ict": "2026-11-06 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/alpha/clip_003.mp4",
+   "clip_file": "out/surf_god/clip_003.mp4",
    "scheduled_time_ict": "2026-11-07 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_004.mp4",
+   "clip_file": "out/alpha/clip_003.mp4",
    "scheduled_time_ict": "2026-11-07 06:00",
    "status": "planned",
    "post_url": "",
@@ -2887,17 +2167,18 @@
   }
  ],
  "earnings": {
-  "updated": "2026-11-03 21:11 ICT",
+  "updated": "2026-11-04 08:08 ICT",
   "yesterday": "$0.00",
   "this_month": "$0.00",
   "withdrawable": "$0.00",
-  "note": "后台显示：昨日/本月/可提现均 $0.00，昨日订单 0",
   "last_month_settlement": "$0.00",
   "orders_yesterday": {
    "dramas": 0,
    "novels": 0,
    "commission": 0
-  }
+  },
+  "per_drama": "not shown",
+  "note": "后台显示：昨日/本月/上月结算/可提现均 $0.00；Dramas/Novels/Commission 推广内容 0、订单 0"
  },
  "plan": {
   "day": "2026-11-04",
@@ -2923,8 +2204,8 @@
    },
    {
     "time": "12:00",
-    "clip": "surf_god/clip_001.mp4",
-    "title": "A sea hag cursed a god. Her price? Her daughter.",
+    "clip": "virgin_sacrifice/clip_003.mp4",
+    "title": "Her sister cast a spell. Now the gods are angry.",
     "state": "待发"
    }
   ],
