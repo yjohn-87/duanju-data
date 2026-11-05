@@ -212,11 +212,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1122352644117792",
    "promo": "https://reelslink.com/cps/1noh7F",
-   "views": "31",
+   "views": "34",
    "tiktok": "Everyone laughed at the \"useless\" husband… until he sailed for the Devil's Triangle alone. From The Sea God's Disguise on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #plottwist #fyp",
    "download": "media/sea_god__clip_002_preview.mp4",
    "metrics": {
-    "views": 31,
+    "views": 34,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -284,11 +284,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/28248245011516972",
    "promo": "https://reelslink.com/cps/D5qbWz",
-   "views": null,
+   "views": "3",
    "tiktok": "A sea hag cursed a god… and her price was her daughter 🌊 Clip from Surf God's Revenge on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/surf_god__clip_001_preview.mp4",
    "metrics": {
-    "views": null,
+    "views": 3,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -301,16 +301,16 @@
   },
   {
    "kind": "FB",
-   "slug": "triplets",
-   "clip": "clip_002",
-   "hook": "Her 18th birthday. They chose the maid's daughter.",
+   "slug": "virgin_sacrifice",
+   "clip": "clip_005",
+   "hook": "Give herself to the god, or he burns the city.",
    "time": "11-06 03:00",
    "status": "planned",
    "fb_url": "",
-   "promo": "https://reelslink.com/cps/7FIatU",
+   "promo": "https://reelslink.com/cps/3MLpsL",
    "views": null,
-   "tiktok": "Her 18th birthday… and they all chose the maid's daughter 🎂 Clip from The Triplets' Final Regret on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #regret #fyp",
-   "download": "media/triplets__clip_002_preview.mp4",
+   "tiktok": "The God of War gave her one choice: come willingly or watch her city burn ⚡ Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
+   "download": "media/virgin_sacrifice__clip_005_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -361,31 +361,31 @@
   },
   {
    "kind": "FB",
-   "slug": "virgin_sacrifice",
-   "clip": "clip_005",
-   "hook": "Give herself to the god, or he burns the city.",
-   "time": "11-07 03:00",
-   "status": "planned",
-   "fb_url": "",
-   "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": null,
-   "tiktok": "The God of War gave her one choice: come willingly or watch her city burn ⚡ Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
-   "download": "media/virgin_sacrifice__clip_005_preview.mp4",
-   "metrics": null,
-   "platform": "Facebook"
-  },
-  {
-   "kind": "FB",
    "slug": "surf_god",
    "clip": "clip_003",
    "hook": "Marry her for 5 years, or never surf again.",
-   "time": "11-07 07:00",
+   "time": "11-07 03:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/D5qbWz",
    "views": null,
    "tiktok": "Five years married to a stranger… or never surf again 🔱 Clip from Surf God's Revenge on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/surf_god__clip_003_preview.mp4",
+   "metrics": null,
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
+   "slug": "triplets",
+   "clip": "clip_002",
+   "hook": "Her 18th birthday. They chose the maid's daughter.",
+   "time": "11-07 07:00",
+   "status": "planned",
+   "fb_url": "",
+   "promo": "https://reelslink.com/cps/7FIatU",
+   "views": null,
+   "tiktok": "Her 18th birthday… and they all chose the maid's daughter 🎂 Clip from The Triplets' Final Regret on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #regret #fyp",
+   "download": "media/triplets__clip_002_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -1245,7 +1245,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-05 21:55（北京时间）",
+ "generated": "2026-11-05 22:52（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1275,8 +1275,8 @@
    "name": "每日复盘",
    "desc": "汇总前一天播放/收益/告警",
    "sched": "每天约 09:15",
-   "last": "11-05 12:10",
-   "result": "成功（12:00 report: FB2 since last (roaming1, sea_god2), VS avg be）",
+   "last": "11-05 22:52",
+   "result": "成功（23:00 report: FB 5 posts, VS4 97 plays, boost 已关闭 $2.38/80 c）",
    "next": "11-06 09:15"
   },
   {
@@ -1312,7 +1312,7 @@
    "remaining": 42,
    "hold": 4,
    "next_time": "11-06 03:00",
-   "next_title": "triplets"
+   "next_title": "virgin_sacrifice"
   },
   {
    "platform": "TikTok",
@@ -1334,8 +1334,8 @@
   }
  ],
  "today": {
-  "views": 532,
-  "posts_with_views": 9,
+  "views": 538,
+  "posts_with_views": 10,
   "earnings": {
    "yesterday": "$0.00",
    "this_month": "$0.00",
