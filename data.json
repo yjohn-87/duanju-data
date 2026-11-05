@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-05 09:02",
+ "generated_ict": "2026-11-05 11:10",
  "trends": {
   "file": "trends/out/2026-11-05.csv",
   "overseas": [
@@ -1492,7 +1492,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 12:00",
+   "scheduled_time_ict": "2026-11-08 02:00",
    "thumb": "media/roaming__clip_002_thumb.jpg",
    "preview": "media/roaming__clip_002_preview.mp4",
    "note": ""
@@ -1567,7 +1567,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-05 09:00",
+   "scheduled_time_ict": "2026-11-05 12:00",
    "thumb": "media/triplets__clip_001_thumb.jpg",
    "preview": "media/triplets__clip_001_preview.mp4",
    "note": ""
@@ -1582,7 +1582,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 02:00",
+   "scheduled_time_ict": "2026-11-06 06:00",
    "thumb": "media/triplets__clip_002_thumb.jpg",
    "preview": "media/triplets__clip_002_preview.mp4",
    "note": ""
@@ -1597,7 +1597,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 02:00",
+   "scheduled_time_ict": "2026-11-07 06:00",
    "thumb": "media/triplets__clip_003_thumb.jpg",
    "preview": "media/triplets__clip_003_preview.mp4",
    "note": ""
@@ -1702,7 +1702,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-05 12:00",
+   "scheduled_time_ict": "2026-11-06 02:00",
    "thumb": "media/surf_god__clip_001_thumb.jpg",
    "preview": "media/surf_god__clip_001_preview.mp4",
    "note": ""
@@ -1717,7 +1717,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 09:00",
+   "scheduled_time_ict": "2026-11-06 12:00",
    "thumb": "media/surf_god__clip_002_thumb.jpg",
    "preview": "media/surf_god__clip_002_preview.mp4",
    "note": ""
@@ -1732,7 +1732,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 09:00",
+   "scheduled_time_ict": "2026-11-07 12:00",
    "thumb": "media/surf_god__clip_003_thumb.jpg",
    "preview": "media/surf_god__clip_003_preview.mp4",
    "note": ""
@@ -1747,7 +1747,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 02:00",
+   "scheduled_time_ict": "2026-11-08 06:00",
    "thumb": "media/surf_god__clip_004_thumb.jpg",
    "preview": "media/surf_god__clip_004_preview.mp4",
    "note": ""
@@ -1807,7 +1807,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 06:00",
+   "scheduled_time_ict": "2026-11-06 09:00",
    "thumb": "media/virgin_sacrifice__clip_004_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_004_preview.mp4",
    "note": ""
@@ -2092,7 +2092,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 12:00",
+   "scheduled_time_ict": "2026-11-07 02:00",
    "thumb": "media/crowned_silver__clip_001_thumb.jpg",
    "preview": "media/crowned_silver__clip_001_preview.mp4",
    "note": ""
@@ -2182,7 +2182,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 06:00",
+   "scheduled_time_ict": "2026-11-07 09:00",
    "thumb": "media/virgin_sacrifice__clip_005_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_005_preview.mp4",
    "note": ""
@@ -2197,7 +2197,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 06:00",
+   "scheduled_time_ict": "2026-11-08 09:00",
    "thumb": "media/virgin_sacrifice__clip_006_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_006_preview.mp4",
    "note": ""
@@ -2285,84 +2285,84 @@
   },
   {
    "clip_file": "out/triplets/clip_001.mp4",
-   "scheduled_time_ict": "2026-11-05 09:00",
-   "status": "planned",
-   "post_url": "",
-   "views": ""
-  },
-  {
-   "clip_file": "out/surf_god/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/triplets/clip_002.mp4",
+   "clip_file": "out/surf_god/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_004.mp4",
+   "clip_file": "out/triplets/clip_002.mp4",
    "scheduled_time_ict": "2026-11-06 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_002.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_004.mp4",
    "scheduled_time_ict": "2026-11-06 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/crowned_silver/clip_001.mp4",
+   "clip_file": "out/surf_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-06 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/triplets/clip_003.mp4",
+   "clip_file": "out/crowned_silver/clip_001.mp4",
    "scheduled_time_ict": "2026-11-07 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_005.mp4",
+   "clip_file": "out/triplets/clip_003.mp4",
    "scheduled_time_ict": "2026-11-07 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_003.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_005.mp4",
    "scheduled_time_ict": "2026-11-07 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/roaming/clip_002.mp4",
+   "clip_file": "out/surf_god/clip_003.mp4",
    "scheduled_time_ict": "2026-11-07 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_004.mp4",
+   "clip_file": "out/roaming/clip_002.mp4",
    "scheduled_time_ict": "2026-11-08 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_006.mp4",
+   "clip_file": "out/surf_god/clip_004.mp4",
    "scheduled_time_ict": "2026-11-08 06:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
+  },
+  {
+   "clip_file": "out/virgin_sacrifice/clip_006.mp4",
+   "scheduled_time_ict": "2026-11-08 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
@@ -2421,10 +2421,6 @@
   [
    "missed",
    "11-05 09:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "out/triplets/clip_001.mp4 排期 11-05 09:00 已过，状态仍是 planned"
   ],
   [
    "ok",
