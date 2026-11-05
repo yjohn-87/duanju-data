@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-05 13:50",
+ "generated_ict": "2026-11-05 16:48",
  "trends": {
   "file": "trends/out/2026-11-05.csv",
   "overseas": [
@@ -2430,11 +2430,15 @@
    "11-05 09:00 时段已过，没有发布记录"
   ],
   [
-   "info",
+   "tiktok_external_schedule",
    ""
   ],
   [
-   "tiktok_delete_captcha",
+   "tiktok_external_schedule",
+   ""
+  ],
+  [
+   "tiktok_dup_kept",
    ""
   ],
   [

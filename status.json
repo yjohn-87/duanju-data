@@ -433,21 +433,6 @@
   },
   {
    "kind": "TikTok",
-   "slug": "virgin_sacrifice",
-   "clip": "clip_001",
-   "hook": "The God of War wants a new sacrifice: her.",
-   "time": "",
-   "status": "queued",
-   "fb_url": "",
-   "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": null,
-   "tiktok": "She begged the God of War to spare her city… he wants her instead ⚡ Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
-   "download": "media/virgin_sacrifice__clip_001_preview.mp4",
-   "metrics": null,
-   "platform": "TikTok"
-  },
-  {
-   "kind": "TikTok",
    "slug": "roaming",
    "clip": "clip_001",
    "hook": "His father called him worthless. Big mistake.",
@@ -1212,7 +1197,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-05 16:06（北京时间）",
+ "generated": "2026-11-05 17:48（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1283,12 +1268,12 @@
   },
   {
    "platform": "TikTok",
-   "posted": 1,
+   "posted": 2,
    "scheduled": 0,
-   "remaining": 52,
+   "remaining": 51,
    "hold": 0,
    "next_time": "待手动",
-   "next_title": "virgin_sacrifice"
+   "next_title": "roaming"
   },
   {
    "platform": "X",
@@ -1310,8 +1295,9 @@
    "note": null
   },
   "alerts": [
-   "{\"ts\": \"2026-11-05T12:18:02+08:00\", \"platform\": \"tiktok\", \"level\": \"warn\", \"note\": \"surf_god/clip_001 posted twice on @feiplay.tv: earlier copy 7703960691723619602 (Studio Nov 5 8:00 AM, not from this routine) and new 7704536147166252296 (11:15 AM). Profile display name still shows KHMER PRESS, not FeiPlay. Slider captcha seen on profile page (not solved). Decide whether to delete one; nothing deleted.\"}",
-   "{\"ts\": \"2026-11-05T14:08:33+08:00\", \"platform\": \"tiktok\", \"level\": \"blocker\", \"type\": \"tiktok_delete_captcha\", \"note\": \"Delete of duplicate Surf God 7704536147166252296 blocked by TikTok slider captcha on @feiplay.tv profile (7 failed attempts). Keep 7703960691723619602. Waiting for 飞总 to solve captcha on box desktop, then resume delete. Display-name rename not reopened (飞管家 11/6 10:00 BJ).\"}"
+   "{\"ts\": \"2026-11-05T16:10:00+08:00\", \"platform\": \"tiktok\", \"level\": \"warn\", \"type\": \"tiktok_external_schedule\", \"note\": \"VS clip_001 was already on @feiplay.tv (Studio: Nov 5 12:30 PM, not posted by this routine), so nothing was uploaded and the queue row was set to posted. TikTok Studio also lists many posts dated Nov 6-11 that look scheduled outside tiktok_queue.csv. The queue may double-post them; someone needs to reconcile the queue with Studio.\"}",
+   "{\"ts\": \"2026-11-05T16:10:00+08:00\", \"platform\": \"tiktok\", \"level\": \"warn\", \"type\": \"tiktok_external_schedule\", \"note\": \"VS clip_001 was already on @feiplay.tv (Studio: Nov 5 12:30 PM, not posted by this routine), so nothing was uploaded and the queue row was set to posted. TikTok Studio also lists many posts dated Nov 6-11 that look scheduled outside tiktok_queue.csv. The queue may double-post them; someone needs to reconcile the queue with Studio.\"}",
+   "{\"ts\": \"2026-11-05T16:08:53+08:00\", \"platform\": \"tiktok\", \"level\": \"info\", \"type\": \"tiktok_dup_kept\", \"note\": \"飞总 decided to keep both Surf God copies (7704536147166252296, 7703960691723619602); no delete.\"}"
   ]
  }
 }
