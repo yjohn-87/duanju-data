@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-05 13:17",
+ "generated_ict": "2026-11-05 13:50",
  "trends": {
   "file": "trends/out/2026-11-05.csv",
   "overseas": [
@@ -1505,9 +1505,9 @@
    "title": "Age five. His dying mother gave him to a dragon.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-08 12:00",
    "thumb": "media/roaming__clip_003_thumb.jpg",
    "preview": "media/roaming__clip_003_preview.mp4",
    "note": ""
@@ -1565,9 +1565,9 @@
    "title": "They burned the gift they gave her. Big mistake.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-05 12:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/1118053974338293",
+   "scheduled_time_ict": "2026-11-05 13:47",
    "thumb": "media/triplets__clip_001_thumb.jpg",
    "preview": "media/triplets__clip_001_preview.mp4",
    "note": ""
@@ -2267,27 +2267,27 @@
    "scheduled_time_ict": "2026-11-04 21:59",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/2375010042903847",
-   "views": "13"
+   "views": "14"
   },
   {
    "clip_file": "out/roaming/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/29435518246034289",
-   "views": "11"
+   "views": "12"
   },
   {
    "clip_file": "out/sea_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-05 07:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1122352644117792",
-   "views": ""
+   "views": "21"
   },
   {
    "clip_file": "out/triplets/clip_001.mp4",
-   "scheduled_time_ict": "2026-11-05 12:00",
-   "status": "planned",
-   "post_url": "",
+   "scheduled_time_ict": "2026-11-05 13:47",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/1118053974338293",
    "views": ""
   },
   {
@@ -2366,6 +2366,13 @@
    "status": "planned",
    "post_url": "",
    "views": ""
+  },
+  {
+   "clip_file": "out/roaming/clip_003.mp4",
+   "scheduled_time_ict": "2026-11-08 12:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
   }
  ],
  "earnings": {
@@ -2400,18 +2407,18 @@
    },
    {
     "time": "09:00",
-    "clip": "triplets/clip_001.mp4",
-    "title": "They burned the gift they gave her. Big mistake.",
+    "clip": "worth_chase/clip_001.mp4",
+    "title": "Was last night a mistake? His answer...",
     "state": "待发"
    },
    {
     "time": "12:00",
-    "clip": "worth_chase/clip_001.mp4",
-    "title": "Was last night a mistake? His answer...",
+    "clip": "alpha/clip_001.mp4",
+    "title": "Her father called her a liar. She has the scars.",
     "state": "待发"
    }
   ],
-  "queued": 45
+  "queued": 44
  },
  "alerts": [
   [
@@ -2421,14 +2428,6 @@
   [
    "missed",
    "11-05 09:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "11-05 12:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "out/triplets/clip_001.mp4 排期 11-05 12:00 已过，状态仍是 planned"
   ],
   [
    "info",
@@ -2444,7 +2443,7 @@
   ],
   [
    "ok",
-   "库存 45 条排队，约 11.2 天"
+   "库存 44 条排队，约 11.0 天"
   ]
  ],
  "competitors": {

@@ -54,7 +54,7 @@
   ],
   [
    "11-05",
-   2
+   3
   ]
  ],
  "metrics_source": "out/metrics.csv",
@@ -164,11 +164,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/2375010042903847",
    "promo": "https://reelslink.com/cps/PyuQ4m",
-   "views": "13",
+   "views": "14",
    "tiktok": "She hid the wound so he could chase his dream… wait for who he became 💔 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #plottwist #fyp",
    "download": "media/billionaire_mother__clip_002_preview.mp4",
    "metrics": {
-    "views": 13,
+    "views": 14,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -188,11 +188,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/29435518246034289",
    "promo": "https://reelslink.com/cps/TKJUII",
-   "views": "11",
+   "views": "12",
    "tiktok": "His father called him worthless in front of everyone… big mistake. From Roaming the World Untamed on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #faceslap #fyp",
    "download": "media/roaming__clip_001_preview.mp4",
    "metrics": {
-    "views": 11,
+    "views": 12,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -212,11 +212,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1122352644117792",
    "promo": "https://reelslink.com/cps/1noh7F",
-   "views": null,
+   "views": "21",
    "tiktok": "Everyone laughed at the \"useless\" husband… until he sailed for the Devil's Triangle alone. From The Sea God's Disguise on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #plottwist #fyp",
    "download": "media/sea_god__clip_002_preview.mp4",
    "metrics": {
-    "views": null,
+    "views": 21,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -232,14 +232,23 @@
    "slug": "triplets",
    "clip": "clip_001",
    "hook": "They burned the gift they gave her. Big mistake.",
-   "time": "11-05 13:00",
-   "status": "planned",
-   "fb_url": "",
+   "time": "11-05 14:47",
+   "status": "posted",
+   "fb_url": "https://www.facebook.com/reel/1118053974338293",
    "promo": "https://reelslink.com/cps/7FIatU",
    "views": null,
    "tiktok": "They burned the handkerchief they gave her… then found her transfer papers 🔥 From The Triplets' Final Regret on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #regret #fyp",
    "download": "media/triplets__clip_001_preview.mp4",
-   "metrics": null,
+   "metrics": {
+    "views": null,
+    "reach": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "link_clicks": null,
+    "eng_rate": null,
+    "fetched": null
+   },
    "platform": "Facebook"
   },
   {
@@ -404,6 +413,21 @@
    "views": null,
    "tiktok": "She traded places with her sister… the bride and the sacrifice will both wear masks 🎭 From The Virgin Sacrifice Who Seduced a God on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #betrayal #fyp",
    "download": "media/virgin_sacrifice__clip_006_preview.mp4",
+   "metrics": null,
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
+   "slug": "roaming",
+   "clip": "clip_003",
+   "hook": "Age five. His dying mother gave him to a dragon.",
+   "time": "11-08 13:00",
+   "status": "planned",
+   "fb_url": "",
+   "promo": "https://reelslink.com/cps/TKJUII",
+   "views": null,
+   "tiktok": "His dying mother left him with a dragon at age five 🐉 Clip from Roaming the World Untamed on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #hiddenidentity #fyp",
+   "download": "media/roaming__clip_003_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -1188,7 +1212,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-05 14:17（北京时间）",
+ "generated": "2026-11-05 14:50（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1200,18 +1224,18 @@
   },
   {
    "name": "FB 自动发帖队列",
-   "desc": "按 queue.csv 顺序发 FB Reels（已发 7）",
+   "desc": "按 queue.csv 顺序发 FB Reels（已发 8）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-05 07:52",
-   "result": "成功（sea_god/clip_002 https://www.facebook.com/reel/1122352644117）",
-   "next": "11-05 13:00"
+   "last": "11-05 14:50",
+   "result": "成功（triplets/clip_001 https://www.facebook.com/reel/111805397433）",
+   "next": "11-06 03:00"
   },
   {
    "name": "链接评论自动挂",
    "desc": "帖子发出后在评论区挂 RS Boost 推广链接",
    "sched": "每次发帖后",
-   "last": "11-05 07:52",
-   "result": "失败（sea_god/clip_002 skipped: FB said 无法发布你的评论 after ~40s, no li）",
+   "last": "11-05 14:50",
+   "result": "成功（triplets/clip_001 added (7FIatU); sea_god/clip_002 link comm）",
    "next": "随下次发帖"
   },
   {
@@ -1250,12 +1274,12 @@
  "queue": [
   {
    "platform": "Facebook",
-   "posted": 7,
+   "posted": 8,
    "scheduled": 12,
-   "remaining": 45,
+   "remaining": 44,
    "hold": 4,
-   "next_time": "11-05 13:00",
-   "next_title": "triplets"
+   "next_time": "11-06 03:00",
+   "next_title": "virgin_sacrifice"
   },
   {
    "platform": "TikTok",
@@ -1277,8 +1301,8 @@
   }
  ],
  "today": {
-  "views": 340,
-  "posts_with_views": 6,
+  "views": 363,
+  "posts_with_views": 7,
   "earnings": {
    "yesterday": "$0.00",
    "this_month": "$0.00",
