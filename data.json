@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-06 02:47",
+ "generated_ict": "2026-11-06 06:48",
  "trends": {
   "file": "trends/out/2026-11-05.csv",
   "overseas": [
@@ -2180,9 +2180,9 @@
    "title": "Give herself to the god, or he burns the city.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-06 06:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/1603883030930967",
+   "scheduled_time_ict": "2026-11-06 06:48",
    "thumb": "media/virgin_sacrifice__clip_005_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_005_preview.mp4",
    "note": ""
@@ -2210,9 +2210,9 @@
    "title": "Her prince picked her sister. Then he got cruel.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-09 06:00",
    "thumb": "media/virgin_sacrifice__clip_007_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_007_preview.mp4",
    "note": ""
@@ -2260,62 +2260,62 @@
    "scheduled_time_ict": "2026-11-04 15:51",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1612730899844955",
-   "views": "49"
+   "views": "50"
   },
   {
    "clip_file": "out/billionaire_mother/clip_002.mp4",
    "scheduled_time_ict": "2026-11-04 21:59",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/2375010042903847",
-   "views": "17"
+   "views": "18"
   },
   {
    "clip_file": "out/roaming/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/29435518246034289",
-   "views": "15"
+   "views": "16"
   },
   {
    "clip_file": "out/sea_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-05 07:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1122352644117792",
-   "views": "35"
+   "views": "36"
   },
   {
    "clip_file": "out/triplets/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 13:47",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1118053974338293",
-   "views": "5"
+   "views": "6"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_004.mp4",
    "scheduled_time_ict": "2026-11-05 16:52",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1365166598867159",
-   "views": "98"
+   "views": "100"
   },
   {
    "clip_file": "out/surf_god/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 20:54",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/28248245011516972",
-   "views": "4"
+   "views": "5"
   },
   {
    "clip_file": "out/worth_chase/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1695215701976962",
-   "views": ""
+   "views": "0"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_005.mp4",
-   "scheduled_time_ict": "2026-11-06 06:00",
-   "status": "planned",
-   "post_url": "",
+   "scheduled_time_ict": "2026-11-06 06:48",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/1603883030930967",
    "views": ""
   },
   {
@@ -2394,6 +2394,13 @@
    "status": "planned",
    "post_url": "",
    "views": ""
+  },
+  {
+   "clip_file": "out/virgin_sacrifice/clip_007.mp4",
+   "scheduled_time_ict": "2026-11-09 06:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
   }
  ],
  "earnings": {
@@ -2423,24 +2430,24 @@
    },
    {
     "time": "06:00",
-    "clip": "alpha/clip_001.mp4",
-    "title": "Her father called her a liar. She has the scars.",
-    "state": "待发"
+    "clip": "virgin_sacrifice/clip_005.mp4",
+    "title": "Give herself to the god, or he burns the city.",
+    "state": "已发"
    },
    {
     "time": "09:00",
-    "clip": "agent_shadows/clip_001.mp4",
-    "title": "They took him for a bartender. Wrong guy.",
-    "state": "待发"
+    "clip": "",
+    "title": "",
+    "state": "跳过（距上一条 <3h）"
    },
    {
     "time": "12:00",
-    "clip": "homegirls/clip_001.mp4",
-    "title": "Her husband's ex came to the wedding. Bad sign.",
+    "clip": "alpha/clip_001.mp4",
+    "title": "Her father called her a liar. She has the scars.",
     "state": "待发"
    }
   ],
-  "queued": 41
+  "queued": 40
  },
  "alerts": [
   [
@@ -2465,7 +2472,7 @@
   ],
   [
    "ok",
-   "库存 41 条排队，约 10.2 天"
+   "库存 40 条排队，约 10.0 天"
   ]
  ],
  "competitors": {
