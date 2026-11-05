@@ -409,21 +409,6 @@
   },
   {
    "kind": "TikTok",
-   "slug": "surf_god",
-   "clip": "clip_001",
-   "hook": "A sea hag cursed a god. Her price? Her daughter.",
-   "time": "",
-   "status": "queued",
-   "fb_url": "",
-   "promo": "https://reelslink.com/cps/D5qbWz",
-   "views": null,
-   "tiktok": "A sea hag cursed a god… and her price was her daughter 🌊 Clip from Surf God's Revenge on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
-   "download": "media/surf_god__clip_001_preview.mp4",
-   "metrics": null,
-   "platform": "TikTok"
-  },
-  {
-   "kind": "TikTok",
    "slug": "virgin_sacrifice",
    "clip": "clip_001",
    "hook": "The God of War wants a new sacrifice: her.",
@@ -1203,7 +1188,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-05 12:10（北京时间）",
+ "generated": "2026-11-05 12:18（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1274,12 +1259,12 @@
   },
   {
    "platform": "TikTok",
-   "posted": 0,
+   "posted": 1,
    "scheduled": 0,
-   "remaining": 53,
+   "remaining": 52,
    "hold": 0,
    "next_time": "待手动",
-   "next_title": "surf_god"
+   "next_title": "virgin_sacrifice"
   },
   {
    "platform": "X",
@@ -1300,6 +1285,8 @@
    "withdrawable": "$0.00",
    "note": null
   },
-  "alerts": []
+  "alerts": [
+   "{\"ts\": \"2026-11-05T12:18:02+08:00\", \"platform\": \"tiktok\", \"level\": \"warn\", \"note\": \"surf_god/clip_001 posted twice on @feiplay.tv: earlier copy 7703960691723619602 (Studio Nov 5 8:00 AM, not from this routine) and new 7704536147166252296 (11:15 AM). Profile display name still shows KHMER PRESS, not FeiPlay. Slider captcha seen on profile page (not solved). Decide whether to delete one; nothing deleted.\"}"
+  ]
  }
 }
