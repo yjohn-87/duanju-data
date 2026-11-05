@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-05 16:53",
+ "generated_ict": "2026-11-05 20:55",
  "trends": {
   "file": "trends/out/2026-11-05.csv",
   "overseas": [
@@ -1492,7 +1492,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 12:00",
+   "scheduled_time_ict": "2026-11-07 09:00",
    "thumb": "media/roaming__clip_002_thumb.jpg",
    "preview": "media/roaming__clip_002_preview.mp4",
    "note": ""
@@ -1507,7 +1507,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 09:00",
+   "scheduled_time_ict": "2026-11-08 06:00",
    "thumb": "media/roaming__clip_003_thumb.jpg",
    "preview": "media/roaming__clip_003_preview.mp4",
    "note": ""
@@ -1520,9 +1520,9 @@
    "title": "Marry a half-orc, or find a hero. Nobody is coming.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-08 12:00",
    "thumb": "media/roaming__clip_004_thumb.jpg",
    "preview": "media/roaming__clip_004_preview.mp4",
    "note": ""
@@ -1582,7 +1582,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 06:00",
+   "scheduled_time_ict": "2026-11-06 02:00",
    "thumb": "media/triplets__clip_002_thumb.jpg",
    "preview": "media/triplets__clip_002_preview.mp4",
    "note": ""
@@ -1597,7 +1597,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 02:00",
+   "scheduled_time_ict": "2026-11-06 12:00",
    "thumb": "media/triplets__clip_003_thumb.jpg",
    "preview": "media/triplets__clip_003_preview.mp4",
    "note": ""
@@ -1700,9 +1700,9 @@
    "title": "A sea hag cursed a god. Her price? Her daughter.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-06 02:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/28248245011516972",
+   "scheduled_time_ict": "2026-11-05 20:54",
    "thumb": "media/surf_god__clip_001_thumb.jpg",
    "preview": "media/surf_god__clip_001_preview.mp4",
    "note": ""
@@ -1717,7 +1717,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 09:00",
+   "scheduled_time_ict": "2026-11-06 06:00",
    "thumb": "media/surf_god__clip_002_thumb.jpg",
    "preview": "media/surf_god__clip_002_preview.mp4",
    "note": ""
@@ -1732,7 +1732,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 09:00",
+   "scheduled_time_ict": "2026-11-07 06:00",
    "thumb": "media/surf_god__clip_003_thumb.jpg",
    "preview": "media/surf_god__clip_003_preview.mp4",
    "note": ""
@@ -1747,7 +1747,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 02:00",
+   "scheduled_time_ict": "2026-11-07 12:00",
    "thumb": "media/surf_god__clip_004_thumb.jpg",
    "preview": "media/surf_god__clip_004_preview.mp4",
    "note": ""
@@ -2017,7 +2017,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 12:00",
+   "scheduled_time_ict": "2026-11-08 09:00",
    "thumb": "media/surf_god__clip_005_thumb.jpg",
    "preview": "media/surf_god__clip_005_preview.mp4",
    "note": ""
@@ -2092,7 +2092,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 12:00",
+   "scheduled_time_ict": "2026-11-06 09:00",
    "thumb": "media/crowned_silver__clip_001_thumb.jpg",
    "preview": "media/crowned_silver__clip_001_preview.mp4",
    "note": ""
@@ -2182,7 +2182,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 06:00",
+   "scheduled_time_ict": "2026-11-07 02:00",
    "thumb": "media/virgin_sacrifice__clip_005_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_005_preview.mp4",
    "note": ""
@@ -2197,7 +2197,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 06:00",
+   "scheduled_time_ict": "2026-11-08 02:00",
    "thumb": "media/virgin_sacrifice__clip_006_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_006_preview.mp4",
    "note": ""
@@ -2246,14 +2246,14 @@
    "scheduled_time_ict": "2026-11-04 02:11",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/4541558412770118",
-   "views": "152"
+   "views": "155"
   },
   {
    "clip_file": "out/billionaire_mother/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 06:09",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/5007631552797040",
-   "views": "41"
+   "views": "42"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_003.mp4",
@@ -2281,7 +2281,7 @@
    "scheduled_time_ict": "2026-11-05 07:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1122352644117792",
-   "views": "30"
+   "views": "31"
   },
   {
    "clip_file": "out/triplets/clip_001.mp4",
@@ -2295,87 +2295,94 @@
    "scheduled_time_ict": "2026-11-05 16:52",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1365166598867159",
-   "views": "0"
+   "views": "97"
   },
   {
    "clip_file": "out/surf_god/clip_001.mp4",
+   "scheduled_time_ict": "2026-11-05 20:54",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/28248245011516972",
+   "views": ""
+  },
+  {
+   "clip_file": "out/triplets/clip_002.mp4",
    "scheduled_time_ict": "2026-11-06 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/triplets/clip_002.mp4",
+   "clip_file": "out/surf_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-06 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_002.mp4",
+   "clip_file": "out/crowned_silver/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/crowned_silver/clip_001.mp4",
+   "clip_file": "out/triplets/clip_003.mp4",
    "scheduled_time_ict": "2026-11-06 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/triplets/clip_003.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_005.mp4",
    "scheduled_time_ict": "2026-11-07 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_005.mp4",
+   "clip_file": "out/surf_god/clip_003.mp4",
    "scheduled_time_ict": "2026-11-07 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_003.mp4",
+   "clip_file": "out/roaming/clip_002.mp4",
    "scheduled_time_ict": "2026-11-07 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/roaming/clip_002.mp4",
+   "clip_file": "out/surf_god/clip_004.mp4",
    "scheduled_time_ict": "2026-11-07 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_004.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_006.mp4",
    "scheduled_time_ict": "2026-11-08 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_006.mp4",
+   "clip_file": "out/roaming/clip_003.mp4",
    "scheduled_time_ict": "2026-11-08 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/roaming/clip_003.mp4",
+   "clip_file": "out/surf_god/clip_005.mp4",
    "scheduled_time_ict": "2026-11-08 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_005.mp4",
+   "clip_file": "out/roaming/clip_004.mp4",
    "scheduled_time_ict": "2026-11-08 12:00",
    "status": "planned",
    "post_url": "",
@@ -2402,30 +2409,30 @@
   "slots": [
    {
     "time": "02:00",
-    "clip": "surf_god/clip_001.mp4",
-    "title": "A sea hag cursed a god. Her price? Her daughter.",
-    "state": "待发"
-   },
-   {
-    "time": "06:00",
     "clip": "worth_chase/clip_001.mp4",
     "title": "Was last night a mistake? His answer...",
     "state": "待发"
    },
    {
-    "time": "09:00",
+    "time": "06:00",
     "clip": "alpha/clip_001.mp4",
     "title": "Her father called her a liar. She has the scars.",
     "state": "待发"
    },
    {
-    "time": "12:00",
+    "time": "09:00",
     "clip": "agent_shadows/clip_001.mp4",
     "title": "They took him for a bartender. Wrong guy.",
     "state": "待发"
+   },
+   {
+    "time": "12:00",
+    "clip": "homegirls/clip_001.mp4",
+    "title": "Her husband's ex came to the wedding. Bad sign.",
+    "state": "待发"
    }
   ],
-  "queued": 43
+  "queued": 42
  },
  "alerts": [
   [
@@ -2454,7 +2461,7 @@
   ],
   [
    "ok",
-   "库存 43 条排队，约 10.8 天"
+   "库存 42 条排队，约 10.5 天"
   ]
  ],
  "competitors": {
