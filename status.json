@@ -1,10 +1,6 @@
 {
  "posts_by_day": [
   [
-   "10-23",
-   0
-  ],
-  [
    "10-24",
    0
   ],
@@ -55,6 +51,10 @@
   [
    "11-05",
    5
+  ],
+  [
+   "11-06",
+   1
   ]
  ],
  "metrics_source": "out/metrics.csv",
@@ -116,11 +116,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/5007631552797040",
    "promo": "https://reelslink.com/cps/PyuQ4m",
-   "views": "42",
+   "views": "43",
    "tiktok": "Her own family shut the door on her… so she started hauling crates for her son 📦 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #emotional #fyp",
    "download": "media/billionaire_mother__clip_001_preview.mp4",
    "metrics": {
-    "views": 42,
+    "views": 43,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -140,11 +140,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1612730899844955",
    "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": "48",
+   "views": "49",
    "tiktok": "Her sister bewitched the prince… and now the God of War is coming 🔮 Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_003_preview.mp4",
    "metrics": {
-    "views": 48,
+    "views": 49,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -164,11 +164,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/2375010042903847",
    "promo": "https://reelslink.com/cps/PyuQ4m",
-   "views": "16",
+   "views": "17",
    "tiktok": "She hid the wound so he could chase his dream… wait for who he became 💔 From The Extraordinary Mother of a Billionaire on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #mom #plottwist #fyp",
    "download": "media/billionaire_mother__clip_002_preview.mp4",
    "metrics": {
-    "views": 16,
+    "views": 17,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -188,11 +188,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/29435518246034289",
    "promo": "https://reelslink.com/cps/TKJUII",
-   "views": "14",
+   "views": "15",
    "tiktok": "His father called him worthless in front of everyone… big mistake. From Roaming the World Untamed on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #faceslap #fyp",
    "download": "media/roaming__clip_001_preview.mp4",
    "metrics": {
-    "views": 14,
+    "views": 15,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -212,11 +212,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1122352644117792",
    "promo": "https://reelslink.com/cps/1noh7F",
-   "views": "34",
+   "views": "35",
    "tiktok": "Everyone laughed at the \"useless\" husband… until he sailed for the Devil's Triangle alone. From The Sea God's Disguise on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #plottwist #fyp",
    "download": "media/sea_god__clip_002_preview.mp4",
    "metrics": {
-    "views": 34,
+    "views": 35,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -236,11 +236,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1118053974338293",
    "promo": "https://reelslink.com/cps/7FIatU",
-   "views": "4",
+   "views": "5",
    "tiktok": "They burned the handkerchief they gave her… then found her transfer papers 🔥 From The Triplets' Final Regret on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #regret #fyp",
    "download": "media/triplets__clip_001_preview.mp4",
    "metrics": {
-    "views": 4,
+    "views": 5,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -260,11 +260,11 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1365166598867159",
    "promo": "https://reelslink.com/cps/3MLpsL",
-   "views": "97",
+   "views": "98",
    "tiktok": "One sister gets the prince… the other gets the altar 🏛️ From The Virgin Sacrifice Who Seduced a God on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_004_preview.mp4",
    "metrics": {
-    "views": 97,
+    "views": 98,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -284,11 +284,35 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/28248245011516972",
    "promo": "https://reelslink.com/cps/D5qbWz",
-   "views": "3",
+   "views": "4",
    "tiktok": "A sea hag cursed a god… and her price was her daughter 🌊 Clip from Surf God's Revenge on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
    "download": "media/surf_god__clip_001_preview.mp4",
    "metrics": {
-    "views": 3,
+    "views": 4,
+    "reach": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "link_clicks": null,
+    "eng_rate": null,
+    "fetched": null
+   },
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
+   "slug": "worth_chase",
+   "clip": "clip_001",
+   "hook": "Was last night a mistake? His answer...",
+   "time": "11-06 03:46",
+   "status": "posted",
+   "fb_url": "https://www.facebook.com/reel/1695215701976962",
+   "promo": "https://reelslink.com/cps/xrJ2jS",
+   "views": null,
+   "tiktok": "In love with her best friend… and he's about to answer 💌 Clip from Worth the Chase on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #friendstolovers #fyp",
+   "download": "media/worth_chase__clip_001_preview.mp4",
+   "metrics": {
+    "views": null,
     "reach": null,
     "likes": null,
     "comments": null,
@@ -304,7 +328,7 @@
    "slug": "virgin_sacrifice",
    "clip": "clip_005",
    "hook": "Give herself to the god, or he burns the city.",
-   "time": "11-06 03:00",
+   "time": "11-06 07:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/3MLpsL",
@@ -319,7 +343,7 @@
    "slug": "surf_god",
    "clip": "clip_002",
    "hook": "She treats him like a servant. He's a god.",
-   "time": "11-06 07:00",
+   "time": "11-06 10:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/D5qbWz",
@@ -334,7 +358,7 @@
    "slug": "crowned_silver",
    "clip": "clip_001",
    "hook": "She rejected her Alpha. So why is HE the one in pain?",
-   "time": "11-06 10:00",
+   "time": "11-06 13:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/KKYtCB",
@@ -349,7 +373,7 @@
    "slug": "triplets",
    "clip": "clip_003",
    "hook": "Framed by the maid's daughter. Again.",
-   "time": "11-06 13:00",
+   "time": "11-07 03:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/7FIatU",
@@ -364,7 +388,7 @@
    "slug": "surf_god",
    "clip": "clip_003",
    "hook": "Marry her for 5 years, or never surf again.",
-   "time": "11-07 03:00",
+   "time": "11-07 07:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/D5qbWz",
@@ -379,7 +403,7 @@
    "slug": "triplets",
    "clip": "clip_002",
    "hook": "Her 18th birthday. They chose the maid's daughter.",
-   "time": "11-07 07:00",
+   "time": "11-07 10:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/7FIatU",
@@ -394,7 +418,7 @@
    "slug": "roaming",
    "clip": "clip_002",
    "hook": "Raised by dragons. Playing the fool, until yesterday.",
-   "time": "11-07 10:00",
+   "time": "11-07 13:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/TKJUII",
@@ -409,7 +433,7 @@
    "slug": "surf_god",
    "clip": "clip_004",
    "hook": "They called him a sponger. He made a vow.",
-   "time": "11-07 13:00",
+   "time": "11-08 03:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/D5qbWz",
@@ -424,7 +448,7 @@
    "slug": "virgin_sacrifice",
    "clip": "clip_006",
    "hook": "She'll die in her sister's place. In a mask.",
-   "time": "11-08 03:00",
+   "time": "11-08 07:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/3MLpsL",
@@ -439,7 +463,7 @@
    "slug": "roaming",
    "clip": "clip_003",
    "hook": "Age five. His dying mother gave him to a dragon.",
-   "time": "11-08 07:00",
+   "time": "11-08 10:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/TKJUII",
@@ -454,7 +478,7 @@
    "slug": "surf_god",
    "clip": "clip_005",
    "hook": "He pulled a man from a shark. His only ask: help his wife.",
-   "time": "11-08 10:00",
+   "time": "11-08 13:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/D5qbWz",
@@ -469,7 +493,7 @@
    "slug": "roaming",
    "clip": "clip_004",
    "hook": "Marry a half-orc, or find a hero. Nobody is coming.",
-   "time": "11-08 13:00",
+   "time": "11-09 03:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/TKJUII",
@@ -1245,30 +1269,30 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-05 23:00（北京时间）",
+ "generated": "2026-11-06 03:47（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
    "desc": "抓红果/ReelShort 热度榜 + 竞品检查，出选剧参考",
    "sched": "每天 09:00",
    "last": "11-05 09:07",
-   "result": "成功",
+   "result": "今天未运行",
    "next": "11-06 09:00"
   },
   {
    "name": "FB 自动发帖队列",
-   "desc": "按 queue.csv 顺序发 FB Reels（已发 10）",
+   "desc": "按 queue.csv 顺序发 FB Reels（已发 11）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-05 21:55",
-   "result": "成功（surf_god/clip_001 https://www.facebook.com/reel/282482450115）",
-   "next": "11-06 03:00"
+   "last": "11-06 03:47",
+   "result": "成功（worth_chase/clip_001 https://www.facebook.com/reel/169521570）",
+   "next": "11-06 07:00"
   },
   {
    "name": "链接评论自动挂",
    "desc": "帖子发出后在评论区挂 RS Boost 推广链接",
    "sched": "每次发帖后",
-   "last": "11-05 21:55",
-   "result": "成功（surf_god/clip_001 added (first comment D5qbWz); sea_god/clip）",
+   "last": "11-06 03:47",
+   "result": "成功（worth_chase/clip_001 added (xrJ2jS); no A retry needed (surf）",
    "next": "随下次发帖"
   },
   {
@@ -1307,11 +1331,11 @@
  "queue": [
   {
    "platform": "Facebook",
-   "posted": 10,
+   "posted": 11,
    "scheduled": 12,
-   "remaining": 42,
+   "remaining": 41,
    "hold": 4,
-   "next_time": "11-06 03:00",
+   "next_time": "11-06 07:00",
    "next_title": "virgin_sacrifice"
   },
   {
@@ -1334,7 +1358,7 @@
   }
  ],
  "today": {
-  "views": 538,
+  "views": 546,
   "posts_with_views": 10,
   "earnings": {
    "yesterday": "$0.00",
