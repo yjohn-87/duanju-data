@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-05 06:52",
+ "generated_ict": "2026-11-05 07:40",
  "trends": {
   "file": "trends/out/2026-11-04.csv",
   "overseas": [
@@ -2331,14 +2331,14 @@
    },
    {
     "time": "09:00",
-    "clip": "virgin_sacrifice/clip_004.mp4",
-    "title": "One sister gets the prince. The other gets the altar.",
-    "state": "待发"
+    "clip": "",
+    "title": "",
+    "state": "跳过（距上一条 <3h）"
    },
    {
     "time": "12:00",
-    "clip": "surf_god/clip_001.mp4",
-    "title": "A sea hag cursed a god. Her price? Her daughter.",
+    "clip": "virgin_sacrifice/clip_004.mp4",
+    "title": "One sister gets the prince. The other gets the altar.",
     "state": "待发"
    }
   ],
