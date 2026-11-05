@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-05 16:48",
+ "generated_ict": "2026-11-05 16:53",
  "trends": {
   "file": "trends/out/2026-11-05.csv",
   "overseas": [
@@ -1492,7 +1492,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 02:00",
+   "scheduled_time_ict": "2026-11-07 12:00",
    "thumb": "media/roaming__clip_002_thumb.jpg",
    "preview": "media/roaming__clip_002_preview.mp4",
    "note": ""
@@ -1507,7 +1507,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 12:00",
+   "scheduled_time_ict": "2026-11-08 09:00",
    "thumb": "media/roaming__clip_003_thumb.jpg",
    "preview": "media/roaming__clip_003_preview.mp4",
    "note": ""
@@ -1582,7 +1582,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 09:00",
+   "scheduled_time_ict": "2026-11-06 06:00",
    "thumb": "media/triplets__clip_002_thumb.jpg",
    "preview": "media/triplets__clip_002_preview.mp4",
    "note": ""
@@ -1597,7 +1597,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 06:00",
+   "scheduled_time_ict": "2026-11-07 02:00",
    "thumb": "media/triplets__clip_003_thumb.jpg",
    "preview": "media/triplets__clip_003_preview.mp4",
    "note": ""
@@ -1702,7 +1702,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 06:00",
+   "scheduled_time_ict": "2026-11-06 02:00",
    "thumb": "media/surf_god__clip_001_thumb.jpg",
    "preview": "media/surf_god__clip_001_preview.mp4",
    "note": ""
@@ -1717,7 +1717,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 12:00",
+   "scheduled_time_ict": "2026-11-06 09:00",
    "thumb": "media/surf_god__clip_002_thumb.jpg",
    "preview": "media/surf_god__clip_002_preview.mp4",
    "note": ""
@@ -1732,7 +1732,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 12:00",
+   "scheduled_time_ict": "2026-11-07 09:00",
    "thumb": "media/surf_god__clip_003_thumb.jpg",
    "preview": "media/surf_god__clip_003_preview.mp4",
    "note": ""
@@ -1747,7 +1747,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 06:00",
+   "scheduled_time_ict": "2026-11-08 02:00",
    "thumb": "media/surf_god__clip_004_thumb.jpg",
    "preview": "media/surf_god__clip_004_preview.mp4",
    "note": ""
@@ -1805,9 +1805,9 @@
    "title": "One sister gets the prince. The other gets the altar.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-06 02:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/1365166598867159",
+   "scheduled_time_ict": "2026-11-05 16:52",
    "thumb": "media/virgin_sacrifice__clip_004_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_004_preview.mp4",
    "note": ""
@@ -2015,9 +2015,9 @@
    "title": "He pulled a man from a shark. His only ask: help his wife.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-08 12:00",
    "thumb": "media/surf_god__clip_005_thumb.jpg",
    "preview": "media/surf_god__clip_005_preview.mp4",
    "note": ""
@@ -2092,7 +2092,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 02:00",
+   "scheduled_time_ict": "2026-11-06 12:00",
    "thumb": "media/crowned_silver__clip_001_thumb.jpg",
    "preview": "media/crowned_silver__clip_001_preview.mp4",
    "note": ""
@@ -2182,7 +2182,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 09:00",
+   "scheduled_time_ict": "2026-11-07 06:00",
    "thumb": "media/virgin_sacrifice__clip_005_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_005_preview.mp4",
    "note": ""
@@ -2197,7 +2197,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 09:00",
+   "scheduled_time_ict": "2026-11-08 06:00",
    "thumb": "media/virgin_sacrifice__clip_006_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_006_preview.mp4",
    "note": ""
@@ -2239,136 +2239,143 @@
    "scheduled_time_ict": "2026-11-03 14:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1469347595080080",
-   "views": "104"
+   "views": "125"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 02:11",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/4541558412770118",
-   "views": "134"
+   "views": "152"
   },
   {
    "clip_file": "out/billionaire_mother/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 06:09",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/5007631552797040",
-   "views": "35"
+   "views": "41"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_003.mp4",
    "scheduled_time_ict": "2026-11-04 15:51",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1612730899844955",
-   "views": "43"
+   "views": "48"
   },
   {
    "clip_file": "out/billionaire_mother/clip_002.mp4",
    "scheduled_time_ict": "2026-11-04 21:59",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/2375010042903847",
-   "views": "14"
+   "views": "16"
   },
   {
    "clip_file": "out/roaming/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/29435518246034289",
-   "views": "12"
+   "views": "14"
   },
   {
    "clip_file": "out/sea_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-05 07:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1122352644117792",
-   "views": "21"
+   "views": "30"
   },
   {
    "clip_file": "out/triplets/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 13:47",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1118053974338293",
-   "views": ""
+   "views": "4"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_004.mp4",
+   "scheduled_time_ict": "2026-11-05 16:52",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/1365166598867159",
+   "views": "0"
+  },
+  {
+   "clip_file": "out/surf_god/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_001.mp4",
+   "clip_file": "out/triplets/clip_002.mp4",
    "scheduled_time_ict": "2026-11-06 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/triplets/clip_002.mp4",
+   "clip_file": "out/surf_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-06 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_002.mp4",
+   "clip_file": "out/crowned_silver/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/crowned_silver/clip_001.mp4",
+   "clip_file": "out/triplets/clip_003.mp4",
    "scheduled_time_ict": "2026-11-07 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/triplets/clip_003.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_005.mp4",
    "scheduled_time_ict": "2026-11-07 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_005.mp4",
+   "clip_file": "out/surf_god/clip_003.mp4",
    "scheduled_time_ict": "2026-11-07 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_003.mp4",
+   "clip_file": "out/roaming/clip_002.mp4",
    "scheduled_time_ict": "2026-11-07 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/roaming/clip_002.mp4",
+   "clip_file": "out/surf_god/clip_004.mp4",
    "scheduled_time_ict": "2026-11-08 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/surf_god/clip_004.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_006.mp4",
    "scheduled_time_ict": "2026-11-08 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_006.mp4",
+   "clip_file": "out/roaming/clip_003.mp4",
    "scheduled_time_ict": "2026-11-08 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/roaming/clip_003.mp4",
+   "clip_file": "out/surf_god/clip_005.mp4",
    "scheduled_time_ict": "2026-11-08 12:00",
    "status": "planned",
    "post_url": "",
@@ -2395,30 +2402,30 @@
   "slots": [
    {
     "time": "02:00",
-    "clip": "virgin_sacrifice/clip_004.mp4",
-    "title": "One sister gets the prince. The other gets the altar.",
-    "state": "待发"
-   },
-   {
-    "time": "06:00",
     "clip": "surf_god/clip_001.mp4",
     "title": "A sea hag cursed a god. Her price? Her daughter.",
     "state": "待发"
    },
    {
-    "time": "09:00",
+    "time": "06:00",
     "clip": "worth_chase/clip_001.mp4",
     "title": "Was last night a mistake? His answer...",
     "state": "待发"
    },
    {
-    "time": "12:00",
+    "time": "09:00",
     "clip": "alpha/clip_001.mp4",
     "title": "Her father called her a liar. She has the scars.",
     "state": "待发"
+   },
+   {
+    "time": "12:00",
+    "clip": "agent_shadows/clip_001.mp4",
+    "title": "They took him for a bartender. Wrong guy.",
+    "state": "待发"
    }
   ],
-  "queued": 44
+  "queued": 43
  },
  "alerts": [
   [
@@ -2447,7 +2454,7 @@
   ],
   [
    "ok",
-   "库存 44 条排队，约 11.0 天"
+   "库存 43 条排队，约 10.8 天"
   ]
  ],
  "competitors": {
