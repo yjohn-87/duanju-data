@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-06 08:11",
+ "generated_ict": "2026-11-06 09:08",
  "trends": {
   "file": "trends/out/2026-11-06.csv",
   "overseas": [
@@ -2221,14 +2221,14 @@
    "scheduled_time_ict": "2026-11-03 14:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1469347595080080",
-   "views": "125"
+   "views": "154"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 02:11",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/4541558412770118",
-   "views": "155"
+   "views": "167"
   },
   {
    "clip_file": "out/billionaire_mother/clip_001.mp4",
@@ -2263,42 +2263,42 @@
    "scheduled_time_ict": "2026-11-05 07:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1122352644117792",
-   "views": "36"
+   "views": "37"
   },
   {
    "clip_file": "out/triplets/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 13:47",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1118053974338293",
-   "views": "6"
+   "views": "7"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_004.mp4",
    "scheduled_time_ict": "2026-11-05 16:52",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1365166598867159",
-   "views": "100"
+   "views": "102"
   },
   {
    "clip_file": "out/surf_god/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 20:54",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/28248245011516972",
-   "views": "5"
+   "views": "7"
   },
   {
    "clip_file": "out/worth_chase/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1695215701976962",
-   "views": "0"
+   "views": "2"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_005.mp4",
    "scheduled_time_ict": "2026-11-06 06:48",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1603883030930967",
-   "views": ""
+   "views": "23"
   },
   {
    "clip_file": "out/triplets/clip_002.mp4",
@@ -2420,7 +2420,7 @@
     "time": "09:00",
     "clip": "",
     "title": "",
-    "state": "跳过（距上一条 <3h）"
+    "state": "漏发"
    },
    {
     "time": "12:00",
@@ -2435,6 +2435,14 @@
   [
    "missed",
    "11-05 09:00 时段已过，没有发布记录"
+  ],
+  [
+   "missed",
+   "11-06 09:00 时段已过，没有发布记录"
+  ],
+  [
+   "missed",
+   "out/triplets/clip_002.mp4 排期 11-06 09:00 已过，状态仍是 planned"
   ],
   [
    "tiktok_external_schedule",
