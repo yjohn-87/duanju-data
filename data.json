@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-07 02:10",
+ "generated_ict": "2026-11-07 02:48",
  "trends": {
   "file": "trends/out/2026-11-06.csv",
   "overseas": [
@@ -1982,9 +1982,9 @@
    "title": "He tore out his own scales for her. She never knew.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-10 02:00",
    "thumb": "media/sea_god__clip_010_thumb.jpg",
    "preview": "media/sea_god__clip_010_preview.mp4",
    "note": ""
@@ -2192,9 +2192,9 @@
    "title": "Her prince picked her sister. Then he got cruel.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-07 02:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/2712866482502908",
+   "scheduled_time_ict": "2026-11-07 02:48",
    "thumb": "media/virgin_sacrifice__clip_007_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_007_preview.mp4",
    "note": ""
@@ -2256,76 +2256,76 @@
    "scheduled_time_ict": "2026-11-05 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/29435518246034289",
-   "views": "67"
+   "views": "79"
   },
   {
    "clip_file": "out/sea_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-05 07:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1122352644117792",
-   "views": "40"
+   "views": "41"
   },
   {
    "clip_file": "out/triplets/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 13:47",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1118053974338293",
-   "views": "10"
+   "views": "11"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_004.mp4",
    "scheduled_time_ict": "2026-11-05 16:52",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1365166598867159",
-   "views": "134"
+   "views": "136"
   },
   {
    "clip_file": "out/surf_god/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 20:54",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/28248245011516972",
-   "views": "10"
+   "views": "11"
   },
   {
    "clip_file": "out/worth_chase/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1695215701976962",
-   "views": "13"
+   "views": "14"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_005.mp4",
    "scheduled_time_ict": "2026-11-06 06:48",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1603883030930967",
-   "views": "43"
+   "views": "46"
   },
   {
    "clip_file": "out/sea_god/clip_003.mp4",
    "scheduled_time_ict": "2026-11-06 13:50",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1108077882036582",
-   "views": "5"
+   "views": "6"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_006.mp4",
    "scheduled_time_ict": "2026-11-06 17:08",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/3085719828444450",
-   "views": "12"
+   "views": "19"
   },
   {
    "clip_file": "out/sea_god/clip_004.mp4",
    "scheduled_time_ict": "2026-11-06 20:59",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1583996840407487",
-   "views": "11"
+   "views": "67"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_007.mp4",
-   "scheduled_time_ict": "2026-11-07 02:00",
-   "status": "planned",
-   "post_url": "",
+   "scheduled_time_ict": "2026-11-07 02:48",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/2712866482502908",
    "views": ""
   },
   {
@@ -2404,6 +2404,13 @@
    "status": "planned",
    "post_url": "",
    "views": ""
+  },
+  {
+   "clip_file": "out/sea_god/clip_010.mp4",
+   "scheduled_time_ict": "2026-11-10 02:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
   }
  ],
  "earnings": {
@@ -2429,43 +2436,35 @@
   "slots": [
    {
     "time": "02:00",
-    "clip": "",
-    "title": "",
-    "state": "漏发"
+    "clip": "virgin_sacrifice/clip_007.mp4",
+    "title": "Her prince picked her sister. Then he got cruel.",
+    "state": "已发"
    },
    {
     "time": "06:00",
-    "clip": "virgin_sacrifice/clip_007.mp4",
-    "title": "Her prince picked her sister. Then he got cruel.",
-    "state": "待发"
-   },
-   {
-    "time": "09:00",
     "clip": "sea_god/clip_005.mp4",
     "title": "They bet he'd never bleed for her.",
     "state": "待发"
    },
    {
-    "time": "12:00",
+    "time": "09:00",
     "clip": "virgin_sacrifice/clip_008.mp4",
     "title": "She'd rather die than apologize. Her sister has a spell.",
     "state": "待发"
+   },
+   {
+    "time": "12:00",
+    "clip": "sea_god/clip_006.mp4",
+    "title": "She begged her ex for help. He has a dirty secret.",
+    "state": "待发"
    }
   ],
-  "queued": 37
+  "queued": 36
  },
  "alerts": [
   [
    "missed",
    "11-06 09:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "11-07 02:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "out/virgin_sacrifice/clip_007.mp4 排期 11-07 02:00 已过，状态仍是 planned"
   ],
   [
    "tiktok_external_schedule",
@@ -2489,7 +2488,7 @@
   ],
   [
    "ok",
-   "库存 37 条排队，约 9.2 天"
+   "库存 36 条排队，约 9.0 天"
   ]
  ],
  "competitors": {
