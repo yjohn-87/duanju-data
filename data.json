@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-07 00:59",
+ "generated_ict": "2026-11-07 02:10",
  "trends": {
   "file": "trends/out/2026-11-06.csv",
   "overseas": [
@@ -2429,26 +2429,26 @@
   "slots": [
    {
     "time": "02:00",
+    "clip": "",
+    "title": "",
+    "state": "漏发"
+   },
+   {
+    "time": "06:00",
     "clip": "virgin_sacrifice/clip_007.mp4",
     "title": "Her prince picked her sister. Then he got cruel.",
     "state": "待发"
    },
    {
-    "time": "06:00",
+    "time": "09:00",
     "clip": "sea_god/clip_005.mp4",
     "title": "They bet he'd never bleed for her.",
     "state": "待发"
    },
    {
-    "time": "09:00",
+    "time": "12:00",
     "clip": "virgin_sacrifice/clip_008.mp4",
     "title": "She'd rather die than apologize. Her sister has a spell.",
-    "state": "待发"
-   },
-   {
-    "time": "12:00",
-    "clip": "sea_god/clip_006.mp4",
-    "title": "She begged her ex for help. He has a dirty secret.",
     "state": "待发"
    }
   ],
@@ -2458,6 +2458,14 @@
   [
    "missed",
    "11-06 09:00 时段已过，没有发布记录"
+  ],
+  [
+   "missed",
+   "11-07 02:00 时段已过，没有发布记录"
+  ],
+  [
+   "missed",
+   "out/virgin_sacrifice/clip_007.mp4 排期 11-07 02:00 已过，状态仍是 planned"
   ],
   [
    "tiktok_external_schedule",
