@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-06 22:08",
+ "generated_ict": "2026-11-07 00:59",
  "trends": {
   "file": "trends/out/2026-11-06.csv",
   "overseas": [
@@ -2425,7 +2425,7 @@
  },
  "plan": {
   "day": "2026-11-07",
-  "is_today": false,
+  "is_today": true,
   "slots": [
    {
     "time": "02:00",
@@ -2455,10 +2455,6 @@
   "queued": 37
  },
  "alerts": [
-  [
-   "missed",
-   "11-05 09:00 时段已过，没有发布记录"
-  ],
   [
    "missed",
    "11-06 09:00 时段已过，没有发布记录"
