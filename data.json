@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-06 20:59",
+ "generated_ict": "2026-11-06 22:08",
  "trends": {
   "file": "trends/out/2026-11-06.csv",
   "overseas": [
@@ -1429,7 +1429,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 09:00",
+   "scheduled_time_ict": "2026-11-07 06:00",
    "thumb": "media/sea_god__clip_005_thumb.jpg",
    "preview": "media/sea_god__clip_005_preview.mp4",
    "note": ""
@@ -1444,7 +1444,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 02:00",
+   "scheduled_time_ict": "2026-11-07 12:00",
    "thumb": "media/sea_god__clip_006_thumb.jpg",
    "preview": "media/sea_god__clip_006_preview.mp4",
    "note": ""
@@ -1864,7 +1864,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 12:00",
+   "scheduled_time_ict": "2026-11-08 02:00",
    "thumb": "media/billionaire_mother__clip_003_thumb.jpg",
    "preview": "media/billionaire_mother__clip_003_preview.mp4",
    "note": ""
@@ -1879,7 +1879,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 06:00",
+   "scheduled_time_ict": "2026-11-08 09:00",
    "thumb": "media/billionaire_mother__clip_004_thumb.jpg",
    "preview": "media/billionaire_mother__clip_004_preview.mp4",
    "note": ""
@@ -1939,7 +1939,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 09:00",
+   "scheduled_time_ict": "2026-11-08 06:00",
    "thumb": "media/sea_god__clip_007_thumb.jpg",
    "preview": "media/sea_god__clip_007_preview.mp4",
    "note": ""
@@ -2209,7 +2209,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 06:00",
+   "scheduled_time_ict": "2026-11-07 09:00",
    "thumb": "media/virgin_sacrifice__clip_008_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_008_preview.mp4",
    "note": ""
@@ -2221,28 +2221,28 @@
    "scheduled_time_ict": "2026-11-03 14:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1469347595080080",
-   "views": "154"
+   "views": "169"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 02:11",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/4541558412770118",
-   "views": "167"
+   "views": "177"
   },
   {
    "clip_file": "out/billionaire_mother/clip_001.mp4",
    "scheduled_time_ict": "2026-11-04 06:09",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/5007631552797040",
-   "views": "43"
+   "views": "47"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_003.mp4",
    "scheduled_time_ict": "2026-11-04 15:51",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1612730899844955",
-   "views": "51"
+   "views": "52"
   },
   {
    "clip_file": "out/billionaire_mother/clip_002.mp4",
@@ -2256,7 +2256,7 @@
    "scheduled_time_ict": "2026-11-05 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/29435518246034289",
-   "views": "65"
+   "views": "67"
   },
   {
    "clip_file": "out/sea_god/clip_002.mp4",
@@ -2277,7 +2277,7 @@
    "scheduled_time_ict": "2026-11-05 16:52",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1365166598867159",
-   "views": "132"
+   "views": "134"
   },
   {
    "clip_file": "out/surf_god/clip_001.mp4",
@@ -2298,7 +2298,7 @@
    "scheduled_time_ict": "2026-11-06 06:48",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1603883030930967",
-   "views": "42"
+   "views": "43"
   },
   {
    "clip_file": "out/sea_god/clip_003.mp4",
@@ -2312,14 +2312,14 @@
    "scheduled_time_ict": "2026-11-06 17:08",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/3085719828444450",
-   "views": "7"
+   "views": "12"
   },
   {
    "clip_file": "out/sea_god/clip_004.mp4",
    "scheduled_time_ict": "2026-11-06 20:59",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1583996840407487",
-   "views": ""
+   "views": "11"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_007.mp4",
@@ -2329,42 +2329,42 @@
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_008.mp4",
+   "clip_file": "out/sea_god/clip_005.mp4",
    "scheduled_time_ict": "2026-11-07 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_005.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_008.mp4",
    "scheduled_time_ict": "2026-11-07 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/billionaire_mother/clip_003.mp4",
+   "clip_file": "out/sea_god/clip_006.mp4",
    "scheduled_time_ict": "2026-11-07 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_006.mp4",
+   "clip_file": "out/billionaire_mother/clip_003.mp4",
    "scheduled_time_ict": "2026-11-08 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/billionaire_mother/clip_004.mp4",
+   "clip_file": "out/sea_god/clip_007.mp4",
    "scheduled_time_ict": "2026-11-08 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_007.mp4",
+   "clip_file": "out/billionaire_mother/clip_004.mp4",
    "scheduled_time_ict": "2026-11-08 09:00",
    "status": "planned",
    "post_url": "",
@@ -2407,7 +2407,7 @@
   }
  ],
  "earnings": {
-  "updated": "2026-11-05 21:50 ICT",
+  "updated": "2026-11-06 21:55 ICT",
   "yesterday": "$0.00",
   "this_month": "$0.00",
   "withdrawable": "$0.00",
@@ -2417,9 +2417,11 @@
    "novels": 0,
    "commission": 0
   },
+  "promotional_contents_count": 0,
   "recharges": "无充值记录",
-  "per_drama": "11/4: The Virgin Sacrifice Who Seduced a God (3MLpsL) 0单/$0.00",
-  "per_link_clicks": "未取到"
+  "per_drama": "Referral list: Virgin Sacrifice + Sea God (Promotion Time 2026-11-03); widgets 0单/$0.00",
+  "per_link_clicks": "未取到",
+  "details_yesterday": "No data"
  },
  "plan": {
   "day": "2026-11-07",
@@ -2433,20 +2435,20 @@
    },
    {
     "time": "06:00",
-    "clip": "virgin_sacrifice/clip_008.mp4",
-    "title": "She'd rather die than apologize. Her sister has a spell.",
-    "state": "待发"
-   },
-   {
-    "time": "09:00",
     "clip": "sea_god/clip_005.mp4",
     "title": "They bet he'd never bleed for her.",
     "state": "待发"
    },
    {
+    "time": "09:00",
+    "clip": "virgin_sacrifice/clip_008.mp4",
+    "title": "She'd rather die than apologize. Her sister has a spell.",
+    "state": "待发"
+   },
+   {
     "time": "12:00",
-    "clip": "billionaire_mother/clip_003.mp4",
-    "title": "Told to wait in the bathroom. She was waiting for her son.",
+    "clip": "sea_god/clip_006.mp4",
+    "title": "She begged her ex for help. He has a dirty secret.",
     "state": "待发"
    }
   ],
