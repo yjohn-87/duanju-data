@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-06 17:10",
+ "generated_ict": "2026-11-06 20:59",
  "trends": {
   "file": "trends/out/2026-11-06.csv",
   "overseas": [
@@ -1412,9 +1412,9 @@
    "title": "They called him a deckhand. The pirates got 3 seconds.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-07 06:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/1583996840407487",
+   "scheduled_time_ict": "2026-11-06 20:59",
    "thumb": "media/sea_god__clip_004_thumb.jpg",
    "preview": "media/sea_god__clip_004_preview.mp4",
    "note": ""
@@ -1429,7 +1429,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 12:00",
+   "scheduled_time_ict": "2026-11-07 09:00",
    "thumb": "media/sea_god__clip_005_thumb.jpg",
    "preview": "media/sea_god__clip_005_preview.mp4",
    "note": ""
@@ -1444,7 +1444,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 06:00",
+   "scheduled_time_ict": "2026-11-08 02:00",
    "thumb": "media/sea_god__clip_006_thumb.jpg",
    "preview": "media/sea_god__clip_006_preview.mp4",
    "note": ""
@@ -1864,7 +1864,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 02:00",
+   "scheduled_time_ict": "2026-11-07 12:00",
    "thumb": "media/billionaire_mother__clip_003_thumb.jpg",
    "preview": "media/billionaire_mother__clip_003_preview.mp4",
    "note": ""
@@ -1879,7 +1879,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 09:00",
+   "scheduled_time_ict": "2026-11-08 06:00",
    "thumb": "media/billionaire_mother__clip_004_thumb.jpg",
    "preview": "media/billionaire_mother__clip_004_preview.mp4",
    "note": ""
@@ -1939,7 +1939,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-08 12:00",
+   "scheduled_time_ict": "2026-11-08 09:00",
    "thumb": "media/sea_god__clip_007_thumb.jpg",
    "preview": "media/sea_god__clip_007_preview.mp4",
    "note": ""
@@ -1954,7 +1954,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-09 06:00",
+   "scheduled_time_ict": "2026-11-09 02:00",
    "thumb": "media/sea_god__clip_008_thumb.jpg",
    "preview": "media/sea_god__clip_008_preview.mp4",
    "note": ""
@@ -1969,7 +1969,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-09 12:00",
+   "scheduled_time_ict": "2026-11-09 09:00",
    "thumb": "media/sea_god__clip_009_thumb.jpg",
    "preview": "media/sea_god__clip_009_preview.mp4",
    "note": ""
@@ -2059,7 +2059,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-09 02:00",
+   "scheduled_time_ict": "2026-11-08 12:00",
    "thumb": "media/rejected_luna__clip_001_thumb.jpg",
    "preview": "media/rejected_luna__clip_001_preview.mp4",
    "note": ""
@@ -2089,7 +2089,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-09 09:00",
+   "scheduled_time_ict": "2026-11-09 06:00",
    "thumb": "media/rejected_luna__clip_002_thumb.jpg",
    "preview": "media/rejected_luna__clip_002_preview.mp4",
    "note": ""
@@ -2117,9 +2117,9 @@
    "title": "Two Lunas: one goes to war, one raises his kids.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-09 12:00",
    "thumb": "media/rejected_luna__clip_003_thumb.jpg",
    "preview": "media/rejected_luna__clip_003_preview.mp4",
    "note": ""
@@ -2209,7 +2209,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-07 09:00",
+   "scheduled_time_ict": "2026-11-07 06:00",
    "thumb": "media/virgin_sacrifice__clip_008_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_008_preview.mp4",
    "note": ""
@@ -2249,69 +2249,76 @@
    "scheduled_time_ict": "2026-11-04 21:59",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/2375010042903847",
-   "views": "18"
+   "views": "20"
   },
   {
    "clip_file": "out/roaming/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/29435518246034289",
-   "views": "50"
+   "views": "65"
   },
   {
    "clip_file": "out/sea_god/clip_002.mp4",
    "scheduled_time_ict": "2026-11-05 07:05",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1122352644117792",
-   "views": "37"
+   "views": "40"
   },
   {
    "clip_file": "out/triplets/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 13:47",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1118053974338293",
-   "views": "8"
+   "views": "10"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_004.mp4",
    "scheduled_time_ict": "2026-11-05 16:52",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1365166598867159",
-   "views": "131"
+   "views": "132"
   },
   {
    "clip_file": "out/surf_god/clip_001.mp4",
    "scheduled_time_ict": "2026-11-05 20:54",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/28248245011516972",
-   "views": "8"
+   "views": "10"
   },
   {
    "clip_file": "out/worth_chase/clip_001.mp4",
    "scheduled_time_ict": "2026-11-06 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1695215701976962",
-   "views": "12"
+   "views": "13"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_005.mp4",
    "scheduled_time_ict": "2026-11-06 06:48",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1603883030930967",
-   "views": "41"
+   "views": "42"
   },
   {
    "clip_file": "out/sea_god/clip_003.mp4",
    "scheduled_time_ict": "2026-11-06 13:50",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1108077882036582",
-   "views": "1"
+   "views": "5"
   },
   {
    "clip_file": "out/virgin_sacrifice/clip_006.mp4",
    "scheduled_time_ict": "2026-11-06 17:08",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/3085719828444450",
+   "views": "7"
+  },
+  {
+   "clip_file": "out/sea_god/clip_004.mp4",
+   "scheduled_time_ict": "2026-11-06 20:59",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/1583996840407487",
    "views": ""
   },
   {
@@ -2322,77 +2329,77 @@
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_004.mp4",
+   "clip_file": "out/virgin_sacrifice/clip_008.mp4",
    "scheduled_time_ict": "2026-11-07 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/virgin_sacrifice/clip_008.mp4",
+   "clip_file": "out/sea_god/clip_005.mp4",
    "scheduled_time_ict": "2026-11-07 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_005.mp4",
+   "clip_file": "out/billionaire_mother/clip_003.mp4",
    "scheduled_time_ict": "2026-11-07 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/billionaire_mother/clip_003.mp4",
+   "clip_file": "out/sea_god/clip_006.mp4",
    "scheduled_time_ict": "2026-11-08 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_006.mp4",
+   "clip_file": "out/billionaire_mother/clip_004.mp4",
    "scheduled_time_ict": "2026-11-08 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/billionaire_mother/clip_004.mp4",
+   "clip_file": "out/sea_god/clip_007.mp4",
    "scheduled_time_ict": "2026-11-08 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_007.mp4",
+   "clip_file": "out/rejected_luna/clip_001.mp4",
    "scheduled_time_ict": "2026-11-08 12:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/rejected_luna/clip_001.mp4",
+   "clip_file": "out/sea_god/clip_008.mp4",
    "scheduled_time_ict": "2026-11-09 02:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_008.mp4",
+   "clip_file": "out/rejected_luna/clip_002.mp4",
    "scheduled_time_ict": "2026-11-09 06:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/rejected_luna/clip_002.mp4",
+   "clip_file": "out/sea_god/clip_009.mp4",
    "scheduled_time_ict": "2026-11-09 09:00",
    "status": "planned",
    "post_url": "",
    "views": ""
   },
   {
-   "clip_file": "out/sea_god/clip_009.mp4",
+   "clip_file": "out/rejected_luna/clip_003.mp4",
    "scheduled_time_ict": "2026-11-09 12:00",
    "status": "planned",
    "post_url": "",
@@ -2426,24 +2433,24 @@
    },
    {
     "time": "06:00",
-    "clip": "sea_god/clip_004.mp4",
-    "title": "They called him a deckhand. The pirates got 3 seconds.",
-    "state": "待发"
-   },
-   {
-    "time": "09:00",
     "clip": "virgin_sacrifice/clip_008.mp4",
     "title": "She'd rather die than apologize. Her sister has a spell.",
     "state": "待发"
    },
    {
-    "time": "12:00",
+    "time": "09:00",
     "clip": "sea_god/clip_005.mp4",
     "title": "They bet he'd never bleed for her.",
     "state": "待发"
+   },
+   {
+    "time": "12:00",
+    "clip": "billionaire_mother/clip_003.mp4",
+    "title": "Told to wait in the bathroom. She was waiting for her son.",
+    "state": "待发"
    }
   ],
-  "queued": 38
+  "queued": 37
  },
  "alerts": [
   [
@@ -2476,7 +2483,7 @@
   ],
   [
    "ok",
-   "库存 38 条排队，约 9.5 天"
+   "库存 37 条排队，约 9.2 天"
   ]
  ],
  "competitors": {
