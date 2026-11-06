@@ -54,7 +54,7 @@
   ],
   [
    "11-06",
-   2
+   3
   ]
  ],
  "metrics_source": "out/metrics.csv",
@@ -140,7 +140,7 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1612730899844955",
    "promo": "https://reelslink.com/cps/GL2WcE",
-   "views": "50",
+   "views": "51",
    "tiktok": "Her sister bewitched the prince… and now the God of War is coming 🔮 Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_003_preview.mp4",
    "metrics": {
@@ -188,7 +188,7 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/29435518246034289",
    "promo": "https://reelslink.com/cps/EyDAqC",
-   "views": "16",
+   "views": "35",
    "tiktok": "His father called him worthless in front of everyone… big mistake. From Roaming the World Untamed on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #faceslap #fyp",
    "download": "media/roaming__clip_001_preview.mp4",
    "metrics": {
@@ -260,7 +260,7 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1365166598867159",
    "promo": "https://reelslink.com/cps/GL2WcE",
-   "views": "102",
+   "views": "127",
    "tiktok": "One sister gets the prince… the other gets the altar 🏛️ From The Virgin Sacrifice Who Seduced a God on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_004_preview.mp4",
    "metrics": {
@@ -332,7 +332,7 @@
    "status": "posted",
    "fb_url": "https://www.facebook.com/reel/1603883030930967",
    "promo": "https://reelslink.com/cps/GL2WcE",
-   "views": "23",
+   "views": "41",
    "tiktok": "The God of War gave her one choice: come willingly or watch her city burn ⚡ Clip from The Virgin Sacrifice Who Seduced a God on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #fantasy #fyp",
    "download": "media/virgin_sacrifice__clip_005_preview.mp4",
    "metrics": {
@@ -349,31 +349,40 @@
   },
   {
    "kind": "FB",
+   "slug": "sea_god",
+   "clip": "clip_003",
+   "hook": "He saved a god as a boy. Now he wants the favor back.",
+   "time": "11-06 14:50",
+   "status": "posted",
+   "fb_url": "https://www.facebook.com/reel/1108077882036582",
+   "promo": "https://reelslink.com/cps/eIReaT",
+   "views": null,
+   "tiktok": "He saved a sea god as a boy… decades later he came back to cash in the favor 🔱 Clip from The Sea God's Disguise on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
+   "download": "media/sea_god__clip_003_preview.mp4",
+   "metrics": {
+    "views": null,
+    "reach": null,
+    "likes": null,
+    "comments": null,
+    "shares": null,
+    "link_clicks": null,
+    "eng_rate": null,
+    "fetched": null
+   },
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
    "slug": "virgin_sacrifice",
    "clip": "clip_006",
    "hook": "She'll die in her sister's place. In a mask.",
-   "time": "11-06 13:00",
+   "time": "11-07 03:00",
    "status": "planned",
    "fb_url": "",
    "promo": "https://reelslink.com/cps/GL2WcE",
    "views": null,
    "tiktok": "She traded places with her sister… the bride and the sacrifice will both wear masks 🎭 From The Virgin Sacrifice Who Seduced a God on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #betrayal #fyp",
    "download": "media/virgin_sacrifice__clip_006_preview.mp4",
-   "metrics": null,
-   "platform": "Facebook"
-  },
-  {
-   "kind": "FB",
-   "slug": "sea_god",
-   "clip": "clip_003",
-   "hook": "He saved a god as a boy. Now he wants the favor back.",
-   "time": "11-07 03:00",
-   "status": "planned",
-   "fb_url": "",
-   "promo": "https://reelslink.com/cps/eIReaT",
-   "views": null,
-   "tiktok": "He saved a sea god as a boy… decades later he came back to cash in the favor 🔱 Clip from The Sea God's Disguise on ReelShort — full drama via link in bio. #ad #shortdrama #dramatiktok #secretidentity #fyp",
-   "download": "media/sea_god__clip_003_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -524,6 +533,21 @@
    "views": null,
    "tiktok": "Her ex came with roses… her husband came with her favorite cake 🌹 From The Sea God's Disguise: Fishing for Love on ReelShort — full drama: link in bio. #ad #shortdrama #dramatiktok #lovetriangle #fantasy #fyp",
    "download": "media/sea_god__clip_008_preview.mp4",
+   "metrics": null,
+   "platform": "Facebook"
+  },
+  {
+   "kind": "FB",
+   "slug": "rejected_luna",
+   "clip": "clip_002",
+   "hook": "She hid her wolf for him. He came home with a new mate.",
+   "time": "11-09 13:00",
+   "status": "planned",
+   "fb_url": "",
+   "promo": "https://reelslink.com/cps/JqYGXK",
+   "views": null,
+   "tiktok": "She hid her White Wolf to marry him… a year later he came home with a new mate 🌕 From Rejected Luna Is the Alpha Queen — full drama: link in bio. #ad #shortdrama #dramatiktok #werewolf #betrayal #fyp",
+   "download": "media/rejected_luna__clip_002_preview.mp4",
    "metrics": null,
    "platform": "Facebook"
   },
@@ -1023,7 +1047,7 @@
    "platform": "TikTok"
   }
  ],
- "generated": "2026-11-06 14:43（北京时间）",
+ "generated": "2026-11-06 14:50（北京时间）",
  "jobs": [
   {
    "name": "热剧榜每日抓取",
@@ -1035,18 +1059,18 @@
   },
   {
    "name": "FB 自动发帖队列",
-   "desc": "按 queue.csv 顺序发 FB Reels（已发 12）",
+   "desc": "按 queue.csv 顺序发 FB Reels（已发 13）",
    "sched": "按排期表 schedule.csv",
-   "last": "11-06 07:48",
-   "result": "成功（virgin_sacrifice/clip_005 https://www.facebook.com/reel/1603）",
-   "next": "11-06 13:00"
+   "last": "11-06 14:50",
+   "result": "成功（sea_god/clip_003 https://www.facebook.com/reel/1108077882036）",
+   "next": "11-07 03:00"
   },
   {
    "name": "链接评论自动挂",
    "desc": "帖子发出后在评论区挂 RS Boost 推广链接",
    "sched": "每次发帖后",
-   "last": "11-06 07:48",
-   "result": "失败（virgin_sacrifice/clip_005 variant B (link in caption); no mi）",
+   "last": "11-06 14:50",
+   "result": "成功（sea_god/clip_003 added (eIReaT); worth_chase A already had x）",
    "next": "随下次发帖"
   },
   {
@@ -1085,11 +1109,11 @@
  "queue": [
   {
    "platform": "Facebook",
-   "posted": 12,
+   "posted": 13,
    "scheduled": 12,
-   "remaining": 40,
+   "remaining": 39,
    "hold": 4,
-   "next_time": "11-06 13:00",
+   "next_time": "11-07 03:00",
    "next_title": "virgin_sacrifice"
   },
   {
@@ -1112,7 +1136,7 @@
   }
  ],
  "today": {
-  "views": 626,
+  "views": 689,
   "posts_with_views": 12,
   "earnings": {
    "yesterday": "$0.00",

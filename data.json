@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-06 13:43",
+ "generated_ict": "2026-11-06 13:50",
  "trends": {
   "file": "trends/out/2026-11-06.csv",
   "overseas": [
@@ -1397,9 +1397,9 @@
    "title": "He saved a god as a boy. Now he wants the favor back.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "已排期",
-   "post_url": "",
-   "scheduled_time_ict": "2026-11-07 02:00",
+   "status": "已发",
+   "post_url": "https://www.facebook.com/reel/1108077882036582",
+   "scheduled_time_ict": "2026-11-06 13:50",
    "thumb": "media/sea_god__clip_003_thumb.jpg",
    "preview": "media/sea_god__clip_003_preview.mp4",
    "note": ""
@@ -2087,9 +2087,9 @@
    "title": "She hid her wolf for him. He came home with a new mate.",
    "fb_caption_ready": "yes",
    "qa_ok": "yes",
-   "status": "剪好",
+   "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "",
+   "scheduled_time_ict": "2026-11-09 12:00",
    "thumb": "media/rejected_luna__clip_002_thumb.jpg",
    "preview": "media/rejected_luna__clip_002_preview.mp4",
    "note": ""
@@ -2179,7 +2179,7 @@
    "qa_ok": "yes",
    "status": "已排期",
    "post_url": "",
-   "scheduled_time_ict": "2026-11-06 12:00",
+   "scheduled_time_ict": "2026-11-07 02:00",
    "thumb": "media/virgin_sacrifice__clip_006_thumb.jpg",
    "preview": "media/virgin_sacrifice__clip_006_preview.mp4",
    "note": ""
@@ -2242,7 +2242,7 @@
    "scheduled_time_ict": "2026-11-04 15:51",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1612730899844955",
-   "views": "50"
+   "views": "51"
   },
   {
    "clip_file": "out/billionaire_mother/clip_002.mp4",
@@ -2256,7 +2256,7 @@
    "scheduled_time_ict": "2026-11-05 02:46",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/29435518246034289",
-   "views": "16"
+   "views": "35"
   },
   {
    "clip_file": "out/sea_god/clip_002.mp4",
@@ -2277,7 +2277,7 @@
    "scheduled_time_ict": "2026-11-05 16:52",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1365166598867159",
-   "views": "102"
+   "views": "127"
   },
   {
    "clip_file": "out/surf_god/clip_001.mp4",
@@ -2298,17 +2298,17 @@
    "scheduled_time_ict": "2026-11-06 06:48",
    "status": "posted",
    "post_url": "https://www.facebook.com/reel/1603883030930967",
-   "views": "23"
-  },
-  {
-   "clip_file": "out/virgin_sacrifice/clip_006.mp4",
-   "scheduled_time_ict": "2026-11-06 12:00",
-   "status": "planned",
-   "post_url": "",
-   "views": ""
+   "views": "41"
   },
   {
    "clip_file": "out/sea_god/clip_003.mp4",
+   "scheduled_time_ict": "2026-11-06 13:50",
+   "status": "posted",
+   "post_url": "https://www.facebook.com/reel/1108077882036582",
+   "views": ""
+  },
+  {
+   "clip_file": "out/virgin_sacrifice/clip_006.mp4",
    "scheduled_time_ict": "2026-11-07 02:00",
    "status": "planned",
    "post_url": "",
@@ -2383,6 +2383,13 @@
    "status": "planned",
    "post_url": "",
    "views": ""
+  },
+  {
+   "clip_file": "out/rejected_luna/clip_002.mp4",
+   "scheduled_time_ict": "2026-11-09 12:00",
+   "status": "planned",
+   "post_url": "",
+   "views": ""
   }
  ],
  "earnings": {
@@ -2412,24 +2419,24 @@
    },
    {
     "time": "06:00",
-    "clip": "sea_god/clip_003.mp4",
-    "title": "He saved a god as a boy. Now he wants the favor back.",
-    "state": "待发"
-   },
-   {
-    "time": "09:00",
     "clip": "virgin_sacrifice/clip_007.mp4",
     "title": "Her prince picked her sister. Then he got cruel.",
     "state": "待发"
    },
    {
-    "time": "12:00",
+    "time": "09:00",
     "clip": "sea_god/clip_004.mp4",
     "title": "They called him a deckhand. The pirates got 3 seconds.",
     "state": "待发"
+   },
+   {
+    "time": "12:00",
+    "clip": "virgin_sacrifice/clip_008.mp4",
+    "title": "She'd rather die than apologize. Her sister has a spell.",
+    "state": "待发"
    }
   ],
-  "queued": 40
+  "queued": 39
  },
  "alerts": [
   [
@@ -2439,14 +2446,6 @@
   [
    "missed",
    "11-06 09:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "11-06 12:00 时段已过，没有发布记录"
-  ],
-  [
-   "missed",
-   "out/virgin_sacrifice/clip_006.mp4 排期 11-06 12:00 已过，状态仍是 planned"
   ],
   [
    "tiktok_external_schedule",
@@ -2470,7 +2469,7 @@
   ],
   [
    "ok",
-   "库存 40 条排队，约 10.0 天"
+   "库存 39 条排队，约 9.8 天"
   ]
  ],
  "competitors": {
