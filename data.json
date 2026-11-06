@@ -1,5 +1,5 @@
 {
- "generated_ict": "2026-11-06 09:08",
+ "generated_ict": "2026-11-06 11:16",
  "trends": {
   "file": "trends/out/2026-11-06.csv",
   "overseas": [
@@ -2424,8 +2424,8 @@
    },
    {
     "time": "12:00",
-    "clip": "triplets/clip_002.mp4",
-    "title": "Her 18th birthday. They chose the maid's daughter.",
+    "clip": "virgin_sacrifice/clip_006.mp4",
+    "title": "She'll die in her sister's place. In a mask.",
     "state": "待发"
    }
   ],
@@ -2454,6 +2454,10 @@
   ],
   [
    "tiktok_dup_kept",
+   ""
+  ],
+  [
+   "tiktok_queue_reconcile",
    ""
   ],
   [
